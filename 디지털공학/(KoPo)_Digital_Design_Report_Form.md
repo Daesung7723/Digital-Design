@@ -39,7 +39,7 @@
 
 Describe the operation of your sequential logic circuit in 2–3 sentences.
 
-> (Example: This circuit is a 2-bit up/down counter. When input U = 1, the counter counts up; when U = 0, it counts down. The output represents the current counter value.)
+> (Example: This circuit is a 4-way intersection traffic light system that sequentially controls signals for the North-South (NS) and East-West (EW) directions. Each direction outputs red, green, and yellow signals that transition based on the current state.)
 
 ---
 
@@ -63,6 +63,8 @@ Draw a block diagram including all elements listed below and insert it as an ima
 |----------|------|-------------|
 | | Input | |
 | | Output | |
+
+*Add rows as needed. For systems with multiple outputs (e.g., R·Y·G signals per direction), list each signal separately.*
 
 **Circuit type**: Mealy &nbsp;&nbsp; / &nbsp;&nbsp; Moore &nbsp;&nbsp; (circle one)
 
@@ -116,14 +118,14 @@ Fill in the current state, input, next state, output, and J·K input values for 
 
 #### State Table
 
-| Current State | Input | Next State | Output | J₁ | K₁ | J₀ | K₀ |
-|:-------------:|:-----:|:----------:|:------:|:--:|:--:|:--:|:--:|
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
-| | | | | | | | |
+| Current State | Input | Next State | Output | J₂ | K₂ | J₁ | K₁ | J₀ | K₀ |
+|:-------------:|:-----:|:----------:|:------:|:--:|:--:|:--:|:--:|:--:|:--:|
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
+| | | | | | | | | | |
 
-*Add columns as needed based on the number of flip-flops used.*
+*If using only 2 flip-flops, remove the J₂·K₂ columns. (2 FFs: up to 4 states / 3 FFs: up to 8 states)*
 
 ---
 
