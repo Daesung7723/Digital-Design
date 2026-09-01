@@ -7,7 +7,7 @@ Mano & Ciletti, *Digital Design* (6판)을 교재로 하는 디지털 논리 설
 
 | 폴더 | 내용 |
 |------|------|
-| `Chapters/` | 장별 보조학습자료 (Mano 1~8장, 15개 문서) — 수업 판서 설명을 문장으로 복원한 자율복습용 자료 |
+| `Chapters/` | 장별 보조학습자료 (Mano 1~8장, 15개 문서) — 핵심 개념과 풀이 과정을 본문 서술로 정리한 복습용 자료 |
 | `Chapters/slides/` | 장별 강의 슬라이드 PDF |
 | `Courses/` | 개설 과목별 안내 — 수강 중인 과목 폴더의 README를 먼저 확인하십시오 |
 
@@ -19,8 +19,3 @@ Mano & Ciletti, *Digital Design* (6판)을 교재로 하는 디지털 논리 설
 | 컨트롤로직 설계 | 단국대학교 전자전기공학과 | 2026-2 | [DKU_2026-2_컨트롤로직설계](Courses/DKU_2026-2_컨트롤로직설계/README.md) |
 
 > 두 과목 모두 같은 교재(Mano 6판)를 사용하므로 `Chapters/` 자료를 공용합니다. 과목별 진도와 장 대응은 각 과목 README의 표를 따르십시오.
-
-## 저장소 이력
-
-- 구 이름 `KoPo2026_1` → `Digital-Design` (2026-09-01, 원천 교재 기준으로 재편)
-- 운영체제 실습 자료는 [Linux-Lab](https://github.com/Daesung7723/Linux-Lab) 저장소로 분리
