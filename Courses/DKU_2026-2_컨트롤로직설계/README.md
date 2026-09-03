@@ -27,3 +27,31 @@
 | 15 | 12/15 (화) | 기말고사 · 프로젝트 최종 제출 | 전 범위 누적 | — |
 
 > 시험 범위는 해당 시점까지 수업에서 다룬 전 과정입니다. 과제·프로젝트 안내는 수업 시간과 별도 공지를 따르십시오.
+
+## 도구 준비
+
+수업에서 사용하는 도구는 두 가지이며, 모두 무료입니다.
+
+### 1. Logisim Evolution — 회로 시뮬레이터
+
+수업 중 시연과 과제 검증에 사용합니다. **2회차(9/10) 전까지 설치**해 두십시오.
+
+- 내려받는 곳: <https://github.com/logisim-evolution/logisim-evolution/releases> (Releases 페이지의 최신 안정판)
+- 2026-09 기준 최신 버전은 **4.1.0**입니다.
+
+| 사용 환경 | 받을 파일 | 비고 |
+|------|------|------|
+| Windows (Intel·AMD) | `logisim-evolution-<버전>-amd64.msi` | 설치본에 Java가 포함되어 있어 **Java를 따로 설치하지 않아도 됩니다** |
+| Windows (ARM) | `logisim-evolution-<버전>-aarch64.msi` | 〃 |
+| macOS (Apple Silicon) | `logisim-evolution-<버전>-aarch64.dmg` | 〃 |
+| macOS (Intel) | `logisim-evolution-<버전>-x86_64.dmg` | 〃 |
+| 그 외 (설치 없이 실행) | `logisim-evolution-<버전>-all.jar` | 이 파일만 **Java 21 이상**이 미리 설치되어 있어야 실행됩니다 |
+
+- 자기 노트북이 없으면 학교 실습실·도서관 PC를 이용해도 됩니다.
+- 설치 파일 이름의 `<버전>` 자리에는 내려받는 시점의 버전 번호가 들어갑니다(예: `4.1.0`).
+
+### 2. EDA Playground — HDL(VHDL) 실행 환경
+
+브라우저에서 바로 실행하므로 **설치가 필요 없습니다**. 4회차(10/1)부터 수업에서 함께 사용하며, 구글 계정 로그인이 필요합니다.
+
+- 주소: <https://edaplayground.com>
