@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="816" height="138" viewBox="0 0 816 138" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<defs><pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#9AA3B2" stroke-width="2"/></pattern></defs>
+<rect x="0" y="0" width="816" height="138" fill="#FFFFFF"/>
+<line x1="129.0" y1="28" x2="129.0" y2="126" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="129.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">①</text>
+<line x1="265.0" y1="28" x2="265.0" y2="126" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="265.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">②</text>
+<line x1="401.0" y1="28" x2="401.0" y2="126" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="401.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">③</text>
+<line x1="537.0" y1="28" x2="537.0" y2="126" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="537.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">④</text>
+<line x1="673.0" y1="28" x2="673.0" y2="126" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="673.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">⑤</text>
+<text x="68" y="61.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">CLK</text>
+<line x1="78.0" y1="68" x2="129.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="129.0" y1="68" x2="129.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="129.0" y1="44" x2="197.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="197.0" y1="44" x2="197.0" y2="68" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="197.0" y1="68" x2="265.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="265.0" y1="68" x2="265.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="265.0" y1="44" x2="333.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="333.0" y1="44" x2="333.0" y2="68" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="333.0" y1="68" x2="401.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="401.0" y1="68" x2="401.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="401.0" y1="44" x2="469.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="469.0" y1="44" x2="469.0" y2="68" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="469.0" y1="68" x2="537.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="537.0" y1="68" x2="537.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="537.0" y1="44" x2="605.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="605.0" y1="44" x2="605.0" y2="68" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="605.0" y1="68" x2="673.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="673.0" y1="68" x2="673.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="673.0" y1="44" x2="741.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="741.0" y1="44" x2="741.0" y2="68" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="741.0" y1="68" x2="792.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="78" y1="80.0" x2="792" y2="80.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="68" y="107.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">D</text>
+<line x1="78.0" y1="114" x2="180.0" y2="114" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="180.0" y1="114" x2="180.0" y2="90" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="180.0" y1="90" x2="367.0" y2="90" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="367.0" y1="90" x2="367.0" y2="114" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="367.0" y1="114" x2="452.0" y2="114" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="452.0" y1="114" x2="452.0" y2="90" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="452.0" y1="90" x2="503.0" y2="90" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="503.0" y1="90" x2="503.0" y2="114" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="503.0" y1="114" x2="605.0" y2="114" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="605.0" y1="114" x2="605.0" y2="90" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="605.0" y1="90" x2="792.0" y2="90" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="78" y1="126.0" x2="792" y2="126.0" stroke="#E4E8EF" stroke-width="1"/>
+</svg>

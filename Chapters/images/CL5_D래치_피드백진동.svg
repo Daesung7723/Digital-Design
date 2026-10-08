@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="622" height="204" viewBox="0 0 622 204" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<defs><pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#9AA3B2" stroke-width="2"/></pattern></defs>
+<rect x="0" y="0" width="622" height="204" fill="#FFFFFF"/>
+<rect x="158.0" y="108" width="320.0" height="42" fill="#E8E1FF" opacity="0.7" rx="3"/>
+<text x="68" y="41.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">En</text>
+<line x1="78.0" y1="48" x2="158.0" y2="48" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="158.0" y1="48" x2="158.0" y2="24" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="158.0" y1="24" x2="478.0" y2="24" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="478.0" y1="24" x2="478.0" y2="48" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="478.0" y1="48" x2="598.0" y2="48" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="78" y1="60.0" x2="598" y2="60.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="68" y="87.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">D=Q′</text>
+<line x1="78.0" y1="70" x2="198.0" y2="70" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="198.0" y1="70" x2="198.0" y2="94" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="198.0" y1="94" x2="238.0" y2="94" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="238.0" y1="94" x2="238.0" y2="70" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="238.0" y1="70" x2="278.0" y2="70" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="278.0" y1="70" x2="278.0" y2="94" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="278.0" y1="94" x2="318.0" y2="94" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="318.0" y1="94" x2="318.0" y2="70" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="318.0" y1="70" x2="358.0" y2="70" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="358.0" y1="70" x2="358.0" y2="94" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="358.0" y1="94" x2="398.0" y2="94" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="398.0" y1="94" x2="398.0" y2="70" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="398.0" y1="70" x2="438.0" y2="70" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="438.0" y1="70" x2="438.0" y2="94" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="438.0" y1="94" x2="478.0" y2="94" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<rect x="478.0" y="70" width="120.0" height="24" fill="url(#hatch)" stroke="#1F2A44" stroke-width="1.6"/>
+<line x1="78" y1="106.0" x2="598" y2="106.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="68" y="133.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">Q</text>
+<line x1="78.0" y1="140" x2="198.0" y2="140" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="198.0" y1="140" x2="198.0" y2="116" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="198.0" y1="116" x2="238.0" y2="116" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="238.0" y1="116" x2="238.0" y2="140" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="238.0" y1="140" x2="278.0" y2="140" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="278.0" y1="140" x2="278.0" y2="116" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="278.0" y1="116" x2="318.0" y2="116" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="318.0" y1="116" x2="318.0" y2="140" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="318.0" y1="140" x2="358.0" y2="140" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="358.0" y1="140" x2="358.0" y2="116" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="358.0" y1="116" x2="398.0" y2="116" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="398.0" y1="116" x2="398.0" y2="140" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="398.0" y1="140" x2="438.0" y2="140" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="438.0" y1="140" x2="438.0" y2="116" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="438.0" y1="116" x2="478.0" y2="116" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<rect x="478.0" y="116" width="120.0" height="24" fill="url(#hatch)" stroke="#1F2A44" stroke-width="1.6"/>
+<line x1="78" y1="152.0" x2="598" y2="152.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="158.0" y="170" font-size="12" text-anchor="middle" fill="#44506A">En↑</text>
+<text x="478.0" y="170" font-size="12" text-anchor="middle" fill="#44506A">En↓</text>
+<text x="538.0" y="170" font-size="12" text-anchor="middle" fill="#44506A">값 예측 불가</text>
+<text x="8" y="198" font-size="12" fill="#44506A">음영 = En = 1 구간 — Q가 바뀔 때마다 D(= Q′)가 바뀌어 t_d마다 반전(진동)한다</text>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="606" height="250" viewBox="0 0 606 250" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<defs><pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#9AA3B2" stroke-width="2"/></pattern></defs>
+<rect x="0" y="0" width="606" height="250" fill="#FFFFFF"/>
+<rect x="186.0" y="108" width="108.0" height="42" fill="#FFD6D6" opacity="0.7" rx="3"/>
+<text x="190.0" y="133.0" font-size="11" fill="#6A3D00">Q = Q′ = 0</text>
+<rect x="186.0" y="154" width="108.0" height="42" fill="#FFD6D6" opacity="0.7" rx="3"/>
+<text x="190.0" y="179.0" font-size="11" fill="#6A3D00">보수 관계 깨짐</text>
+<rect x="294.0" y="108" width="180.0" height="42" fill="#E8E1FF" opacity="0.7" rx="3"/>
+<text x="298.0" y="133.0" font-size="11" fill="#6A3D00">지연이 같으면 진동</text>
+<text x="68" y="41.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">S</text>
+<line x1="78.0" y1="48" x2="150.0" y2="48" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="150.0" y1="48" x2="150.0" y2="24" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="150.0" y1="24" x2="294.0" y2="24" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="294.0" y1="24" x2="294.0" y2="48" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="294.0" y1="48" x2="582.0" y2="48" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="78" y1="60.0" x2="582" y2="60.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="68" y="87.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">R</text>
+<line x1="78.0" y1="94" x2="150.0" y2="94" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="150.0" y1="94" x2="150.0" y2="70" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="150.0" y1="70" x2="294.0" y2="70" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="294.0" y1="70" x2="294.0" y2="94" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="294.0" y1="94" x2="582.0" y2="94" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="78" y1="106.0" x2="582" y2="106.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="68" y="133.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">Q</text>
+<line x1="78.0" y1="116" x2="186.0" y2="116" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="186.0" y1="116" x2="186.0" y2="140" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="186.0" y1="140" x2="330.0" y2="140" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="330.0" y1="140" x2="330.0" y2="116" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="330.0" y1="116" x2="366.0" y2="116" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="366.0" y1="116" x2="366.0" y2="140" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="366.0" y1="140" x2="402.0" y2="140" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="402.0" y1="140" x2="402.0" y2="116" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="402.0" y1="116" x2="438.0" y2="116" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="438.0" y1="116" x2="438.0" y2="140" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="438.0" y1="140" x2="474.0" y2="140" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<rect x="474.0" y="116" width="108.0" height="24" fill="url(#hatch)" stroke="#1F2A44" stroke-width="1.6"/>
+<line x1="78" y1="152.0" x2="582" y2="152.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="68" y="179.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">Q′</text>
+<line x1="78.0" y1="186" x2="330.0" y2="186" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="330.0" y1="186" x2="330.0" y2="162" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="330.0" y1="162" x2="366.0" y2="162" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="366.0" y1="162" x2="366.0" y2="186" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="366.0" y1="186" x2="402.0" y2="186" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="402.0" y1="186" x2="402.0" y2="162" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="402.0" y1="162" x2="438.0" y2="162" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="438.0" y1="162" x2="438.0" y2="186" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="438.0" y1="186" x2="474.0" y2="186" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<rect x="474.0" y="162" width="108.0" height="24" fill="url(#hatch)" stroke="#1F2A44" stroke-width="1.6"/>
+<line x1="78" y1="198.0" x2="582" y2="198.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="150.0" y="216" font-size="12" text-anchor="middle" fill="#44506A">(1,1) 인가</text>
+<text x="294.0" y="216" font-size="12" text-anchor="middle" fill="#44506A">동시에 (0,0)</text>
+<text x="528.0" y="216" font-size="12" text-anchor="middle" fill="#44506A">정착값 예측 불가</text>
+<text x="8" y="244" font-size="12" fill="#44506A">실제 소자는 두 게이트의 지연 차이로 0 또는 1에 정착한다 — 어느 값에 정착할지는 회로도로 정할 수 없다</text>
+</svg>

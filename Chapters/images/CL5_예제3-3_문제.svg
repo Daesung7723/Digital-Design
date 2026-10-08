@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="606" height="136" viewBox="0 0 606 136" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<defs><pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#9AA3B2" stroke-width="2"/></pattern></defs>
+<rect x="0" y="0" width="606" height="136" fill="#FFFFFF"/>
+<text x="68" y="41.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">En</text>
+<line x1="78.0" y1="24" x2="186.0" y2="24" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="186.0" y1="24" x2="186.0" y2="48" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="186.0" y1="48" x2="330.0" y2="48" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="330.0" y1="48" x2="330.0" y2="24" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="330.0" y1="24" x2="438.0" y2="24" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="438.0" y1="24" x2="438.0" y2="48" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="438.0" y1="48" x2="582.0" y2="48" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="78" y1="60.0" x2="582" y2="60.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="68" y="87.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">Q</text>
+<line x1="78.0" y1="94" x2="114.0" y2="94" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="114.0" y1="94" x2="114.0" y2="70" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="114.0" y1="70" x2="366.0" y2="70" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="366.0" y1="70" x2="366.0" y2="94" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="366.0" y1="94" x2="582.0" y2="94" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="78" y1="106.0" x2="582" y2="106.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="78.0" y="124" font-size="12" text-anchor="middle" fill="#44506A">0</text>
+<text x="186.0" y="124" font-size="12" text-anchor="middle" fill="#44506A">3</text>
+<text x="330.0" y="124" font-size="12" text-anchor="middle" fill="#44506A">7</text>
+<text x="438.0" y="124" font-size="12" text-anchor="middle" fill="#44506A">10</text>
+<text x="582.0" y="124" font-size="12" text-anchor="middle" fill="#44506A">14</text>
+</svg>
