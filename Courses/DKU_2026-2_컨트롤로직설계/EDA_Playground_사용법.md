@@ -3,7 +3,7 @@
 [교재 회로로 배우는 HDL](../../Chapters/교재_회로로_배우는_HDL.md)의 VHDL 코드를 브라우저에서 직접 실행합니다. 설치할 것은 없고 구글 계정 로그인만 필요합니다.
 
 - 주소: <https://edaplayground.com>
-- 처음 사용하는 회차: **4회차**
+- 처음 사용하는 회차: **3회차(9/17)**
 
 ---
 
@@ -22,7 +22,22 @@
 
 - Tools & Simulators 목록에 GHDL이 없으면 → 언어를 아직 바꾸지 않은 것입니다. 표의 첫 줄로 돌아가 **Testbench + Design을 VHDL로** 고치십시오. 목록은 언어에 따라 바뀝니다.
 
-**Import · Make · Run · Simulator Options 네 칸은 모두 비워 둡니다.** Libraries·VUnit 등 나머지 항목도 손대지 않습니다 — 이 과목에서 쓰지 않습니다.
+**Import · Make · Run Options 세 칸은 비워 둡니다.** Libraries·VUnit 등 나머지 항목도 손대지 않습니다 — 이 과목에서 사용하지 않습니다.
+
+**Simulator Options** 칸은 클럭이 있는 코드(5장부터 — 플립플롭·카운터 등)를 실행할 때만 입력합니다(아래 1-1). 조합회로(3·4장) 코드를 실행할 때는 비워 둡니다.
+
+### 1-1. 클럭이 있는 코드 — 정지 시각 지정
+
+클럭을 만드는 테스트벤치(`clk <= not clk after 5 ns;`)는 클럭이 계속 바뀌므로 시뮬레이션이 스스로 끝나지 않습니다. **Simulator Options** 칸에 정지 시각을 입력합니다.
+
+```
+--stop-time=50ns
+```
+
+- 값은 테스트벤치 입력 시나리오의 마지막 시각보다 조금 길게 정합니다(5장 `tb_d_ff` = `50ns`).
+- **Run Options** 칸에는 입력하지 않습니다. Run Options에 입력하면 옵션이 실행 명령의 잘못된 위치에 놓여 오류가 발생합니다.
+
+**확인** — Simulator Options 칸에 `--stop-time=50ns`가 표시되고 Run Options 칸이 비어 있으면 됩니다.
 
 ---
 
@@ -68,6 +83,8 @@
 성공하면 마지막 줄이 `Done`이고 그 위에 오류 줄이 없습니다.
 
 - `missing entity, architecture, package or configuration`이 나오고 그 아래에 `//`로 시작하는 줄이 함께 표시되면 → **2-1로 돌아가 기본 주석을 지우고** 다시 Run 합니다.
+- Run이 실행 제한 시간까지 계속되다가 중단되고(Log에 종료 코드 `137` 표시) EPWave가 열리지 않으면 → 클럭이 있는 코드입니다. **1-1로 돌아가 Simulator Options에 정지 시각을 입력하고** 다시 Run 합니다.
+- Run Options에 `--stop-time`을 입력한 뒤 오류가 발생했으면 → **Run Options 칸을 비우고 1-1대로 Simulator Options에 입력한 뒤** 다시 Run 합니다.
 - 그 밖의 오류에는 **파일 이름과 줄 번호**가 함께 표시됩니다(예: `design.vhd:12:5`). 그 줄을 HDL 자료의 코드와 한 글자씩 대조하십시오. 세미콜론 누락과 `end` 뒤의 이름이 가장 흔합니다.
 
 **확인 2 — 파형**
