@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="550" height="466" viewBox="0 0 550 466" font-family="Malgun Gothic, 'Noto Sans KR', sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1F2937"/></marker><marker id="ahc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#C0392B"/></marker></defs>
+<rect x="0" y="0" width="550" height="466" fill="#FFFFFF"/>
+<g transform="translate(0,0)">
+<path d="M177.0,120.0 L372.0,120.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M400.0,147.0 L400.0,292.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M373.0,320.0 L178.0,320.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M150.0,293.0 L150.0,148.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M124.2,112.1 C66.4,116.1 146.1,36.4 142.1,94.2" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M407.9,94.2 C403.9,36.4 483.6,116.1 425.8,112.1" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M425.8,327.9 C483.6,323.9 403.9,403.6 407.9,345.8" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M142.1,345.8 C146.1,403.6 66.4,323.9 124.2,327.9" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<circle cx="150" cy="120" r="27" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="150" y="125.5" text-anchor="middle" font-size="16" font-weight="bold" fill="#1F2937">00</text>
+<circle cx="400" cy="120" r="27" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="400" y="125.5" text-anchor="middle" font-size="16" font-weight="bold" fill="#1F2937">01</text>
+<circle cx="400" cy="320" r="27" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="400" y="325.5" text-anchor="middle" font-size="16" font-weight="bold" fill="#1F2937">10</text>
+<circle cx="150" cy="320" r="27" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="150" y="325.5" text-anchor="middle" font-size="16" font-weight="bold" fill="#1F2937">11</text>
+<rect x="266.6" y="97.0" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="274.8" y="112.0" text-anchor="middle" font-size="14" fill="#1F2937">1</text>
+<rect x="404.9" y="209.8" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="413.0" y="224.8" text-anchor="middle" font-size="14" fill="#1F2937">1</text>
+<rect x="267.1" y="323.0" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="275.2" y="338.0" text-anchor="middle" font-size="14" fill="#1F2937">1</text>
+<rect x="128.9" y="210.2" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="137.0" y="225.2" text-anchor="middle" font-size="14" fill="#1F2937">1</text>
+<rect x="85.7" y="53.8" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="93.8" y="68.8" text-anchor="middle" font-size="14" fill="#1F2937">0</text>
+<rect x="448.1" y="53.8" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="456.2" y="68.8" text-anchor="middle" font-size="14" fill="#1F2937">0</text>
+<rect x="448.1" y="366.2" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="456.2" y="381.2" text-anchor="middle" font-size="14" fill="#1F2937">0</text>
+<rect x="85.7" y="366.2" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="93.8" y="381.2" text-anchor="middle" font-size="14" fill="#1F2937">0</text>
+</g>
+<text x="10" y="458" font-size="12.5" fill="#4B5563">원 = 상태 AB · 화살표 위 = 입력 x · 같은 상태로 돌아오는 고리 = 상태 유지</text>
+</svg>

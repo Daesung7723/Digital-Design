@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="396" viewBox="0 0 560 396" font-family="Malgun Gothic, 'Noto Sans KR', sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1F2937"/></marker><marker id="ahc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#C0392B"/></marker></defs>
+<rect x="0" y="0" width="560" height="396" fill="#FFFFFF"/>
+<g transform="translate(0,0)">
+<path d="M225.1,69.5 L287.0,105.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M313.0,149.0 L313.0,220.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M287.9,264.5 L226.0,300.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M174.9,300.5 L113.0,265.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M87.0,221.0 L87.0,150.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M112.1,105.5 L174.0,70.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M458.5,146.6 Q442.0,185.0 458.1,222.4" fill="none" stroke="#C0392B" stroke-width="1.8" marker-end="url(#ahc)"/>
+<path d="M481.5,223.4 Q498.0,185.0 481.9,147.6" fill="none" stroke="#C0392B" stroke-width="1.8" marker-end="url(#ahc)"/>
+<circle cx="200" cy="55" r="29" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="200" y="60.5" text-anchor="middle" font-size="16" font-weight="bold" fill="#1F2937">000</text>
+<circle cx="313" cy="120" r="29" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="313" y="125.5" text-anchor="middle" font-size="16" font-weight="bold" fill="#1F2937">001</text>
+<circle cx="313" cy="250" r="29" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="313" y="255.5" text-anchor="middle" font-size="16" font-weight="bold" fill="#1F2937">011</text>
+<circle cx="200" cy="315" r="29" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="200" y="320.5" text-anchor="middle" font-size="16" font-weight="bold" fill="#1F2937">111</text>
+<circle cx="87" cy="250" r="29" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="87" y="255.5" text-anchor="middle" font-size="16" font-weight="bold" fill="#1F2937">110</text>
+<circle cx="87" cy="120" r="29" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="87" y="125.5" text-anchor="middle" font-size="16" font-weight="bold" fill="#1F2937">100</text>
+<circle cx="470" cy="120" r="29" fill="#FDECEC" stroke="#C0392B" stroke-width="2"/>
+<text x="470" y="125.5" text-anchor="middle" font-size="16" font-weight="bold" fill="#1F2937">010</text>
+<circle cx="470" cy="250" r="29" fill="#FDECEC" stroke="#C0392B" stroke-width="2"/>
+<text x="470" y="255.5" text-anchor="middle" font-size="16" font-weight="bold" fill="#1F2937">101</text>
+</g>
+<text x="10" y="388" font-size="12.5" fill="#4B5563">입력 없음 — 매 클럭 화살표를 따라 한 칸 이동 · 빨간 두 상태는 왼쪽 순환으로 들어가지 못함</text>
+</svg>

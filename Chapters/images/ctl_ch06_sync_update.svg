@@ -1,0 +1,178 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<defs><marker id="arw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1F2A44"/></marker><marker id="arwT" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#4A7D7C"/></marker><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1F2937"/></marker><marker id="ahc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#C0392B"/></marker></defs>
+<rect width="1280" height="720" fill="#FFFFFF"/>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.00000;0.00800;0.29867;0.30667;1" dur="37.5s" repeatCount="indefinite"/>
+<rect x="60" y="30" width="87" height="34" rx="17" fill="#1F2A44"/>
+<text x="103.5" y="53.0" font-size="17" font-weight="bold" text-anchor="middle" fill="#FFFFFF">상태표</text>
+<text x="60.0" y="106.0" font-size="34" font-weight="bold" text-anchor="start" fill="#111111">계산과 저장의 시점</text>
+<text x="60.0" y="142.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A">러닝 예제 · 현재 상태 AB = 01 · 입력 x = 1</text>
+<text x="1220.0" y="52.0" font-size="15" font-weight="normal" text-anchor="end" fill="#7A8BA6">1 / 3</text>
+<rect x="572" y="196" width="176" height="236" rx="8" fill="#DCEBFF" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.09067;0.09733;0.13733;0.14400;1" dur="37.5s" repeatCount="indefinite"/></rect>
+<text x="650.0" y="302.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#1F2A44" opacity="0">에지 전<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.09067;0.09733;0.13733;0.14400;1" dur="37.5s" repeatCount="indefinite"/></text>
+<rect x="300" y="220" width="260" height="180" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/>
+<text x="430.0" y="256.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">조합논리</text>
+<text x="430.0" y="316.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#1F2A44">D<tspan dy="7" font-size="70%">A</tspan><tspan dy="-7"> = Ax + Bx</tspan></text>
+<text x="430.0" y="362.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#1F2A44">D<tspan dy="7" font-size="70%">B</tspan><tspan dy="-7"> = A′x</tspan></text>
+<path d="M150,262 H298" fill="none" stroke="#1F2A44" stroke-width="3.5" marker-end="url(#arw)"/>
+<text x="140.0" y="270.0" font-size="24" font-weight="bold" text-anchor="end" fill="#1F2A44">x = 1</text>
+<rect x="760" y="205" width="160" height="90" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/>
+<text x="840.0" y="258.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">FF A</text>
+<rect x="760" y="325" width="160" height="90" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/>
+<text x="840.0" y="378.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">FF B</text>
+<path d="M560,235 H758" fill="none" stroke="#1F2A44" stroke-width="3.5" marker-end="url(#arw)"/>
+<path d="M560,355 H732 A8,8 0 0 1 748,355 H758" fill="none" stroke="#1F2A44" stroke-width="3.5" marker-end="url(#arw)"/>
+<text x="590.0" y="223.0" font-size="22" font-weight="bold" text-anchor="start" fill="#1F2A44">D<tspan dy="7" font-size="70%">A</tspan><tspan dy="-7"></tspan></text>
+<text x="590.0" y="343.0" font-size="22" font-weight="bold" text-anchor="start" fill="#1F2A44">D<tspan dy="7" font-size="70%">B</tspan><tspan dy="-7"></tspan></text>
+<text x="650.0" y="223.0" font-size="22" font-weight="bold" text-anchor="start" fill="#111111" opacity="0">= 1<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.09600;0.10267;1" dur="37.5s" repeatCount="indefinite"/></text>
+<text x="650.0" y="343.0" font-size="22" font-weight="bold" text-anchor="start" fill="#111111" opacity="0">= 1<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.09600;0.10267;1" dur="37.5s" repeatCount="indefinite"/></text>
+<path d="M920,250 H980 V470 H430" fill="none" stroke="#1F2A44" stroke-width="3.5"/>
+<path d="M430,470 V403" fill="none" stroke="#1F2A44" stroke-width="3.5" marker-end="url(#arw)"/>
+<path d="M920,370 H980" fill="none" stroke="#1F2A44" stroke-width="3.5"/>
+<text x="705.0" y="496.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke">현재 상태 A · B</text>
+<text x="950" y="240" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111" opacity="0">0<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.00000;0.14400" dur="37.5s" repeatCount="indefinite" calcMode="discrete"/></text>
+<text x="950" y="240" font-size="24" font-weight="bold" text-anchor="middle" fill="#C0392B" opacity="0">1<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.14400;0.30667" dur="37.5s" repeatCount="indefinite" calcMode="discrete"/></text>
+<text x="950" y="360" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111" opacity="0">1<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.00000;0.14400" dur="37.5s" repeatCount="indefinite" calcMode="discrete"/></text>
+<text x="950" y="360" font-size="24" font-weight="bold" text-anchor="middle" fill="#C0392B" opacity="0">1<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.14400;0.30667" dur="37.5s" repeatCount="indefinite" calcMode="discrete"/></text>
+<path d="M700,440 H740 V275" fill="none" stroke="#1F2A44" stroke-width="2"/>
+<path d="M740,275 H758" fill="none" stroke="#1F2A44" stroke-width="2" marker-end="url(#arw)"/>
+<path d="M740,395 H758" fill="none" stroke="#1F2A44" stroke-width="2" marker-end="url(#arw)"/>
+<text x="690.0" y="448.0" font-size="20" font-weight="bold" text-anchor="end" fill="#1F2A44">CLK</text>
+<text x="756.0" y="450.0" font-size="20" font-weight="bold" text-anchor="start" fill="#C0392B" opacity="0">↑ 클럭 에지<animate attributeName="opacity" values="0;0;1;1;0.12;1;0.12;1;1" keyTimes="0.00000;0.12267;0.12933;0.13333;0.13867;0.14400;0.14933;0.15467;1.00000" dur="37.5s" repeatCount="indefinite"/></text>
+<circle r="9" fill="#C0392B" opacity="0"><animateMotion path="M150,262 L298,262" keyPoints="0;0;1;1" keyTimes="0;0.02667;0.05867;1" calcMode="linear" dur="37.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.02400;0.02667;0.06400;0.06667;1" dur="37.5s" repeatCount="indefinite"/></circle>
+<circle r="9" fill="#C0392B" opacity="0"><animateMotion path="M980,470 L430,470 L430,404" keyPoints="0;0;1;1" keyTimes="0;0.02667;0.06933;1" calcMode="linear" dur="37.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.02400;0.02667;0.07467;0.07733;1" dur="37.5s" repeatCount="indefinite"/></circle>
+<circle r="9" fill="#C0392B" opacity="0"><animateMotion path="M560,235 L756,235" keyPoints="0;0;1;1" keyTimes="0;0.07467;0.09600;1" calcMode="linear" dur="37.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.07200;0.07467;0.10133;0.10400;1" dur="37.5s" repeatCount="indefinite"/></circle>
+<circle r="9" fill="#C0392B" opacity="0"><animateMotion path="M560,355 L756,355" keyPoints="0;0;1;1" keyTimes="0;0.07467;0.09600;1" calcMode="linear" dur="37.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.07200;0.07467;0.10133;0.10400;1" dur="37.5s" repeatCount="indefinite"/></circle>
+<rect x="750" y="195" width="180" height="230" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;0.12;1;0.12;1;1" keyTimes="0.00000;0.14133;0.14240;0.14773;0.15307;0.15840;0.16373;1.00000" dur="37.5s" repeatCount="indefinite"/></rect>
+<text x="1100.0" y="300.0" font-size="30" font-weight="bold" text-anchor="middle" fill="#C0392B" opacity="0">AB: 01 → 11<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.14933;0.15600;1" dur="37.5s" repeatCount="indefinite"/></text>
+<text x="1100.0" y="340.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A" opacity="0">A 0 → 1 · B 1 → 1<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.14933;0.15600;1" dur="37.5s" repeatCount="indefinite"/></text>
+<rect x="48" y="618" width="555" height="44" rx="8" fill="#FDECEC" stroke="#C0392B" stroke-width="2.5" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.18933;0.19600;0.26000;0.26667;1" dur="37.5s" repeatCount="indefinite"/></rect>
+<text x="64.0" y="650.0" font-size="28" font-weight="bold" text-anchor="start" fill="#C0392B">계산은 에지 전 · 저장은 에지에서 동시에<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.18933;0.19600;1" dur="37.5s" repeatCount="indefinite"/></text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.30667;0.31467;0.68533;0.69333;1" dur="37.5s" repeatCount="indefinite"/>
+<rect x="60" y="30" width="87" height="34" rx="17" fill="#1F2A44"/>
+<text x="103.5" y="53.0" font-size="17" font-weight="bold" text-anchor="middle" fill="#FFFFFF">상태표</text>
+<text x="60.0" y="106.0" font-size="34" font-weight="bold" text-anchor="start" fill="#111111">입력 열 계산에 쓰는 A의 값</text>
+<text x="60.0" y="142.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A">현재 상태 AB = 01 · 입력 x = 1 — 같은 행의 두 풀이</text>
+<text x="1220.0" y="52.0" font-size="15" font-weight="normal" text-anchor="end" fill="#7A8BA6">2 / 3</text>
+<line x1="640" y1="182" x2="640" y2="580" stroke="#E4E8EF" stroke-width="2"/>
+<text x="80.0" y="206.0" font-size="22" font-weight="bold" text-anchor="start" fill="#111111">오답 — 다음 상태 A를 대입</text>
+<text x="80.0" y="250.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A">현재 AB = 01 · x = 1</text>
+<text x="80.0" y="304.0" font-size="24" font-weight="bold" text-anchor="start" fill="#1F2A44" opacity="0">D<tspan dy="7" font-size="70%">A</tspan><tspan dy="-7"> = Ax + Bx = 0·1 + 1·1 = 1</tspan><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.32800;0.33467;1" dur="37.5s" repeatCount="indefinite"/></text>
+<text x="80.0" y="344.0" font-size="20" font-weight="bold" text-anchor="start" fill="#44506A" opacity="0">→ 다음 A = 1<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.34400;0.35067;1" dur="37.5s" repeatCount="indefinite"/></text>
+<text x="80.0" y="410.0" font-size="24" font-weight="bold" text-anchor="start" fill="#1F2A44" opacity="0">D<tspan dy="7" font-size="70%">B</tspan><tspan dy="-7"> = A′x</tspan><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.37600;0.38267;1" dur="37.5s" repeatCount="indefinite"/></text>
+<text x="80.0" y="458.0" font-size="24" font-weight="bold" text-anchor="start" fill="#1F2A44" opacity="0">= (<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.37600;0.38267;1" dur="37.5s" repeatCount="indefinite"/></text>
+<rect x="112.0" y="432" width="30" height="34" rx="5" fill="none" stroke="#7A8BA6" stroke-width="1.5" stroke-dasharray="5,5" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.37600;0.38267;1" dur="37.5s" repeatCount="indefinite"/></rect>
+<text x="147.0" y="458.0" font-size="24" font-weight="bold" text-anchor="start" fill="#1F2A44" opacity="0">)′ · 1<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.37600;0.38267;1" dur="37.5s" repeatCount="indefinite"/></text>
+<text x="127.0" y="458.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#C0392B" opacity="0">1<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.43200;0.43867;1" dur="37.5s" repeatCount="indefinite"/></text>
+<text x="225.1" y="458.0" font-size="24" font-weight="bold" text-anchor="start" fill="#111111" opacity="0">= 0<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.44800;0.45467;1" dur="37.5s" repeatCount="indefinite"/></text>
+<rect x="74.0" y="325" width="133.2" height="28" rx="5" fill="none" stroke="#C0392B" stroke-width="3" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.38667;0.39333;0.43067;0.43733;1" dur="37.5s" repeatCount="indefinite"/></rect>
+<circle r="9" fill="#C0392B" opacity="0"><animateMotion path="M193.2,350.0 L127.0,428" keyPoints="0;0;1;1" keyTimes="0;0.39200;0.42933;1" calcMode="linear" dur="37.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.38933;0.39200;0.43467;0.43733;1" dur="37.5s" repeatCount="indefinite"/></circle>
+<circle cx="127.0" cy="450" r="24" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;0.12;1;0.12;1;1" keyTimes="0.00000;0.44000;0.44107;0.44640;0.45173;0.45707;0.46240;1.00000" dur="37.5s" repeatCount="indefinite"/></circle>
+<text x="80.0" y="522.0" font-size="24" font-weight="bold" text-anchor="start" fill="#1F2A44" opacity="0">→ 다음 B = 0<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.48267;0.48933;1" dur="37.5s" repeatCount="indefinite"/></text>
+<text x="80.0" y="566.0" font-size="28" font-weight="bold" text-anchor="start" fill="#C0392B" opacity="0">다음 AB = 10  ✗<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.52000;0.52667;1" dur="37.5s" repeatCount="indefinite"/></text>
+<text x="700.0" y="206.0" font-size="22" font-weight="bold" text-anchor="start" fill="#111111">정답 — 현재 상태 A를 대입</text>
+<text x="700.0" y="250.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A">현재 AB = 01 · x = 1</text>
+<text x="700.0" y="304.0" font-size="24" font-weight="bold" text-anchor="start" fill="#1F2A44" opacity="0">D<tspan dy="7" font-size="70%">A</tspan><tspan dy="-7"> = Ax + Bx = 0·1 + 1·1 = 1</tspan><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.32800;0.33467;1" dur="37.5s" repeatCount="indefinite"/></text>
+<text x="700.0" y="344.0" font-size="20" font-weight="bold" text-anchor="start" fill="#44506A" opacity="0">→ 다음 A = 1<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.34400;0.35067;1" dur="37.5s" repeatCount="indefinite"/></text>
+<text x="700.0" y="410.0" font-size="24" font-weight="bold" text-anchor="start" fill="#1F2A44" opacity="0">D<tspan dy="7" font-size="70%">B</tspan><tspan dy="-7"> = A′x</tspan><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.37600;0.38267;1" dur="37.5s" repeatCount="indefinite"/></text>
+<text x="700.0" y="458.0" font-size="24" font-weight="bold" text-anchor="start" fill="#1F2A44" opacity="0">= (<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.37600;0.38267;1" dur="37.5s" repeatCount="indefinite"/></text>
+<rect x="732.0" y="432" width="30" height="34" rx="5" fill="none" stroke="#7A8BA6" stroke-width="1.5" stroke-dasharray="5,5" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.37600;0.38267;1" dur="37.5s" repeatCount="indefinite"/></rect>
+<text x="767.0" y="458.0" font-size="24" font-weight="bold" text-anchor="start" fill="#1F2A44" opacity="0">)′ · 1<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.37600;0.38267;1" dur="37.5s" repeatCount="indefinite"/></text>
+<text x="747.0" y="458.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#C0392B" opacity="0">0<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.43200;0.43867;1" dur="37.5s" repeatCount="indefinite"/></text>
+<text x="845.1" y="458.0" font-size="24" font-weight="bold" text-anchor="start" fill="#111111" opacity="0">= 1<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.44800;0.45467;1" dur="37.5s" repeatCount="indefinite"/></text>
+<rect x="794.8" y="231" width="20" height="27" rx="5" fill="none" stroke="#C0392B" stroke-width="3" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.38667;0.39333;0.43067;0.43733;1" dur="37.5s" repeatCount="indefinite"/></rect>
+<circle r="9" fill="#C0392B" opacity="0"><animateMotion path="M798.8,256.0 L747.0,428" keyPoints="0;0;1;1" keyTimes="0;0.39200;0.42933;1" calcMode="linear" dur="37.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.38933;0.39200;0.43467;0.43733;1" dur="37.5s" repeatCount="indefinite"/></circle>
+<circle cx="747.0" cy="450" r="24" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;0.12;1;0.12;1;1" keyTimes="0.00000;0.44000;0.44107;0.44640;0.45173;0.45707;0.46240;1.00000" dur="37.5s" repeatCount="indefinite"/></circle>
+<text x="700.0" y="522.0" font-size="24" font-weight="bold" text-anchor="start" fill="#1F2A44" opacity="0">→ 다음 B = 1<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.48267;0.48933;1" dur="37.5s" repeatCount="indefinite"/></text>
+<text x="700.0" y="566.0" font-size="28" font-weight="bold" text-anchor="start" fill="#111111" opacity="0">다음 AB = 11  ✓<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.52000;0.52667;1" dur="37.5s" repeatCount="indefinite"/></text>
+<rect x="690" y="384" width="520" height="92" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.56533;0.57200;0.63600;0.64267;1" dur="37.5s" repeatCount="indefinite"/></rect>
+<rect x="48" y="618" width="474" height="44" rx="8" fill="#FDECEC" stroke="#C0392B" stroke-width="2.5" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.56533;0.57200;0.63600;0.64267;1" dur="37.5s" repeatCount="indefinite"/></rect>
+<text x="64.0" y="650.0" font-size="28" font-weight="bold" text-anchor="start" fill="#C0392B">입력 열은 현재 상태 값만으로 계산<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.56533;0.57200;1" dur="37.5s" repeatCount="indefinite"/></text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.69333;0.70133;0.99200;1.00000;1" dur="37.5s" repeatCount="indefinite"/>
+<rect x="60" y="30" width="87" height="34" rx="17" fill="#1F2A44"/>
+<text x="103.5" y="53.0" font-size="17" font-weight="bold" text-anchor="middle" fill="#FFFFFF">상태표</text>
+<text x="60.0" y="106.0" font-size="34" font-weight="bold" text-anchor="start" fill="#111111">한 행의 오류와 상태도</text>
+<text x="60.0" y="142.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A">입력 x = 1, 1 · 시작 상태 00 — 같은 입력으로 두 상태도를 진행</text>
+<text x="1220.0" y="52.0" font-size="15" font-weight="normal" text-anchor="end" fill="#7A8BA6">3 / 3</text>
+<text x="90.0" y="200.0" font-size="20" font-weight="bold" text-anchor="start" fill="#111111">학생 표의 상태도</text>
+<g transform="translate(90,222) scale(0.8)">
+<path d="M85.6,99.5 C8.5,104.8 114.8,-1.5 109.5,75.6" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M155.4,103.7 Q255.0,86.0 353.6,103.5" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M354.6,116.3 Q255.0,134.0 156.4,116.5" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M354.0,320.0 L157.0,320.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M109.5,354.4 C114.8,431.5 8.5,325.2 85.6,330.5" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M361.6,297.9 L149.2,132.7" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M120.0,284.0 L120.0,147.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M361.6,132.1 L149.2,297.3" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<circle cx="120" cy="110" r="36" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="120" y="115.5" text-anchor="middle" font-size="30" font-weight="bold" fill="#1F2937">00</text>
+<circle cx="390" cy="110" r="36" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="390" y="115.5" text-anchor="middle" font-size="30" font-weight="bold" fill="#1F2937">01</text>
+<circle cx="390" cy="320" r="36" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="390" y="325.5" text-anchor="middle" font-size="30" font-weight="bold" fill="#1F2937">11</text>
+<circle cx="120" cy="320" r="36" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="120" y="325.5" text-anchor="middle" font-size="30" font-weight="bold" fill="#1F2937">10</text>
+<rect x="39.3" y="27.4" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="47.4" y="42.4" text-anchor="middle" font-size="26" fill="#1F2937">0</text>
+<rect x="246.7" y="71.8" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="254.8" y="86.8" text-anchor="middle" font-size="26" fill="#1F2937">1</text>
+<rect x="247.1" y="128.2" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="255.2" y="143.2" text-anchor="middle" font-size="26" fill="#1F2937">0</text>
+<rect x="247.2" y="323.0" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="255.2" y="338.0" text-anchor="middle" font-size="26" fill="#1F2937">1</text>
+<rect x="39.3" y="382.6" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="47.4" y="397.6" text-anchor="middle" font-size="26" fill="#1F2937">1</text>
+<rect x="256.1" y="228.6" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="264.2" y="243.6" text-anchor="middle" font-size="26" fill="#1F2937">0</text>
+<rect x="98.9" y="205.2" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="107.0" y="220.2" text-anchor="middle" font-size="26" fill="#1F2937">0</text>
+<rect x="297.6" y="182.0" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="305.7" y="197.0" text-anchor="middle" font-size="26" fill="#1F2937">1</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.72000;0.72800;1" dur="37.5s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="186.0 310.0;186.0 310.0;186.0 310.0;402.0 310.0;402.0 310.0;186.0 478.0;186.0 478.0" keyTimes="0.00000;0.72000;0.74667;0.77867;0.80000;0.83200;1.00000" dur="37.5s" repeatCount="indefinite"/><circle r="30" fill="none" stroke="#C0392B" stroke-width="5"/></g>
+<text x="340.0" y="200.0" font-size="20" font-weight="bold" text-anchor="start" fill="#C0392B" opacity="0">00 → 01 → 10<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.83200;0.83867;1" dur="37.5s" repeatCount="indefinite"/></text>
+<circle cx="402.0" cy="478.0" r="40" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;0.12;1;0.12;1;1" keyTimes="0.00000;0.85867;0.85973;0.86507;0.87040;0.87573;0.88107;1.00000" dur="37.5s" repeatCount="indefinite"/></circle>
+<text x="690.0" y="200.0" font-size="20" font-weight="bold" text-anchor="start" fill="#111111">정답 상태도 (예제 3-1)</text>
+<g transform="translate(690,222) scale(0.8)">
+<path d="M85.6,99.5 C8.5,104.8 114.8,-1.5 109.5,75.6" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M155.4,103.7 Q255.0,86.0 353.6,103.5" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M354.6,116.3 Q255.0,134.0 156.4,116.5" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M354.0,320.0 L157.0,320.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M109.5,354.4 C114.8,431.5 8.5,325.2 85.6,330.5" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M361.6,297.9 L149.2,132.7" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M120.0,284.0 L120.0,147.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M390.0,146.0 L390.0,283.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<circle cx="120" cy="110" r="36" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="120" y="115.5" text-anchor="middle" font-size="30" font-weight="bold" fill="#1F2937">00</text>
+<circle cx="390" cy="110" r="36" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="390" y="115.5" text-anchor="middle" font-size="30" font-weight="bold" fill="#1F2937">01</text>
+<circle cx="390" cy="320" r="36" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="390" y="325.5" text-anchor="middle" font-size="30" font-weight="bold" fill="#1F2937">11</text>
+<circle cx="120" cy="320" r="36" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="120" y="325.5" text-anchor="middle" font-size="30" font-weight="bold" fill="#1F2937">10</text>
+<rect x="39.3" y="27.4" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="47.4" y="42.4" text-anchor="middle" font-size="26" fill="#1F2937">0</text>
+<rect x="246.7" y="71.8" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="254.8" y="86.8" text-anchor="middle" font-size="26" fill="#1F2937">1</text>
+<rect x="247.1" y="128.2" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="255.2" y="143.2" text-anchor="middle" font-size="26" fill="#1F2937">0</text>
+<rect x="247.2" y="323.0" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="255.2" y="338.0" text-anchor="middle" font-size="26" fill="#1F2937">1</text>
+<rect x="39.3" y="382.6" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="47.4" y="397.6" text-anchor="middle" font-size="26" fill="#1F2937">1</text>
+<rect x="256.1" y="228.6" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="264.2" y="243.6" text-anchor="middle" font-size="26" fill="#1F2937">0</text>
+<rect x="98.9" y="205.2" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="107.0" y="220.2" text-anchor="middle" font-size="26" fill="#1F2937">0</text>
+<rect x="394.9" y="204.8" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="403.0" y="219.8" text-anchor="middle" font-size="26" fill="#1F2937">1</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.72000;0.72800;1" dur="37.5s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="786.0 310.0;786.0 310.0;786.0 310.0;1002.0 310.0;1002.0 310.0;1002.0 478.0;1002.0 478.0" keyTimes="0.00000;0.72000;0.74667;0.77867;0.80000;0.83200;1.00000" dur="37.5s" repeatCount="indefinite"/><circle r="30" fill="none" stroke="#C0392B" stroke-width="5"/></g>
+<text x="940.0" y="200.0" font-size="20" font-weight="bold" text-anchor="start" fill="#C0392B" opacity="0">00 → 01 → 11<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.83200;0.83867;1" dur="37.5s" repeatCount="indefinite"/></text>
+<rect x="48" y="618" width="442" height="44" rx="8" fill="#FDECEC" stroke="#C0392B" stroke-width="2.5" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.88267;0.88933;0.95333;0.96000;1" dur="37.5s" repeatCount="indefinite"/></rect>
+<text x="64.0" y="650.0" font-size="28" font-weight="bold" text-anchor="start" fill="#C0392B">상태 11로 들어가는 화살표 없음<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.88267;0.88933;1" dur="37.5s" repeatCount="indefinite"/></text>
+</g>
+<rect x="0" y="714" width="1280" height="6" fill="#EEF1F5"/>
+<rect x="0" y="714" width="0" height="6" fill="#7A8BA6"><animate attributeName="width" values="0;1280" keyTimes="0;1" dur="37.5s" repeatCount="indefinite"/></rect>
+</svg>

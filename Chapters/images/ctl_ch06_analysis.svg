@@ -1,0 +1,313 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<defs><marker id="arw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1F2A44"/></marker><marker id="arwT" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#4A7D7C"/></marker><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1F2937"/></marker><marker id="ahc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#C0392B"/></marker></defs>
+<rect width="1280" height="720" fill="#FFFFFF"/>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.00000;0.00323;0.19570;0.19892;1" dur="93.0s" repeatCount="indefinite"/>
+<rect x="60" y="30" width="109" height="34" rx="17" fill="#1F2A44"/>
+<text x="114.5" y="53.0" font-size="17" font-weight="bold" text-anchor="middle" fill="#FFFFFF">분석 절차</text>
+<text x="60.0" y="106.0" font-size="34" font-weight="bold" text-anchor="start" fill="#111111">상태와 상태도</text>
+<text x="60.0" y="142.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A">상태 = 플립플롭 값의 조합 · 클럭 에지마다 화살표 하나만큼 이동</text>
+<text x="1220.0" y="52.0" font-size="15" font-weight="normal" text-anchor="end" fill="#7A8BA6">1 / 6</text>
+<g transform="translate(90,168) scale(0.92)">
+<path d="M184.0,120.0 L365.0,120.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M400.0,154.0 L400.0,285.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M366.0,320.0 L185.0,320.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M150.0,286.0 L150.0,155.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M117.5,110.1 C44.7,115.1 145.1,14.7 140.1,87.5" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M409.9,87.5 C404.9,14.7 505.3,115.1 432.5,110.1" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M432.5,329.9 C505.3,324.9 404.9,425.3 409.9,352.5" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M140.1,352.5 C145.1,425.3 44.7,324.9 117.5,329.9" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<circle cx="150" cy="120" r="34" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="150" y="125.5" text-anchor="middle" font-size="28" font-weight="bold" fill="#1F2937">00</text>
+<circle cx="400" cy="120" r="34" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="400" y="125.5" text-anchor="middle" font-size="28" font-weight="bold" fill="#1F2937">01</text>
+<circle cx="400" cy="320" r="34" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="400" y="325.5" text-anchor="middle" font-size="28" font-weight="bold" fill="#1F2937">10</text>
+<circle cx="150" cy="320" r="34" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="150" y="325.5" text-anchor="middle" font-size="28" font-weight="bold" fill="#1F2937">11</text>
+<rect x="266.6" y="97.0" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="274.8" y="112.0" text-anchor="middle" font-size="23" fill="#1F2937">1</text>
+<rect x="404.9" y="209.8" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="413.0" y="224.8" text-anchor="middle" font-size="23" fill="#1F2937">1</text>
+<rect x="267.1" y="323.0" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="275.2" y="338.0" text-anchor="middle" font-size="23" fill="#1F2937">1</text>
+<rect x="128.9" y="210.2" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="137.0" y="225.2" text-anchor="middle" font-size="23" fill="#1F2937">1</text>
+<rect x="72.9" y="41.0" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="81.0" y="56.0" text-anchor="middle" font-size="23" fill="#1F2937">0</text>
+<rect x="460.9" y="41.0" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="469.0" y="56.0" text-anchor="middle" font-size="23" fill="#1F2937">0</text>
+<rect x="460.9" y="379.0" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="469.0" y="394.0" text-anchor="middle" font-size="23" fill="#1F2937">0</text>
+<rect x="72.9" y="379.0" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="81.0" y="394.0" text-anchor="middle" font-size="23" fill="#1F2937">0</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.01075;0.01398;1" dur="93.0s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="458.0 278.4;458.0 278.4;458.0 278.4;458.0 462.4;458.0 462.4;228.0 462.4;228.0 462.4;228.0 462.4;228.0 462.4;228.0 278.4;228.0 278.4" keyTimes="0.00000;0.01075;0.03226;0.04516;0.06452;0.07742;0.09677;0.10968;0.12903;0.14194;1.00000" dur="93.0s" repeatCount="indefinite"/><circle r="40" fill="none" stroke="#C0392B" stroke-width="5"/></g>
+<circle cx="228.0" cy="462.4" r="40" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="r" values="40;40;66;66" keyTimes="0;0.09677;0.10968;1" dur="93.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.09677;0.09731;0.10914;0.10968;1" dur="93.0s" repeatCount="indefinite"/></circle>
+<text x="720.0" y="215.0" font-size="20" font-weight="bold" text-anchor="start" fill="#44506A">입력 x (시작 상태 01)</text>
+<text x="720.0" y="268.0" font-size="24" font-weight="bold" text-anchor="start" fill="#111111">에지 ①   x = 1</text>
+<text x="1010.0" y="268.0" font-size="24" font-weight="bold" text-anchor="start" fill="#1F2A44" opacity="0">01 → 10<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.04516;0.04785;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="720.0" y="322.0" font-size="24" font-weight="bold" text-anchor="start" fill="#111111">에지 ②   x = 1</text>
+<text x="1010.0" y="322.0" font-size="24" font-weight="bold" text-anchor="start" fill="#1F2A44" opacity="0">10 → 11<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.07742;0.08011;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="720.0" y="376.0" font-size="24" font-weight="bold" text-anchor="start" fill="#111111">에지 ③   x = 0</text>
+<text x="1010.0" y="376.0" font-size="24" font-weight="bold" text-anchor="start" fill="#1F2A44" opacity="0">유지<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.10968;0.11237;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="720.0" y="430.0" font-size="24" font-weight="bold" text-anchor="start" fill="#111111">에지 ④   x = 1</text>
+<text x="1010.0" y="430.0" font-size="24" font-weight="bold" text-anchor="start" fill="#1F2A44" opacity="0">11 → 00<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.14194;0.14462;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="720.0" y="484.0" font-size="20" font-weight="bold" text-anchor="start" fill="#44506A">현재 상태</text>
+<text x="720" y="530" font-size="40" font-weight="bold" fill="#C0392B" opacity="0">01<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.01075;0.04516" dur="93.0s" repeatCount="indefinite" calcMode="discrete"/></text>
+<text x="720" y="530" font-size="40" font-weight="bold" fill="#C0392B" opacity="0">10<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.04516;0.07742" dur="93.0s" repeatCount="indefinite" calcMode="discrete"/></text>
+<text x="720" y="530" font-size="40" font-weight="bold" fill="#C0392B" opacity="0">11<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.07742;0.10968" dur="93.0s" repeatCount="indefinite" calcMode="discrete"/></text>
+<text x="720" y="530" font-size="40" font-weight="bold" fill="#C0392B" opacity="0">11<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.10968;0.14194" dur="93.0s" repeatCount="indefinite" calcMode="discrete"/></text>
+<text x="720" y="530" font-size="40" font-weight="bold" fill="#C0392B" opacity="0">00<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.14194;0.19892" dur="93.0s" repeatCount="indefinite" calcMode="discrete"/></text>
+<rect x="48" y="618" width="487" height="44" rx="8" fill="#FDECEC" stroke="#C0392B" stroke-width="2.5" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.15591;0.15860;0.18441;0.18710;1" dur="93.0s" repeatCount="indefinite"/></rect>
+<text x="64.0" y="650.0" font-size="28" font-weight="bold" text-anchor="start" fill="#C0392B">클럭 에지 한 번 = 화살표 한 번 이동<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.15591;0.15860;1" dur="93.0s" repeatCount="indefinite"/></text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.19892;0.20215;0.36774;0.37097;1" dur="93.0s" repeatCount="indefinite"/>
+<rect x="60" y="30" width="109" height="34" rx="17" fill="#1F2A44"/>
+<text x="114.5" y="53.0" font-size="17" font-weight="bold" text-anchor="middle" fill="#FFFFFF">분석 절차</text>
+<text x="60.0" y="106.0" font-size="34" font-weight="bold" text-anchor="start" fill="#111111">분석 절차 4단계</text>
+<text x="60.0" y="142.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A">회로도에서 출발해 상태표와 상태도로 회로의 동작을 해석하는 순서</text>
+<text x="1220.0" y="52.0" font-size="15" font-weight="normal" text-anchor="end" fill="#7A8BA6">2 / 6</text>
+<rect x="60" y="205" width="255" height="132" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/>
+<text x="187.5" y="239.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#44506A">Step 1</text>
+<text x="187.5" y="279.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">입력 방정식</text>
+<text x="187.5" y="315.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">회로도 독해 (2~4장)</text>
+<rect x="343" y="205" width="255" height="132" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/>
+<text x="470.5" y="239.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#44506A">Step 2</text>
+<text x="470.5" y="279.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">입력 열 계산</text>
+<text x="470.5" y="315.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">현재 상태 · 입력 대입</text>
+<rect x="626" y="205" width="255" height="132" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/>
+<text x="753.5" y="239.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#44506A">Step 3</text>
+<text x="753.5" y="279.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">특성표 → 다음 상태</text>
+<text x="753.5" y="315.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">특성표 (5장)</text>
+<rect x="909" y="205" width="255" height="132" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/>
+<text x="1036.5" y="239.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#44506A">Step 4</text>
+<text x="1036.5" y="279.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">상태도</text>
+<text x="1036.5" y="315.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">상태표의 그림 번역</text>
+<path d="M317,271.0 H340" fill="none" stroke="#1F2A44" stroke-width="2" marker-end="url(#arw)"/>
+<path d="M600,271.0 H623" fill="none" stroke="#1F2A44" stroke-width="2" marker-end="url(#arw)"/>
+<path d="M883,271.0 H906" fill="none" stroke="#1F2A44" stroke-width="2" marker-end="url(#arw)"/>
+<rect x="52" y="197" width="271" height="148" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="x" values="52.0;52.0;52.0;335.0;335.0;618.0;618.0;901.0;901.0" keyTimes="0.00000;0.20968;0.22903;0.23548;0.25484;0.26129;0.28065;0.28710;1.00000" dur="93.0s" repeatCount="indefinite"/><animate attributeName="y" values="197.0;197.0;197.0;197.0;197.0;197.0;197.0;197.0;197.0" keyTimes="0.00000;0.20968;0.22903;0.23548;0.25484;0.26129;0.28065;0.28710;1.00000" dur="93.0s" repeatCount="indefinite"/><animate attributeName="width" values="271.0;271.0;271.0;271.0;271.0;271.0;271.0;271.0;271.0" keyTimes="0.00000;0.20968;0.22903;0.23548;0.25484;0.26129;0.28065;0.28710;1.00000" dur="93.0s" repeatCount="indefinite"/><animate attributeName="height" values="148.0;148.0;148.0;148.0;148.0;148.0;148.0;148.0;148.0" keyTimes="0.00000;0.20968;0.22903;0.23548;0.25484;0.26129;0.28065;0.28710;1.00000" dur="93.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.20968;0.21237;0.31022;0.31290;1" dur="93.0s" repeatCount="indefinite"/></rect>
+<path d="M343,359 v14 H881 v-14" fill="none" stroke="#1F2A44" stroke-width="2" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.26344;0.26613;1" dur="93.0s" repeatCount="indefinite"/></path>
+<text x="612.0" y="407.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#44506A" opacity="0">상태표 = 입력 열 + 다음 상태 열<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.26344;0.26613;1" dur="93.0s" repeatCount="indefinite"/></text>
+<rect x="335" y="197" width="554" height="148" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.31828;0.32097;0.34677;0.34946;1" dur="93.0s" repeatCount="indefinite"/></rect>
+<rect x="48" y="618" width="403" height="44" rx="8" fill="#FDECEC" stroke="#C0392B" stroke-width="2.5" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.31828;0.32097;0.34677;0.34946;1" dur="93.0s" repeatCount="indefinite"/></rect>
+<text x="64.0" y="650.0" font-size="28" font-weight="bold" text-anchor="start" fill="#C0392B">다음 상태 = 입력 열 + 특성표<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.31828;0.32097;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="640.0" y="500.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A" opacity="0">7장 설계는 같은 표를 거꾸로 사용 — 다음 상태 → 입력 열 → 입력 방정식<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.35269;0.35538;1" dur="93.0s" repeatCount="indefinite"/></text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.37097;0.37419;0.53978;0.54301;1" dur="93.0s" repeatCount="indefinite"/>
+<rect x="60" y="30" width="109" height="34" rx="17" fill="#1F2A44"/>
+<text x="114.5" y="53.0" font-size="17" font-weight="bold" text-anchor="middle" fill="#FFFFFF">분석 절차</text>
+<text x="60.0" y="106.0" font-size="34" font-weight="bold" text-anchor="start" fill="#111111">Step 1 — 입력 방정식과 출력 방정식</text>
+<text x="60.0" y="142.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A">러닝 예제 회로 — D 플립플롭 A · B · 입력 x · 출력 y</text>
+<text x="1220.0" y="52.0" font-size="15" font-weight="normal" text-anchor="end" fill="#7A8BA6">3 / 6</text>
+<rect x="200" y="200" width="240" height="120" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/>
+<text x="320.0" y="268.0" font-size="28" font-weight="bold" text-anchor="middle" fill="#111111">조합논리</text>
+<rect x="560" y="360" width="200" height="90" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/>
+<text x="660.0" y="398.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">플립플롭 A · B</text>
+<text x="660.0" y="430.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">(D 플립플롭)</text>
+<path d="M110,260 H198" fill="none" stroke="#1F2A44" stroke-width="3.5" marker-end="url(#arw)"/>
+<text x="96.0" y="268.0" font-size="24" font-weight="bold" text-anchor="end" fill="#1F2A44">x</text>
+<path d="M440,226 H780" fill="none" stroke="#1F2A44" stroke-width="3.5" marker-end="url(#arw)"/>
+<text x="794.0" y="234.0" font-size="24" font-weight="bold" text-anchor="start" fill="#1F2A44">y</text>
+<path d="M440,290 H500 V395 H558" fill="none" stroke="#1F2A44" stroke-width="3.5" marker-end="url(#arw)"/>
+<text x="490.0" y="352.0" font-size="22" font-weight="bold" text-anchor="end" fill="#1F2A44">D<tspan dy="7" font-size="70%">A</tspan><tspan dy="-7"> · </tspan><tspan>D<tspan dy="7" font-size="70%">B</tspan><tspan dy="-7"></tspan></tspan></text>
+<path d="M500,435 H558" fill="none" stroke="#1F2A44" stroke-width="2" marker-end="url(#arw)"/>
+<text x="492.0" y="442.0" font-size="20" font-weight="bold" text-anchor="end" fill="#1F2A44">CLK</text>
+<path d="M760,405 H800 V505 H160 V300 H198" fill="none" stroke="#1F2A44" stroke-width="3.5" marker-end="url(#arw)"/>
+<text x="480.0" y="495.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke">현재 상태 A · B</text>
+<text x="870.0" y="215.0" font-size="20" font-weight="bold" text-anchor="start" fill="#44506A">회로도에서 읽은 식</text>
+<text x="870.0" y="272.0" font-size="24" font-weight="bold" text-anchor="start" fill="#111111" opacity="0">D<tspan dy="7" font-size="70%">A</tspan><tspan dy="-7"> = Ax + Bx</tspan><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.41290;0.41559;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="870.0" y="322.0" font-size="24" font-weight="bold" text-anchor="start" fill="#111111" opacity="0">D<tspan dy="7" font-size="70%">B</tspan><tspan dy="-7"> = A′x</tspan><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.41290;0.41559;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="870.0" y="356.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A" opacity="0">플립플롭 입력 방정식<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.41290;0.41559;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="870.0" y="420.0" font-size="24" font-weight="bold" text-anchor="start" fill="#111111" opacity="0">y = (A + B)x′<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.48817;0.49086;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="870.0" y="452.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A" opacity="0">출력 방정식<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.48817;0.49086;1" dur="93.0s" repeatCount="indefinite"/></text>
+<circle r="9" fill="#C0392B" opacity="0"><animateMotion path="M110,260 L200,260 L320,262 L440,290 L500,290 L500,395 L560,395" keyPoints="0;0;1;1" keyTimes="0;0.38172;0.40968;1" calcMode="linear" dur="93.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.38065;0.38172;0.41183;0.41290;1" dur="93.0s" repeatCount="indefinite"/></circle>
+<rect x="856" y="244" width="364" height="124" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.42796;0.43065;0.45645;0.45914;1" dur="93.0s" repeatCount="indefinite"/></rect>
+<rect x="48" y="596" width="568" height="44" rx="8" fill="#FDECEC" stroke="#C0392B" stroke-width="2.5" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.42796;0.43065;0.45645;0.45914;1" dur="93.0s" repeatCount="indefinite"/></rect>
+<text x="64.0" y="628.0" font-size="28" font-weight="bold" text-anchor="start" fill="#C0392B">FF 입력 단자에 연결되는 식 = 입력 방정식<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.42796;0.43065;1" dur="93.0s" repeatCount="indefinite"/></text>
+<circle r="9" fill="#C0392B" opacity="0"><animateMotion path="M110,260 L200,260 L320,244 L440,226 L780,226" keyPoints="0;0;1;1" keyTimes="0;0.46559;0.48710;1" calcMode="linear" dur="93.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.46452;0.46559;0.48925;0.49032;1" dur="93.0s" repeatCount="indefinite"/></circle>
+<rect x="856" y="392" width="364" height="72" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.49677;0.49946;0.52527;0.52796;1" dur="93.0s" repeatCount="indefinite"/></rect>
+<rect x="48" y="644" width="527" height="44" rx="8" fill="#FDECEC" stroke="#C0392B" stroke-width="2.5" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.49677;0.49946;0.52527;0.52796;1" dur="93.0s" repeatCount="indefinite"/></rect>
+<text x="64.0" y="676.0" font-size="28" font-weight="bold" text-anchor="start" fill="#C0392B">회로의 출력을 정하는 식 = 출력 방정식<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.49677;0.49946;1" dur="93.0s" repeatCount="indefinite"/></text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.54301;0.54624;0.71183;0.71505;1" dur="93.0s" repeatCount="indefinite"/>
+<rect x="60" y="30" width="109" height="34" rx="17" fill="#1F2A44"/>
+<text x="114.5" y="53.0" font-size="17" font-weight="bold" text-anchor="middle" fill="#FFFFFF">분석 절차</text>
+<text x="60.0" y="106.0" font-size="34" font-weight="bold" text-anchor="start" fill="#111111">Step 2 · 3 — 한 행의 다음 상태</text>
+<text x="60.0" y="142.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A">현재 상태 AB = 01 · 입력 x = 1 (D 플립플롭)</text>
+<text x="1220.0" y="52.0" font-size="15" font-weight="normal" text-anchor="end" fill="#7A8BA6">4 / 6</text>
+<text x="70.0" y="205.0" font-size="20" font-weight="bold" text-anchor="start" fill="#44506A">Step 2 · 입력 열 계산</text>
+<text x="620.0" y="205.0" font-size="20" font-weight="bold" text-anchor="start" fill="#44506A">Step 3 · D 특성표</text>
+<text x="930.0" y="205.0" font-size="20" font-weight="bold" text-anchor="start" fill="#44506A">다음 상태</text>
+<text x="70.0" y="262.0" font-size="24" font-weight="bold" text-anchor="start" fill="#111111">D<tspan dy="7" font-size="70%">A</tspan><tspan dy="-7"> = Ax + Bx</tspan></text>
+<text x="110.0" y="304.0" font-size="24" font-weight="normal" text-anchor="start" fill="#1F2A44" opacity="0">= 0·1 + 1·1<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.55376;0.55645;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="240.0" y="304.0" font-size="24" font-weight="bold" text-anchor="start" fill="#111111" opacity="0">= 1<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.55806;0.56075;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="70.0" y="372.0" font-size="24" font-weight="bold" text-anchor="start" fill="#111111">D<tspan dy="7" font-size="70%">B</tspan><tspan dy="-7"> = A′x</tspan></text>
+<text x="110.0" y="414.0" font-size="24" font-weight="normal" text-anchor="start" fill="#1F2A44" opacity="0">= 1·1<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.56237;0.56505;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="182.0" y="414.0" font-size="24" font-weight="bold" text-anchor="start" fill="#111111" opacity="0">= 1<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.56667;0.56935;1" dur="93.0s" repeatCount="indefinite"/></text>
+<rect x="622" y="332" width="226" height="44" fill="#DCEBFF" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.58710;0.58978;1" dur="93.0s" repeatCount="indefinite"/></rect>
+<rect x="620" y="228" width="230" height="150" rx="8" fill="none" stroke="#1F2A44" stroke-width="2"/>
+<line x1="620" y1="272" x2="850" y2="272" stroke="#1F2A44" stroke-width="1.5"/>
+<line x1="620" y1="330" x2="850" y2="330" stroke="#E4E8EF" stroke-width="1.5"/>
+<line x1="730" y1="228" x2="730" y2="378" stroke="#E4E8EF" stroke-width="1.5"/>
+<text x="675.0" y="258.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">D</text>
+<text x="790.0" y="258.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">Q(t+1)</text>
+<text x="675.0" y="312.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#1F2A44">0</text>
+<text x="790.0" y="312.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#1F2A44">0</text>
+<text x="675.0" y="362.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#1F2A44">1</text>
+<text x="790.0" y="362.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#1F2A44">1</text>
+<path d="M290,296 L612,354 M858,354 L920,270" fill="none" stroke="#7A8BA6" stroke-width="1.5" stroke-dasharray="5,5" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.57204;0.57473;1" dur="93.0s" repeatCount="indefinite"/></path>
+<path d="M232,406 L612,354 M858,354 L920,334" fill="none" stroke="#7A8BA6" stroke-width="1.5" stroke-dasharray="5,5" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.61075;0.61344;1" dur="93.0s" repeatCount="indefinite"/></path>
+<circle r="9" fill="#C0392B" opacity="0"><animateMotion path="M290,296 L612,354 L858,354 L925,262" keyPoints="0;0;1;1" keyTimes="0;0.57527;0.60538;1" calcMode="linear" dur="93.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.57419;0.57527;0.60753;0.60860;1" dur="93.0s" repeatCount="indefinite"/></circle>
+<text x="930.0" y="272.0" font-size="28" font-weight="bold" text-anchor="start" fill="#111111" opacity="0">A = 1<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.60538;0.60806;1" dur="93.0s" repeatCount="indefinite"/></text>
+<circle r="9" fill="#C0392B" opacity="0"><animateMotion path="M232,406 L612,354 L858,354 L925,332" keyPoints="0;0;1;1" keyTimes="0;0.61398;0.64409;1" calcMode="linear" dur="93.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.61290;0.61398;0.64624;0.64731;1" dur="93.0s" repeatCount="indefinite"/></circle>
+<text x="930.0" y="342.0" font-size="28" font-weight="bold" text-anchor="start" fill="#111111" opacity="0">B = 1<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.64409;0.64677;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="930.0" y="478.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A" opacity="0">출력 y = (0 + 1)·0 = 0<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.64624;0.64892;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="930.0" y="430.0" font-size="40" font-weight="bold" text-anchor="start" fill="#C0392B" opacity="0">AB = 11<animate attributeName="opacity" values="0;0;1;1;0.12;1;0.12;1;1" keyTimes="0.00000;0.64839;0.65108;0.65269;0.65484;0.65699;0.65914;0.66129;1.00000" dur="93.0s" repeatCount="indefinite"/></text>
+<rect x="916" y="230" width="300" height="220" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.65806;0.66075;0.68656;0.68925;1" dur="93.0s" repeatCount="indefinite"/></rect>
+<rect x="48" y="618" width="418" height="44" rx="8" fill="#FDECEC" stroke="#C0392B" stroke-width="2.5" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.65806;0.66075;0.68656;0.68925;1" dur="93.0s" repeatCount="indefinite"/></rect>
+<text x="64.0" y="650.0" font-size="28" font-weight="bold" text-anchor="start" fill="#C0392B">입력값 → 특성표 → 다음 상태<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.65806;0.66075;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="640.0" y="545.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A" opacity="0">D 플립플롭: 입력값 = 다음 상태<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.69247;0.69516;1" dur="93.0s" repeatCount="indefinite"/></text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.71505;0.71828;0.84624;0.84946;1" dur="93.0s" repeatCount="indefinite"/>
+<rect x="60" y="30" width="109" height="34" rx="17" fill="#1F2A44"/>
+<text x="114.5" y="53.0" font-size="17" font-weight="bold" text-anchor="middle" fill="#FFFFFF">분석 절차</text>
+<text x="60.0" y="106.0" font-size="34" font-weight="bold" text-anchor="start" fill="#111111">상태표 — 모든 행</text>
+<text x="60.0" y="142.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A">행마다 입력 열(Step 2)을 계산하고 D 특성표로 다음 상태(Step 3)를 채움</text>
+<text x="1220.0" y="52.0" font-size="15" font-weight="normal" text-anchor="end" fill="#7A8BA6">5 / 6</text>
+<rect x="285" y="241" width="710" height="38" fill="#DCEBFF" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.79462;0.79731;1" dur="93.0s" repeatCount="indefinite"/></rect>
+<rect x="285" y="321" width="710" height="38" fill="#DCEBFF" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.79462;0.79731;1" dur="93.0s" repeatCount="indefinite"/></rect>
+<rect x="285" y="401" width="710" height="38" fill="#DCEBFF" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.79462;0.79731;1" dur="93.0s" repeatCount="indefinite"/></rect>
+<rect x="285" y="481" width="710" height="38" fill="#DCEBFF" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.79462;0.79731;1" dur="93.0s" repeatCount="indefinite"/></rect>
+<text x="360.0" y="226.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">현재 AB</text>
+<text x="360.0" y="268.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#1F2A44">00</text>
+<text x="360.0" y="308.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#1F2A44">00</text>
+<text x="360.0" y="348.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#1F2A44">01</text>
+<text x="360.0" y="388.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#1F2A44">01</text>
+<text x="360.0" y="428.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#1F2A44">10</text>
+<text x="360.0" y="468.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#1F2A44">10</text>
+<text x="360.0" y="508.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#1F2A44">11</text>
+<text x="360.0" y="548.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#1F2A44">11</text>
+<text x="480.0" y="226.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">x</text>
+<text x="480.0" y="268.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44">0</text>
+<text x="480.0" y="308.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44">1</text>
+<text x="480.0" y="348.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44">0</text>
+<text x="480.0" y="388.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44">1</text>
+<text x="480.0" y="428.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44">0</text>
+<text x="480.0" y="468.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44">1</text>
+<text x="480.0" y="508.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44">0</text>
+<text x="480.0" y="548.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44">1</text>
+<text x="580.0" y="226.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111" opacity="0">D<tspan dy="7" font-size="70%">A</tspan><tspan dy="-7"></tspan><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.72581;0.72849;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="580.0" y="268.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44" opacity="0">0<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.72581;0.72849;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="580.0" y="308.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44" opacity="0">0<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.72581;0.72849;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="580.0" y="348.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44" opacity="0">0<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.72581;0.72849;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="580.0" y="388.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44" opacity="0">1<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.72581;0.72849;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="580.0" y="428.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44" opacity="0">0<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.72581;0.72849;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="580.0" y="468.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44" opacity="0">1<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.72581;0.72849;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="580.0" y="508.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44" opacity="0">0<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.72581;0.72849;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="580.0" y="548.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44" opacity="0">1<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.72581;0.72849;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="690.0" y="226.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111" opacity="0">D<tspan dy="7" font-size="70%">B</tspan><tspan dy="-7"></tspan><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.72581;0.72849;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="690.0" y="268.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44" opacity="0">0<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.72581;0.72849;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="690.0" y="308.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44" opacity="0">1<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.72581;0.72849;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="690.0" y="348.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44" opacity="0">0<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.72581;0.72849;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="690.0" y="388.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44" opacity="0">1<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.72581;0.72849;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="690.0" y="428.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44" opacity="0">0<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.72581;0.72849;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="690.0" y="468.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44" opacity="0">0<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.72581;0.72849;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="690.0" y="508.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44" opacity="0">0<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.72581;0.72849;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="690.0" y="548.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44" opacity="0">0<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.72581;0.72849;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="825.0" y="226.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111" opacity="0">다음 AB<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.74946;0.75215;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="825.0" y="268.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#1F2A44" opacity="0">00<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.74946;0.75215;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="825.0" y="308.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#1F2A44" opacity="0">01<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.74946;0.75215;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="825.0" y="348.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#1F2A44" opacity="0">00<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.74946;0.75215;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="825.0" y="388.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#1F2A44" opacity="0">11<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.74946;0.75215;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="825.0" y="428.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#1F2A44" opacity="0">00<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.74946;0.75215;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="825.0" y="468.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#1F2A44" opacity="0">10<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.74946;0.75215;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="825.0" y="508.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#1F2A44" opacity="0">00<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.74946;0.75215;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="825.0" y="548.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#1F2A44" opacity="0">10<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.74946;0.75215;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="950.0" y="226.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111" opacity="0">y<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.77312;0.77581;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="950.0" y="268.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44" opacity="0">0<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.77312;0.77581;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="950.0" y="308.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44" opacity="0">0<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.77312;0.77581;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="950.0" y="348.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44" opacity="0">1<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.77312;0.77581;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="950.0" y="388.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44" opacity="0">0<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.77312;0.77581;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="950.0" y="428.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44" opacity="0">1<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.77312;0.77581;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="950.0" y="468.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44" opacity="0">0<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.77312;0.77581;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="950.0" y="508.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44" opacity="0">1<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.77312;0.77581;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="950.0" y="548.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44" opacity="0">0<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.77312;0.77581;1" dur="93.0s" repeatCount="indefinite"/></text>
+<rect x="285" y="196" width="710" height="364" rx="6" fill="none" stroke="#1F2A44" stroke-width="2"/>
+<line x1="285" y1="240" x2="995" y2="240" stroke="#1F2A44" stroke-width="1.5"/>
+<line x1="285" y1="280" x2="995" y2="280" stroke="#E4E8EF" stroke-width="1"/>
+<line x1="285" y1="320" x2="995" y2="320" stroke="#E4E8EF" stroke-width="1"/>
+<line x1="285" y1="360" x2="995" y2="360" stroke="#E4E8EF" stroke-width="1"/>
+<line x1="285" y1="400" x2="995" y2="400" stroke="#E4E8EF" stroke-width="1"/>
+<line x1="285" y1="440" x2="995" y2="440" stroke="#E4E8EF" stroke-width="1"/>
+<line x1="285" y1="480" x2="995" y2="480" stroke="#E4E8EF" stroke-width="1"/>
+<line x1="285" y1="520" x2="995" y2="520" stroke="#E4E8EF" stroke-width="1"/>
+<line x1="525" y1="196" x2="525" y2="560" stroke="#E4E8EF" stroke-width="1.5"/>
+<line x1="745" y1="196" x2="745" y2="560" stroke="#E4E8EF" stroke-width="1.5"/>
+<line x1="905" y1="196" x2="905" y2="560" stroke="#E4E8EF" stroke-width="1.5"/>
+<rect x="48" y="618" width="424" height="44" rx="8" fill="#FDECEC" stroke="#C0392B" stroke-width="2.5" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.80000;0.80269;0.82849;0.83118;1" dur="93.0s" repeatCount="indefinite"/></rect>
+<text x="64.0" y="650.0" font-size="28" font-weight="bold" text-anchor="start" fill="#C0392B">x = 0이면 다음 상태는 항상 00<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.80000;0.80269;1" dur="93.0s" repeatCount="indefinite"/></text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.84946;0.85269;0.99677;1.00000;1" dur="93.0s" repeatCount="indefinite"/>
+<rect x="60" y="30" width="109" height="34" rx="17" fill="#1F2A44"/>
+<text x="114.5" y="53.0" font-size="17" font-weight="bold" text-anchor="middle" fill="#FFFFFF">분석 절차</text>
+<text x="60.0" y="106.0" font-size="34" font-weight="bold" text-anchor="start" fill="#111111">상태도 — 회로 동작의 해석</text>
+<text x="60.0" y="142.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A">상태표 8행 = 화살표 8개 · 화살표 위 = 입력 x / 출력 y</text>
+<text x="1220.0" y="52.0" font-size="15" font-weight="normal" text-anchor="end" fill="#7A8BA6">6 / 6</text>
+<g transform="translate(70,165) scale(0.95)">
+<path d="M87.5,100.1 C14.7,105.1 115.1,4.7 110.1,77.5" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M153.5,104.0 Q255.0,86.0 355.5,103.9" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M356.5,116.0 Q255.0,134.0 154.5,116.1" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M390.0,144.0 L390.0,285.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M356.0,320.0 L155.0,320.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M110.1,352.5 C115.1,425.3 14.7,324.9 87.5,329.9" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M363.2,299.1 L147.6,131.5" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M120.0,286.0 L120.0,145.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<circle cx="120" cy="110" r="34" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="120" y="115.5" text-anchor="middle" font-size="28" font-weight="bold" fill="#1F2937">00</text>
+<circle cx="390" cy="110" r="34" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="390" y="115.5" text-anchor="middle" font-size="28" font-weight="bold" fill="#1F2937">01</text>
+<circle cx="390" cy="320" r="34" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="390" y="325.5" text-anchor="middle" font-size="28" font-weight="bold" fill="#1F2937">11</text>
+<circle cx="120" cy="320" r="34" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="120" y="325.5" text-anchor="middle" font-size="28" font-weight="bold" fill="#1F2937">10</text>
+<rect x="34.7" y="31.0" width="32.6" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="51.0" y="46.0" text-anchor="middle" font-size="22" fill="#1F2937">0/0</text>
+<rect x="238.5" y="72.0" width="32.6" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="254.8" y="87.0" text-anchor="middle" font-size="22" fill="#1F2937">1/0</text>
+<rect x="238.9" y="128.0" width="32.6" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="255.2" y="143.0" text-anchor="middle" font-size="22" fill="#1F2937">0/1</text>
+<rect x="386.7" y="204.8" width="32.6" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="403.0" y="219.8" text-anchor="middle" font-size="22" fill="#1F2937">1/0</text>
+<rect x="238.9" y="323.0" width="32.6" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="255.2" y="338.0" text-anchor="middle" font-size="22" fill="#1F2937">1/0</text>
+<rect x="34.7" y="379.0" width="32.6" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="51.0" y="394.0" text-anchor="middle" font-size="22" fill="#1F2937">1/0</text>
+<rect x="248.2" y="228.8" width="32.6" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="264.5" y="243.8" text-anchor="middle" font-size="22" fill="#1F2937">0/1</text>
+<rect x="90.7" y="205.2" width="32.6" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="107.0" y="220.2" text-anchor="middle" font-size="22" fill="#1F2937">0/1</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.86022;0.86344;1" dur="93.0s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="184.0 269.5;184.0 269.5;184.0 269.5;440.5 269.5;440.5 269.5;440.5 469.0;440.5 469.0;184.0 269.5;184.0 269.5" keyTimes="0.00000;0.86022;0.87634;0.88925;0.90323;0.91613;0.93011;0.94301;1.00000" dur="93.0s" repeatCount="indefinite"/><circle r="40" fill="none" stroke="#C0392B" stroke-width="5"/></g>
+<text x="650.0" y="215.0" font-size="20" font-weight="bold" text-anchor="start" fill="#44506A">입력 x = 1, 1, 0 (시작 상태 00)</text>
+<text x="650.0" y="270.0" font-size="24" font-weight="bold" text-anchor="start" fill="#111111">에지 ①   x = 1</text>
+<text x="880.0" y="270.0" font-size="24" font-weight="bold" text-anchor="start" fill="#1F2A44" opacity="0">00 → 01<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.88925;0.89194;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="1050.0" y="270.0" font-size="24" font-weight="bold" text-anchor="start" fill="#1F2A44" opacity="0">y = 0<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.88925;0.89194;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="650.0" y="326.0" font-size="24" font-weight="bold" text-anchor="start" fill="#111111">에지 ②   x = 1</text>
+<text x="880.0" y="326.0" font-size="24" font-weight="bold" text-anchor="start" fill="#1F2A44" opacity="0">01 → 11<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.91613;0.91882;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="1050.0" y="326.0" font-size="24" font-weight="bold" text-anchor="start" fill="#1F2A44" opacity="0">y = 0<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.91613;0.91882;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="650.0" y="382.0" font-size="24" font-weight="bold" text-anchor="start" fill="#111111">에지 ③   x = 0</text>
+<text x="880.0" y="382.0" font-size="24" font-weight="bold" text-anchor="start" fill="#1F2A44" opacity="0">11 → 00<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.94301;0.94570;1" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="1050.0" y="382.0" font-size="24" font-weight="bold" text-anchor="start" fill="#C0392B" opacity="0">y = 1<animate attributeName="opacity" values="0;0;1;1;0.12;1;0.12;1;1" keyTimes="0.00000;0.94301;0.94570;0.94624;0.94839;0.95054;0.95269;0.95484;1.00000" dur="93.0s" repeatCount="indefinite"/></text>
+<text x="650.0" y="454.0" font-size="20" font-weight="bold" text-anchor="start" fill="#44506A">현재 상태</text>
+<text x="650" y="500" font-size="40" font-weight="bold" fill="#C0392B" opacity="0">00<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.86022;0.88925" dur="93.0s" repeatCount="indefinite" calcMode="discrete"/></text>
+<text x="650" y="500" font-size="40" font-weight="bold" fill="#C0392B" opacity="0">01<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.88925;0.91613" dur="93.0s" repeatCount="indefinite" calcMode="discrete"/></text>
+<text x="650" y="500" font-size="40" font-weight="bold" fill="#C0392B" opacity="0">11<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.91613;0.94301" dur="93.0s" repeatCount="indefinite" calcMode="discrete"/></text>
+<text x="650" y="500" font-size="40" font-weight="bold" fill="#C0392B" opacity="0">00<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.94301;1.00000" dur="93.0s" repeatCount="indefinite" calcMode="discrete"/></text>
+<rect x="636" y="348" width="560" height="48" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.95161;0.95430;0.98011;0.98280;1" dur="93.0s" repeatCount="indefinite"/></rect>
+<rect x="48" y="618" width="424" height="44" rx="8" fill="#FDECEC" stroke="#C0392B" stroke-width="2.5" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.95161;0.95430;0.98011;0.98280;1" dur="93.0s" repeatCount="indefinite"/></rect>
+<text x="64.0" y="650.0" font-size="28" font-weight="bold" text-anchor="start" fill="#C0392B">1의 연속이 0으로 끊기면 y = 1<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.95161;0.95430;1" dur="93.0s" repeatCount="indefinite"/></text>
+</g>
+<rect x="0" y="714" width="1280" height="6" fill="#EEF1F5"/>
+<rect x="0" y="714" width="0" height="6" fill="#7A8BA6"><animate attributeName="width" values="0;1280" keyTimes="0;1" dur="93.0s" repeatCount="indefinite"/></rect>
+</svg>

@@ -1,0 +1,189 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<defs><marker id="arw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1F2A44"/></marker><marker id="arwT" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#4A7D7C"/></marker><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1F2937"/></marker><marker id="ahc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#C0392B"/></marker></defs>
+<rect width="1280" height="720" fill="#FFFFFF"/>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.00000;0.00517;0.15000;0.15517;1" dur="58.0s" repeatCount="indefinite"/>
+<rect x="60" y="30" width="157" height="34" rx="17" fill="#1F2A44"/>
+<text x="138.3" y="53.0" font-size="17" font-weight="bold" text-anchor="middle" fill="#FFFFFF">Mealy와 Moore</text>
+<text x="60.0" y="106.0" font-size="34" font-weight="bold" text-anchor="start" fill="#111111">출력 논리에 연결되는 신호</text>
+<text x="60.0" y="142.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A">Moore = 현재 상태만 · Mealy = 현재 상태 + 입력</text>
+<text x="1220.0" y="52.0" font-size="15" font-weight="normal" text-anchor="end" fill="#7A8BA6">1 / 4</text>
+<text x="340.0" y="215.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">Moore</text>
+<rect x="100" y="290" width="150" height="90" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/>
+<text x="175.0" y="328.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#111111">다음 상태</text>
+<text x="175.0" y="354.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#111111">논리</text>
+<rect x="275" y="290" width="140" height="90" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/>
+<text x="345.0" y="328.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#111111">상태</text>
+<text x="345.0" y="354.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#111111">레지스터</text>
+<rect x="440" y="290" width="140" height="90" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/>
+<text x="510.0" y="328.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#111111">출력</text>
+<text x="510.0" y="354.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#111111">논리</text>
+<path d="M60,335 H98" fill="none" stroke="#1F2A44" stroke-width="2" marker-end="url(#arw)"/>
+<text x="60.0" y="368.0" font-size="20" font-weight="bold" text-anchor="start" fill="#1F2A44">입력</text>
+<path d="M250,335 H273" fill="none" stroke="#1F2A44" stroke-width="2" marker-end="url(#arw)"/>
+<path d="M415,335 H438" fill="none" stroke="#1F2A44" stroke-width="2" marker-end="url(#arw)"/>
+<path d="M580,335 H616" fill="none" stroke="#1F2A44" stroke-width="2" marker-end="url(#arw)"/>
+<text x="600.0" y="368.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#1F2A44">출력</text>
+<path d="M345,380 V420 H175 V383" fill="none" stroke="#1F2A44" stroke-width="2" marker-end="url(#arw)"/>
+<text x="260.0" y="448.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">현재 상태</text>
+<text x="940.0" y="215.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">Mealy</text>
+<rect x="700" y="290" width="150" height="90" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/>
+<text x="775.0" y="328.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#111111">다음 상태</text>
+<text x="775.0" y="354.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#111111">논리</text>
+<rect x="875" y="290" width="140" height="90" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/>
+<text x="945.0" y="328.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#111111">상태</text>
+<text x="945.0" y="354.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#111111">레지스터</text>
+<rect x="1040" y="290" width="140" height="90" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/>
+<text x="1110.0" y="328.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#111111">출력</text>
+<text x="1110.0" y="354.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#111111">논리</text>
+<path d="M660,335 H698" fill="none" stroke="#1F2A44" stroke-width="2" marker-end="url(#arw)"/>
+<text x="660.0" y="368.0" font-size="20" font-weight="bold" text-anchor="start" fill="#1F2A44">입력</text>
+<path d="M850,335 H873" fill="none" stroke="#1F2A44" stroke-width="2" marker-end="url(#arw)"/>
+<path d="M1015,335 H1038" fill="none" stroke="#1F2A44" stroke-width="2" marker-end="url(#arw)"/>
+<path d="M1180,335 H1216" fill="none" stroke="#1F2A44" stroke-width="2" marker-end="url(#arw)"/>
+<text x="1200.0" y="368.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#1F2A44">출력</text>
+<path d="M945,380 V420 H775 V383" fill="none" stroke="#1F2A44" stroke-width="2" marker-end="url(#arw)"/>
+<text x="860.0" y="448.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">현재 상태</text>
+<path d="M680,335 V255 H1110 V288" fill="none" stroke="#C0392B" stroke-width="4" stroke-dasharray="543" stroke-dashoffset="543"><animate attributeName="stroke-dashoffset" values="543;543;0;0" keyTimes="0;0.01724;0.05172;1" dur="58.0s" repeatCount="indefinite"/></path>
+<path d="M1101,276 L1110,290 L1119,276 Z" fill="#C0392B" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.05172;0.05345;1" dur="58.0s" repeatCount="indefinite"/></path>
+<text x="895.0" y="281.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#C0392B" opacity="0">입력이 출력 논리로 직접 연결<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.05345;0.05776;1" dur="58.0s" repeatCount="indefinite"/></text>
+<text x="340.0" y="505.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111" opacity="0">출력 = G(현재 상태)<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.06897;0.07328;1" dur="58.0s" repeatCount="indefinite"/></text>
+<text x="340.0" y="543.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A" opacity="0">클럭 에지 직후에만 바뀜<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.06897;0.07328;1" dur="58.0s" repeatCount="indefinite"/></text>
+<text x="940.0" y="505.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111" opacity="0">출력 = G(현재 상태, 입력)<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.06897;0.07328;1" dur="58.0s" repeatCount="indefinite"/></text>
+<text x="940.0" y="543.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A" opacity="0">입력이 바뀌면 즉시 바뀜<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.06897;0.07328;1" dur="58.0s" repeatCount="indefinite"/></text>
+<rect x="668" y="240" width="460" height="52" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.08103;0.08534;0.12672;0.13103;1" dur="58.0s" repeatCount="indefinite"/></rect>
+<rect x="48" y="618" width="518" height="44" rx="8" fill="#FDECEC" stroke="#C0392B" stroke-width="2.5" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.08103;0.08534;0.12672;0.13103;1" dur="58.0s" repeatCount="indefinite"/></rect>
+<text x="64.0" y="650.0" font-size="28" font-weight="bold" text-anchor="start" fill="#C0392B">차이 = 출력 논리에 입력이 연결되는가<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.08103;0.08534;1" dur="58.0s" repeatCount="indefinite"/></text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.15517;0.16034;0.32241;0.32759;1" dur="58.0s" repeatCount="indefinite"/>
+<rect x="60" y="30" width="157" height="34" rx="17" fill="#1F2A44"/>
+<text x="138.3" y="53.0" font-size="17" font-weight="bold" text-anchor="middle" fill="#FFFFFF">Mealy와 Moore</text>
+<text x="60.0" y="106.0" font-size="34" font-weight="bold" text-anchor="start" fill="#111111">상태도 표기</text>
+<text x="60.0" y="142.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A">출력을 어디에 표기하는가 — 같은 동작의 두 표기</text>
+<text x="1220.0" y="52.0" font-size="15" font-weight="normal" text-anchor="end" fill="#7A8BA6">2 / 4</text>
+<g transform="translate(108,160) scale(1.4)">
+<path d="M136.1,143.0 Q200.0,126.0 262.9,142.8" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M263.9,157.0 Q200.0,174.0 137.1,157.2" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M97.3,126.2 C53.6,88.1 166.4,88.1 122.7,126.2" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M277.3,126.2 C233.6,88.1 346.4,88.1 302.7,126.2" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M496.1,143.0 Q560.0,126.0 622.9,142.8" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M623.9,157.0 Q560.0,174.0 497.1,157.2" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M457.3,126.2 C413.6,88.1 526.4,88.1 482.7,126.2" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M637.3,126.2 C593.6,88.1 706.4,88.1 662.7,126.2" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<circle cx="110" cy="150" r="27" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="110" y="148" text-anchor="middle" font-size="17" font-weight="bold" fill="#1F2937">S0</text>
+<text x="110" y="165" text-anchor="middle" font-size="12" fill="#1F5FBF"> </text>
+<circle cx="290" cy="150" r="27" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="290" y="148" text-anchor="middle" font-size="17" font-weight="bold" fill="#1F2937">S1</text>
+<text x="290" y="165" text-anchor="middle" font-size="12" fill="#1F5FBF"> </text>
+<circle cx="470" cy="150" r="27" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="470" y="155.5" text-anchor="middle" font-size="17" font-weight="bold" fill="#1F2937">S0</text>
+<circle cx="650" cy="150" r="27" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="650" y="155.5" text-anchor="middle" font-size="17" font-weight="bold" fill="#1F2937">S1</text>
+<rect x="191.7" y="111.5" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="199.8" y="126.5" text-anchor="middle" font-size="15" fill="#1F2937">1</text>
+<rect x="192.1" y="168.5" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="200.2" y="183.5" text-anchor="middle" font-size="15" fill="#1F2937">0</text>
+<rect x="101.9" y="60.5" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="110.0" y="75.5" text-anchor="middle" font-size="15" fill="#1F2937">0</text>
+<rect x="281.9" y="60.5" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="290.0" y="75.5" text-anchor="middle" font-size="15" fill="#1F2937">1</text>
+<rect x="543.5" y="111.5" width="32.6" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="559.8" y="126.5" text-anchor="middle" font-size="15" fill="#1F2937">1/1</text>
+<rect x="543.9" y="168.5" width="32.6" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="560.2" y="183.5" text-anchor="middle" font-size="15" fill="#1F2937">0/0</text>
+<rect x="453.7" y="60.5" width="32.6" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="470.0" y="75.5" text-anchor="middle" font-size="15" fill="#1F2937">0/0</text>
+<rect x="633.7" y="60.5" width="32.6" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="650.0" y="75.5" text-anchor="middle" font-size="15" fill="#1F2937">1/0</text>
+<text x="200" y="250" text-anchor="middle" font-size="15" font-weight="bold" fill="#1F2937">(a) Moore</text>
+<text x="560" y="250" text-anchor="middle" font-size="15" font-weight="bold" fill="#1F2937">(b) Mealy</text>
+</g>
+<text x="262.0" y="392.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#1F2A44">y=0</text>
+<text x="514.0" y="392.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#1F2A44">y=1</text>
+<rect x="206" y="314" width="364" height="112" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.17414;0.17845;0.21983;0.22414;1" dur="58.0s" repeatCount="indefinite"/></rect>
+<rect x="48" y="596" width="395" height="44" rx="8" fill="#FDECEC" stroke="#C0392B" stroke-width="2.5" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.17414;0.17845;0.21983;0.22414;1" dur="58.0s" repeatCount="indefinite"/></rect>
+<text x="64.0" y="628.0" font-size="28" font-weight="bold" text-anchor="start" fill="#C0392B">Moore: 출력을 원 안에 표기<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.17414;0.17845;1" dur="58.0s" repeatCount="indefinite"/></text>
+<rect x="708" y="236" width="372" height="230" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.23621;0.24052;0.28190;0.28621;1" dur="58.0s" repeatCount="indefinite"/></rect>
+<rect x="48" y="644" width="620" height="44" rx="8" fill="#FDECEC" stroke="#C0392B" stroke-width="2.5" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.23621;0.24052;0.28190;0.28621;1" dur="58.0s" repeatCount="indefinite"/></rect>
+<text x="64.0" y="676.0" font-size="28" font-weight="bold" text-anchor="start" fill="#C0392B">Mealy: 출력을 화살표 위에 표기 (입력/출력)<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.23621;0.24052;1" dur="58.0s" repeatCount="indefinite"/></text>
+<text x="894.0" y="552.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A" opacity="0">같은 S0에서도 입력에 따라 출력이 다름<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.29138;0.29569;1" dur="58.0s" repeatCount="indefinite"/></text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.32759;0.33276;0.75345;0.75862;1" dur="58.0s" repeatCount="indefinite"/>
+<rect x="60" y="30" width="157" height="34" rx="17" fill="#1F2A44"/>
+<text x="138.3" y="53.0" font-size="17" font-weight="bold" text-anchor="middle" fill="#FFFFFF">Mealy와 Moore</text>
+<text x="60.0" y="106.0" font-size="34" font-weight="bold" text-anchor="start" fill="#111111">출력이 바뀌는 시점</text>
+<text x="60.0" y="142.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A">D = x인 플립플롭 Q · Moore 출력 z = Q · Mealy 출력 y = xQ′</text>
+<text x="1220.0" y="52.0" font-size="15" font-weight="normal" text-anchor="end" fill="#7A8BA6">3 / 4</text>
+<clipPath id="reveal10"><rect x="267" y="336" width="3" height="210"><animate attributeName="width" values="3.0;3.0;247.6;247.6;360.4;360.4;906.0;906.0" keyTimes="0.00000;0.34483;0.41954;0.47126;0.50575;0.55747;0.72414;1.00000" dur="58.0s" repeatCount="indefinite"/></rect></clipPath>
+<rect x="945.0" y="480" width="37.5" height="62" fill="#DCEBFF" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.65517;0.65948;1" dur="58.0s" repeatCount="indefinite"/></rect>
+<text x="246.0" y="240.0" font-size="24" font-weight="bold" text-anchor="end" fill="#111111">CLK</text>
+<line x1="270" y1="266" x2="1170" y2="266" stroke="#E4E8EF" stroke-width="1"/>
+<text x="246.0" y="310.0" font-size="24" font-weight="bold" text-anchor="end" fill="#111111">x</text>
+<line x1="270" y1="336" x2="1170" y2="336" stroke="#E4E8EF" stroke-width="1"/>
+<text x="246.0" y="380.0" font-size="24" font-weight="bold" text-anchor="end" fill="#111111">Q</text>
+<line x1="270" y1="406" x2="1170" y2="406" stroke="#E4E8EF" stroke-width="1"/>
+<text x="246.0" y="440.0" font-size="24" font-weight="bold" text-anchor="end" fill="#111111">z</text>
+<text x="246.0" y="464.0" font-size="20" font-weight="normal" text-anchor="end" fill="#44506A">Moore</text>
+<line x1="270" y1="476" x2="1170" y2="476" stroke="#E4E8EF" stroke-width="1"/>
+<text x="246.0" y="510.0" font-size="24" font-weight="bold" text-anchor="end" fill="#111111">y</text>
+<text x="246.0" y="534.0" font-size="20" font-weight="normal" text-anchor="end" fill="#44506A">Mealy</text>
+<line x1="270" y1="546" x2="1170" y2="546" stroke="#E4E8EF" stroke-width="1"/>
+<line x1="420.0" y1="192" x2="420.0" y2="546" stroke="#7A8BA6" stroke-width="1.5" stroke-dasharray="5,5"/>
+<text x="420.0" y="186.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#7A8BA6">↑</text>
+<line x1="570.0" y1="192" x2="570.0" y2="546" stroke="#7A8BA6" stroke-width="1.5" stroke-dasharray="5,5"/>
+<text x="570.0" y="186.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#7A8BA6">↑</text>
+<line x1="720.0" y1="192" x2="720.0" y2="546" stroke="#7A8BA6" stroke-width="1.5" stroke-dasharray="5,5"/>
+<text x="720.0" y="186.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#7A8BA6">↑</text>
+<line x1="870.0" y1="192" x2="870.0" y2="546" stroke="#7A8BA6" stroke-width="1.5" stroke-dasharray="5,5"/>
+<text x="870.0" y="186.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#7A8BA6">↑</text>
+<line x1="1020.0" y1="192" x2="1020.0" y2="546" stroke="#7A8BA6" stroke-width="1.5" stroke-dasharray="5,5"/>
+<text x="1020.0" y="186.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#7A8BA6">↑</text>
+<path d="M270.0,252 H420.0 V212 H495.0 V252 H570.0 V212 H645.0 V252 H720.0 V212 H795.0 V252 H870.0 V212 H945.0 V252 H1020.0 V212 H1095.0 V252 H1170.0" fill="none" stroke="#1F2A44" stroke-width="3.5"/>
+<path d="M270.0,322 H457.5 V282 H682.5 V322 H945.0 V282 H982.5 V322 H1057.5 V282 H1170.0" fill="none" stroke="#1F2A44" stroke-width="3.5"/>
+<g clip-path="url(#reveal10)"><path d="M270.0,392 H570.0 V352 H720.0 V392 H1170.0" fill="none" stroke="#1F2A44" stroke-width="3.5"/><path d="M270.0,462 H570.0 V422 H720.0 V462 H1170.0" fill="none" stroke="#1F2A44" stroke-width="3.5"/><path d="M270.0,532 H457.5 V492 H570.0 V532 H945.0 V492 H982.5 V532 H1057.5 V492 H1170.0" fill="none" stroke="#1F2A44" stroke-width="3.5"/></g>
+<text x="990.5" y="510.0" font-size="20" font-weight="bold" text-anchor="start" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">글리치<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.65862;0.66293;1" dur="58.0s" repeatCount="indefinite"/></text>
+<circle cx="457.5" cy="512.0" r="12" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;0.12;1;0.12;1;1" keyTimes="0.00000;0.40230;0.40299;0.40644;0.40989;0.41333;0.41678;1.00000" dur="58.0s" repeatCount="indefinite"/></circle>
+<circle cx="570.0" cy="442.0" r="12" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;0.12;1;0.12;1;1" keyTimes="0.00000;0.48851;0.48920;0.49264;0.49609;0.49954;0.50299;1.00000" dur="58.0s" repeatCount="indefinite"/></circle>
+<g opacity="0"><line x1="270" y1="194" x2="270" y2="546" stroke="#1F2A44" stroke-width="3" opacity="0.55"/><animateTransform attributeName="transform" type="translate" values="0.0 0;0.0 0;243.7 0;243.7 0;356.2 0;356.2 0;900.0 0;900.0 0" keyTimes="0.00000;0.34483;0.41954;0.47126;0.50575;0.55747;0.72414;1.00000" dur="58.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.34138;0.34483;0.72586;0.72931;1" dur="58.0s" repeatCount="indefinite"/></g>
+<rect x="52" y="478" width="1130" height="66" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.42126;0.42557;0.46695;0.47126;1" dur="58.0s" repeatCount="indefinite"/></rect>
+<rect x="48" y="596" width="540" height="44" rx="8" fill="#FDECEC" stroke="#C0392B" stroke-width="2.5" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.42126;0.42557;0.46695;0.47126;1" dur="58.0s" repeatCount="indefinite"/></rect>
+<text x="64.0" y="628.0" font-size="28" font-weight="bold" text-anchor="start" fill="#C0392B">Mealy 출력 y: 입력이 바뀌면 즉시 변화<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.42126;0.42557;1" dur="58.0s" repeatCount="indefinite"/></text>
+<rect x="52" y="408" width="1130" height="66" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.50747;0.51178;0.55316;0.55747;1" dur="58.0s" repeatCount="indefinite"/></rect>
+<rect x="48" y="644" width="504" height="44" rx="8" fill="#FDECEC" stroke="#C0392B" stroke-width="2.5" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.50747;0.51178;0.55316;0.55747;1" dur="58.0s" repeatCount="indefinite"/></rect>
+<text x="64.0" y="676.0" font-size="28" font-weight="bold" text-anchor="start" fill="#C0392B">Moore 출력 z: 클럭 에지에서만 변화<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.50747;0.51178;1" dur="58.0s" repeatCount="indefinite"/></text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.75862;0.76379;0.99483;1.00000;1" dur="58.0s" repeatCount="indefinite"/>
+<rect x="60" y="30" width="157" height="34" rx="17" fill="#1F2A44"/>
+<text x="138.3" y="53.0" font-size="17" font-weight="bold" text-anchor="middle" fill="#FFFFFF">Mealy와 Moore</text>
+<text x="60.0" y="106.0" font-size="34" font-weight="bold" text-anchor="start" fill="#111111">Mealy와 Moore 비교</text>
+<text x="60.0" y="142.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A">출력이 무엇으로 정해지는가에 따른 두 모델</text>
+<text x="1220.0" y="52.0" font-size="15" font-weight="normal" text-anchor="end" fill="#7A8BA6">4 / 4</text>
+<rect x="130" y="196" width="1070" height="320" rx="6" fill="none" stroke="#1F2A44" stroke-width="2"/>
+<line x1="130" y1="244" x2="1200" y2="244" stroke="#1F2A44" stroke-width="1.5"/>
+<line x1="130" y1="312" x2="1200" y2="312" stroke="#E4E8EF" stroke-width="1"/>
+<line x1="130" y1="380" x2="1200" y2="380" stroke="#E4E8EF" stroke-width="1"/>
+<line x1="130" y1="448" x2="1200" y2="448" stroke="#E4E8EF" stroke-width="1"/>
+<line x1="360" y1="196" x2="360" y2="516" stroke="#E4E8EF" stroke-width="1.5"/>
+<line x1="780" y1="196" x2="780" y2="516" stroke="#E4E8EF" stroke-width="1.5"/>
+<text x="245.0" y="228.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">항목</text>
+<text x="570.0" y="228.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">Moore</text>
+<text x="990.0" y="228.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">Mealy</text>
+<text x="245.0" y="287.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">출력 결정</text>
+<text x="570.0" y="287.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44">현재 상태만</text>
+<text x="990.0" y="287.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44">현재 상태 + 현재 입력</text>
+<text x="245.0" y="355.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">출력 변화 시점</text>
+<text x="570.0" y="355.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44">클럭 에지 직후</text>
+<text x="990.0" y="355.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44">입력이 바뀌면 즉시(에지 사이 포함)</text>
+<text x="245.0" y="423.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">상태 수(같은 기능)</text>
+<text x="570.0" y="423.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44">대체로 많음</text>
+<text x="990.0" y="423.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44">대체로 적음</text>
+<text x="245.0" y="491.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">상태도 표기</text>
+<text x="570.0" y="491.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44">원 안에 출력</text>
+<text x="990.0" y="491.0" font-size="22" font-weight="normal" text-anchor="middle" fill="#1F2A44">화살표 위에 입력/출력</text>
+<rect x="124" y="247" width="1082" height="62" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="x" values="124.0;124.0;124.0;124.0;124.0;124.0;124.0;124.0;124.0" keyTimes="0.00000;0.77586;0.80345;0.81379;0.84138;0.85172;0.87931;0.88966;1.00000" dur="58.0s" repeatCount="indefinite"/><animate attributeName="y" values="247.0;247.0;247.0;315.0;315.0;383.0;383.0;451.0;451.0" keyTimes="0.00000;0.77586;0.80345;0.81379;0.84138;0.85172;0.87931;0.88966;1.00000" dur="58.0s" repeatCount="indefinite"/><animate attributeName="width" values="1082.0;1082.0;1082.0;1082.0;1082.0;1082.0;1082.0;1082.0;1082.0" keyTimes="0.00000;0.77586;0.80345;0.81379;0.84138;0.85172;0.87931;0.88966;1.00000" dur="58.0s" repeatCount="indefinite"/><animate attributeName="height" values="62.0;62.0;62.0;62.0;62.0;62.0;62.0;62.0;62.0" keyTimes="0.00000;0.77586;0.80345;0.81379;0.84138;0.85172;0.87931;0.88966;1.00000" dur="58.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.77586;0.78017;0.91983;0.92414;1" dur="58.0s" repeatCount="indefinite"/></rect>
+<rect x="48" y="618" width="574" height="44" rx="8" fill="#FDECEC" stroke="#C0392B" stroke-width="2.5" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.93103;0.93534;0.97672;0.98103;1" dur="58.0s" repeatCount="indefinite"/></rect>
+<text x="64.0" y="650.0" font-size="28" font-weight="bold" text-anchor="start" fill="#C0392B">판별: 정리한 출력식에 입력 변수가 남는가<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.93103;0.93534;1" dur="58.0s" repeatCount="indefinite"/></text>
+</g>
+<rect x="0" y="714" width="1280" height="6" fill="#EEF1F5"/>
+<rect x="0" y="714" width="0" height="6" fill="#7A8BA6"><animate attributeName="width" values="0;1280" keyTimes="0;1" dur="58.0s" repeatCount="indefinite"/></rect>
+</svg>

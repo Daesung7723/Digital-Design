@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="530" height="306" viewBox="0 0 530 306" font-family="Malgun Gothic, 'Noto Sans KR', sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1F2937"/></marker><marker id="ahc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#C0392B"/></marker></defs>
+<rect x="0" y="0" width="530" height="306" fill="#FFFFFF"/>
+<g transform="translate(0,0)">
+<path d="M176.3,134.0 Q265.0,114.0 352.7,133.8" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M353.7,146.0 Q265.0,166.0 177.3,146.2" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M126.2,152.7 C88.1,196.4 88.1,83.6 126.2,127.3" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M403.8,127.3 C441.9,83.6 441.9,196.4 403.8,152.7" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<circle cx="150" cy="140" r="27" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="150" y="138" text-anchor="middle" font-size="16" font-weight="bold" fill="#1F2937">0</text>
+<text x="150" y="155" text-anchor="middle" font-size="12" fill="#1F5FBF">y=0</text>
+<circle cx="380" cy="140" r="27" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="380" y="138" text-anchor="middle" font-size="16" font-weight="bold" fill="#1F2937">1</text>
+<text x="380" y="155" text-anchor="middle" font-size="12" fill="#1F5FBF">y=1</text>
+<rect x="256.7" y="101.0" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="264.8" y="116.0" text-anchor="middle" font-size="14" fill="#1F2937">0</text>
+<rect x="257.1" y="159.0" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="265.2" y="174.0" text-anchor="middle" font-size="14" fill="#1F2937">0</text>
+<rect x="62.4" y="130.0" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="70.5" y="145.0" text-anchor="middle" font-size="14" fill="#1F2937">1</text>
+<rect x="451.4" y="130.0" width="16.2" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="459.5" y="145.0" text-anchor="middle" font-size="14" fill="#1F2937">1</text>
+</g>
+<text x="10" y="298" font-size="12.5" fill="#4B5563">원 = 상태 Q (아래 = 출력 y) · 화살표 위 = 입력 x</text>
+</svg>
