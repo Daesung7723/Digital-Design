@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="706" height="344" viewBox="0 0 706 344" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<defs><pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#9AA3B2" stroke-width="2"/></pattern></defs>
+<rect x="0" y="0" width="706" height="344" fill="#FFFFFF"/>
+<rect x="330.0" y="266" width="176.0" height="42" fill="#DCEBFF" opacity="0.7" rx="3"/>
+<line x1="154.0" y1="28" x2="154.0" y2="310" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="154.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">①</text>
+<line x1="242.0" y1="28" x2="242.0" y2="310" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="242.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">②</text>
+<line x1="330.0" y1="28" x2="330.0" y2="310" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="330.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">③</text>
+<line x1="418.0" y1="28" x2="418.0" y2="310" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="418.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">④</text>
+<line x1="506.0" y1="28" x2="506.0" y2="310" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="506.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">⑤</text>
+<line x1="594.0" y1="28" x2="594.0" y2="310" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="594.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">⑥</text>
+<text x="56" y="61.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">CLK</text>
+<line x1="66.0" y1="68" x2="154.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="154.0" y1="68" x2="154.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="154.0" y1="44" x2="198.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="198.0" y1="44" x2="198.0" y2="68" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="198.0" y1="68" x2="242.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="242.0" y1="68" x2="242.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="242.0" y1="44" x2="286.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="286.0" y1="44" x2="286.0" y2="68" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="286.0" y1="68" x2="330.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="330.0" y1="68" x2="330.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="330.0" y1="44" x2="374.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="374.0" y1="44" x2="374.0" y2="68" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="374.0" y1="68" x2="418.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="418.0" y1="68" x2="418.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="418.0" y1="44" x2="462.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="462.0" y1="44" x2="462.0" y2="68" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="462.0" y1="68" x2="506.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="506.0" y1="68" x2="506.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="506.0" y1="44" x2="550.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="550.0" y1="44" x2="550.0" y2="68" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="550.0" y1="68" x2="594.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="594.0" y1="68" x2="594.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="594.0" y1="44" x2="638.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="638.0" y1="44" x2="638.0" y2="68" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="638.0" y1="68" x2="682.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="66" y1="80.0" x2="682" y2="80.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="56" y="107.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">x</text>
+<line x1="66.0" y1="90" x2="440.0" y2="90" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="440.0" y1="90" x2="440.0" y2="114" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="440.0" y1="114" x2="528.0" y2="114" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="528.0" y1="114" x2="528.0" y2="90" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="528.0" y1="90" x2="682.0" y2="90" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="66" y1="126.0" x2="682" y2="126.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="56" y="153.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">상태</text>
+<path d="M66.0,148.0 L70.0,136 L150.0,136 L154.0,148.0 L150.0,160 L70.0,160 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="110.0" y="152.5" font-size="12.5" text-anchor="middle" fill="#111111">S0</text>
+<path d="M154.0,148.0 L158.0,136 L238.0,136 L242.0,148.0 L238.0,160 L158.0,160 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="198.0" y="152.5" font-size="12.5" text-anchor="middle" fill="#111111">S1</text>
+<path d="M242.0,148.0 L246.0,136 L326.0,136 L330.0,148.0 L326.0,160 L246.0,160 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="286.0" y="152.5" font-size="12.5" text-anchor="middle" fill="#111111">S2</text>
+<path d="M330.0,148.0 L334.0,136 L502.0,136 L506.0,148.0 L502.0,160 L334.0,160 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="418.0" y="152.5" font-size="12.5" text-anchor="middle" fill="#111111">S3</text>
+<path d="M506.0,148.0 L510.0,136 L590.0,136 L594.0,148.0 L590.0,160 L510.0,160 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="550.0" y="152.5" font-size="12.5" text-anchor="middle" fill="#111111">S0</text>
+<path d="M594.0,148.0 L598.0,136 L678.0,136 L682.0,148.0 L678.0,160 L598.0,160 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="638.0" y="152.5" font-size="12.5" text-anchor="middle" fill="#111111">S1</text>
+<line x1="66" y1="172.0" x2="682" y2="172.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="56" y="199.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">A</text>
+<line x1="66.0" y1="206" x2="242.0" y2="206" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="242.0" y1="206" x2="242.0" y2="182" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="242.0" y1="182" x2="506.0" y2="182" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="506.0" y1="182" x2="506.0" y2="206" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="506.0" y1="206" x2="682.0" y2="206" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="66" y1="218.0" x2="682" y2="218.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="56" y="245.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">B</text>
+<line x1="66.0" y1="252" x2="154.0" y2="252" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="154.0" y1="252" x2="154.0" y2="228" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="154.0" y1="228" x2="242.0" y2="228" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="242.0" y1="228" x2="242.0" y2="252" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="242.0" y1="252" x2="330.0" y2="252" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="330.0" y1="252" x2="330.0" y2="228" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="330.0" y1="228" x2="506.0" y2="228" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="506.0" y1="228" x2="506.0" y2="252" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="506.0" y1="252" x2="594.0" y2="252" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="594.0" y1="252" x2="594.0" y2="228" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="594.0" y1="228" x2="682.0" y2="228" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="66" y1="264.0" x2="682" y2="264.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="56" y="291.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">y=AB</text>
+<line x1="66.0" y1="298" x2="330.0" y2="298" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="330.0" y1="298" x2="330.0" y2="274" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="330.0" y1="274" x2="506.0" y2="274" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="506.0" y1="274" x2="506.0" y2="298" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="506.0" y1="298" x2="682.0" y2="298" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="66" y1="310.0" x2="682" y2="310.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="8" y="338" font-size="12" fill="#44506A">이진 할당 S0=00 · S1=01 · S2=10 · S3=11 · y는 세 번째 1을 표본화한 에지 ③ 뒤부터 1(Moore)</text>
+</svg>

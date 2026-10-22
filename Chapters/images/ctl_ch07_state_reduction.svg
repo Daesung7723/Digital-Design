@@ -1,0 +1,368 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<defs><marker id="arw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1F2A44"/></marker><marker id="arwT" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#4A7D7C"/></marker><marker id="arwS" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="13" markerHeight="13" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1F2A44"/></marker><marker id="arwE" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="16" markerHeight="16" markerUnits="userSpaceOnUse" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#C0392B"/></marker></defs>
+<rect width="1280" height="720" fill="#FFFFFF"/>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.00000;0.00536;0.21786;0.22321;1" dur="56.0s" repeatCount="indefinite"/>
+<rect x="60" y="30" width="109" height="34" rx="17" fill="#1F2A44"/>
+<text x="114.5" y="53.0" font-size="17" font-weight="bold" text-anchor="middle" fill="#FFFFFF">상태 축소</text>
+<text x="60.0" y="106.0" font-size="34" font-weight="bold" text-anchor="start" fill="#111111">출발점 — 축소 전 상태표와 상태도</text>
+<text x="60.0" y="142.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A">예제 3-2 · 상태표의 한 행 = 상태 하나와 그 상태에서 나가는 화살표 2개</text>
+<text x="1220.0" y="52.0" font-size="15" font-weight="normal" text-anchor="end" fill="#7A8BA6">1 / 4</text>
+<rect x="101" y="255" width="528" height="56" fill="#DCEBFF" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.03929;0.04375;0.06339;0.06786;1" dur="56.0s" repeatCount="indefinite"/></rect>
+<rect x="101" y="313" width="528" height="56" fill="#DCEBFF" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.07143;0.07589;0.08482;0.08929;1" dur="56.0s" repeatCount="indefinite"/></rect>
+<rect x="101" y="371" width="528" height="56" fill="#DCEBFF" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.08929;0.09375;0.10268;0.10714;1" dur="56.0s" repeatCount="indefinite"/></rect>
+<rect x="101" y="429" width="528" height="56" fill="#DCEBFF" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.10714;0.11161;0.12054;0.12500;1" dur="56.0s" repeatCount="indefinite"/></rect>
+<rect x="100" y="190" width="530" height="296" rx="6" fill="none" stroke="#1F2A44" stroke-width="2"/>
+<line x1="100" y1="254" x2="630" y2="254" stroke="#1F2A44" stroke-width="1.5"/>
+<line x1="100" y1="312" x2="630" y2="312" stroke="#E4E8EF" stroke-width="1"/>
+<line x1="100" y1="370" x2="630" y2="370" stroke="#E4E8EF" stroke-width="1"/>
+<line x1="100" y1="428" x2="630" y2="428" stroke="#E4E8EF" stroke-width="1"/>
+<line x1="170" y1="190" x2="170" y2="486" stroke="#E4E8EF" stroke-width="1.5"/>
+<line x1="285" y1="190" x2="285" y2="486" stroke="#E4E8EF" stroke-width="1.5"/>
+<line x1="400" y1="190" x2="400" y2="486" stroke="#E4E8EF" stroke-width="1.5"/>
+<line x1="515" y1="190" x2="515" y2="486" stroke="#E4E8EF" stroke-width="1.5"/>
+<text x="135.0" y="230.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">현재</text>
+<text x="227.5" y="216.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">다음</text>
+<text x="227.5" y="242.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">x = 0</text>
+<text x="342.5" y="216.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">다음</text>
+<text x="342.5" y="242.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">x = 1</text>
+<text x="457.5" y="216.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">출력</text>
+<text x="457.5" y="242.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">x = 0</text>
+<text x="572.5" y="216.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">출력</text>
+<text x="572.5" y="242.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">x = 1</text>
+<text x="135.0" y="292.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">A</text>
+<text x="227.5" y="292.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">B</text>
+<text x="342.5" y="292.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">C</text>
+<text x="457.5" y="292.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">0</text>
+<text x="572.5" y="292.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">0</text>
+<text x="135.0" y="350.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">B</text>
+<text x="227.5" y="350.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">D</text>
+<text x="342.5" y="350.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">C</text>
+<text x="457.5" y="350.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">0</text>
+<text x="572.5" y="350.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">1</text>
+<text x="135.0" y="408.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">C</text>
+<text x="227.5" y="408.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">D</text>
+<text x="342.5" y="408.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">C</text>
+<text x="457.5" y="408.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">0</text>
+<text x="572.5" y="408.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">1</text>
+<text x="135.0" y="466.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">D</text>
+<text x="227.5" y="466.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">A</text>
+<text x="342.5" y="466.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">C</text>
+<text x="457.5" y="466.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">0</text>
+<text x="572.5" y="466.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">0</text>
+<text x="700.0" y="186.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A">라벨 = 입력 / 출력</text>
+<path d="M756.5,378.7 Q832.5,317.5 907.0,257.6" fill="none" stroke="#1F2A44" stroke-width="2" stroke-linecap="round" marker-end="url(#arwS)" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.03929;0.04375;1" dur="56.0s" repeatCount="indefinite"/></path>
+<path d="M764.0,400.0 Q935.0,400.0 1104.0,400.0" fill="none" stroke="#1F2A44" stroke-width="2" stroke-linecap="round" marker-end="url(#arwS)" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.03929;0.04375;1" dur="56.0s" repeatCount="indefinite"/></path>
+<path d="M935.0,269.0 Q935.0,400.0 935.0,529.0" fill="none" stroke="#1F2A44" stroke-width="2" stroke-linecap="round" marker-end="url(#arwS)" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.07143;0.07589;1" dur="56.0s" repeatCount="indefinite"/></path>
+<path d="M961.5,256.3 C1011.6,296.7 1061.8,337.1 1112.0,377.4" fill="none" stroke="#1F2A44" stroke-width="2" stroke-linecap="round" marker-end="url(#arwS)" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.07143;0.07589;1" dur="56.0s" repeatCount="indefinite"/></path>
+<path d="M1118.9,426.6 Q1056.0,506.0 967.4,549.2" fill="none" stroke="#1F2A44" stroke-width="2" stroke-linecap="round" marker-end="url(#arwS)" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.08929;0.09375;1" dur="56.0s" repeatCount="indefinite"/></path>
+<path d="M1170.0,384.0 C1202.4,343.8 1202.4,456.2 1171.8,416.9" fill="none" stroke="#1F2A44" stroke-width="2" stroke-linecap="round" marker-end="url(#arwS)" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.08929;0.09375;1" dur="56.0s" repeatCount="indefinite"/></path>
+<path d="M908.5,543.7 Q832.5,482.5 758.0,422.6" fill="none" stroke="#1F2A44" stroke-width="2" stroke-linecap="round" marker-end="url(#arwS)" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.10714;0.11161;1" dur="56.0s" repeatCount="indefinite"/></path>
+<path d="M956.1,538.4 Q1019.0,459.0 1107.6,415.8" fill="none" stroke="#1F2A44" stroke-width="2" stroke-linecap="round" marker-end="url(#arwS)" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.10714;0.11161;1" dur="56.0s" repeatCount="indefinite"/></path>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.01071;0.01518;1" dur="56.0s" repeatCount="indefinite"/><circle cx="730" cy="400" r="34" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/><text x="730.0" y="410.0" font-size="28" font-weight="bold" text-anchor="middle" fill="#111111">A</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.01071;0.01518;1" dur="56.0s" repeatCount="indefinite"/><circle cx="935" cy="235" r="34" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/><text x="935.0" y="245.0" font-size="28" font-weight="bold" text-anchor="middle" fill="#111111">B</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.01071;0.01518;1" dur="56.0s" repeatCount="indefinite"/><circle cx="1140" cy="400" r="34" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/><text x="1140.0" y="410.0" font-size="28" font-weight="bold" text-anchor="middle" fill="#111111">C</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.01071;0.01518;1" dur="56.0s" repeatCount="indefinite"/><circle cx="935" cy="565" r="34" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/><text x="935.0" y="575.0" font-size="28" font-weight="bold" text-anchor="middle" fill="#111111">D</text></g>
+<text x="852.0" y="332.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">0/0<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.03929;0.04375;1" dur="56.0s" repeatCount="indefinite"/></text>
+<path d="M756.5,378.7 Q832.5,317.5 907.0,257.6" fill="none" stroke="#C0392B" stroke-width="3.5" stroke-linecap="round" marker-end="url(#arwE)" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.03929;0.04375;0.06339;0.06786;1" dur="56.0s" repeatCount="indefinite"/></path>
+<text x="852.0" y="332.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#C0392B" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">0/0<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.03929;0.04375;0.06339;0.06786;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="835.0" y="391.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">1/0<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.03929;0.04375;1" dur="56.0s" repeatCount="indefinite"/></text>
+<path d="M764.0,400.0 Q935.0,400.0 1104.0,400.0" fill="none" stroke="#C0392B" stroke-width="3.5" stroke-linecap="round" marker-end="url(#arwE)" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.03929;0.04375;0.06339;0.06786;1" dur="56.0s" repeatCount="indefinite"/></path>
+<text x="835.0" y="391.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#C0392B" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">1/0<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.03929;0.04375;0.06339;0.06786;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="925.0" y="480.0" font-size="20" font-weight="normal" text-anchor="end" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">0/0<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.07143;0.07589;1" dur="56.0s" repeatCount="indefinite"/></text>
+<path d="M935.0,269.0 Q935.0,400.0 935.0,529.0" fill="none" stroke="#C0392B" stroke-width="3.5" stroke-linecap="round" marker-end="url(#arwE)" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.07143;0.07589;0.08482;0.08929;1" dur="56.0s" repeatCount="indefinite"/></path>
+<text x="925.0" y="480.0" font-size="20" font-weight="bold" text-anchor="end" fill="#C0392B" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">0/0<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.07143;0.07589;0.08482;0.08929;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="1060.0" y="308.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">1/1<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.07143;0.07589;1" dur="56.0s" repeatCount="indefinite"/></text>
+<path d="M961.5,256.3 C1011.6,296.7 1061.8,337.1 1112.0,377.4" fill="none" stroke="#C0392B" stroke-width="3.5" stroke-linecap="round" marker-end="url(#arwE)" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.07143;0.07589;0.08482;0.08929;1" dur="56.0s" repeatCount="indefinite"/></path>
+<text x="1060.0" y="308.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#C0392B" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">1/1<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.07143;0.07589;0.08482;0.08929;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="1070.0" y="522.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">0/0<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.08929;0.09375;1" dur="56.0s" repeatCount="indefinite"/></text>
+<path d="M1118.9,426.6 Q1056.0,506.0 967.4,549.2" fill="none" stroke="#C0392B" stroke-width="3.5" stroke-linecap="round" marker-end="url(#arwE)" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.08929;0.09375;0.10268;0.10714;1" dur="56.0s" repeatCount="indefinite"/></path>
+<text x="1070.0" y="522.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#C0392B" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">0/0<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.08929;0.09375;0.10268;0.10714;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="1196.0" y="352.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">1/1<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.08929;0.09375;1" dur="56.0s" repeatCount="indefinite"/></text>
+<path d="M1170.0,384.0 C1202.4,343.8 1202.4,456.2 1171.8,416.9" fill="none" stroke="#C0392B" stroke-width="3.5" stroke-linecap="round" marker-end="url(#arwE)" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.08929;0.09375;0.10268;0.10714;1" dur="56.0s" repeatCount="indefinite"/></path>
+<text x="1196.0" y="352.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#C0392B" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">1/1<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.08929;0.09375;0.10268;0.10714;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="815.0" y="507.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">0/0<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.10714;0.11161;1" dur="56.0s" repeatCount="indefinite"/></text>
+<path d="M908.5,543.7 Q832.5,482.5 758.0,422.6" fill="none" stroke="#C0392B" stroke-width="3.5" stroke-linecap="round" marker-end="url(#arwE)" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.10714;0.11161;0.12054;0.12500;1" dur="56.0s" repeatCount="indefinite"/></path>
+<text x="815.0" y="507.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#C0392B" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">0/0<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.10714;0.11161;0.12054;0.12500;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="1000.0" y="470.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">1/0<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.10714;0.11161;1" dur="56.0s" repeatCount="indefinite"/></text>
+<path d="M956.1,538.4 Q1019.0,459.0 1107.6,415.8" fill="none" stroke="#C0392B" stroke-width="3.5" stroke-linecap="round" marker-end="url(#arwE)" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.10714;0.11161;0.12054;0.12500;1" dur="56.0s" repeatCount="indefinite"/></path>
+<text x="1000.0" y="470.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#C0392B" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">1/0<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.10714;0.11161;0.12054;0.12500;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="100.0" y="524.0" font-size="24" font-weight="bold" text-anchor="start" fill="#1F2A44" opacity="0">상태 4개 = 상태표의 행 4개<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.01429;0.01875;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="100.0" y="562.0" font-size="24" font-weight="bold" text-anchor="start" fill="#1F2A44" opacity="0">A행 → A에서 나가는 화살표 2개 (x = 0 → B · x = 1 → C)<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.04286;0.04732;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="935.0" y="632.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#1F2A44" opacity="0">4상태 · 전이 8<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.13571;0.14018;1" dur="56.0s" repeatCount="indefinite"/></text>
+<rect x="48" y="618" width="594" height="44" rx="8" fill="#FDECEC" stroke="#C0392B" stroke-width="2.5" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.14821;0.15268;0.19554;0.20000;1" dur="56.0s" repeatCount="indefinite"/></rect>
+<text x="64.0" y="650.0" font-size="28" font-weight="bold" text-anchor="start" fill="#C0392B">같은 일을 하는 상태가 있으면 하나로 합친다<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.14821;0.15268;1" dur="56.0s" repeatCount="indefinite"/></text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.22321;0.22857;0.45893;0.46429;1" dur="56.0s" repeatCount="indefinite"/>
+<rect x="60" y="30" width="109" height="34" rx="17" fill="#1F2A44"/>
+<text x="114.5" y="53.0" font-size="17" font-weight="bold" text-anchor="middle" fill="#FFFFFF">상태 축소</text>
+<text x="60.0" y="106.0" font-size="34" font-weight="bold" text-anchor="start" fill="#111111">후보 선별 — 출력이 같은 쌍</text>
+<text x="60.0" y="142.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A">예제 3-2 · 병합 조건 1 = 모든 입력에서 출력이 같다</text>
+<text x="1220.0" y="52.0" font-size="15" font-weight="normal" text-anchor="end" fill="#7A8BA6">2 / 4</text>
+<rect x="101" y="313" width="528" height="56" fill="#DCEBFF" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.26607;0.27054;0.31161;0.31607;1" dur="56.0s" repeatCount="indefinite"/></rect>
+<rect x="101" y="371" width="528" height="56" fill="#DCEBFF" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.26607;0.27054;0.31161;0.31607;1" dur="56.0s" repeatCount="indefinite"/></rect>
+<circle cx="935" cy="235" r="44" fill="#DCEBFF" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.26607;0.27054;0.31161;0.31607;1" dur="56.0s" repeatCount="indefinite"/></circle>
+<circle cx="1140" cy="400" r="44" fill="#DCEBFF" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.26607;0.27054;0.31161;0.31607;1" dur="56.0s" repeatCount="indefinite"/></circle>
+<rect x="101" y="255" width="528" height="56" fill="#DCEBFF" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.32321;0.32768;0.36875;0.37321;1" dur="56.0s" repeatCount="indefinite"/></rect>
+<rect x="101" y="429" width="528" height="56" fill="#DCEBFF" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.32321;0.32768;0.36875;0.37321;1" dur="56.0s" repeatCount="indefinite"/></rect>
+<circle cx="730" cy="400" r="44" fill="#DCEBFF" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.32321;0.32768;0.36875;0.37321;1" dur="56.0s" repeatCount="indefinite"/></circle>
+<circle cx="935" cy="565" r="44" fill="#DCEBFF" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.32321;0.32768;0.36875;0.37321;1" dur="56.0s" repeatCount="indefinite"/></circle>
+<rect x="100" y="190" width="530" height="296" rx="6" fill="none" stroke="#1F2A44" stroke-width="2"/>
+<line x1="100" y1="254" x2="630" y2="254" stroke="#1F2A44" stroke-width="1.5"/>
+<line x1="100" y1="312" x2="630" y2="312" stroke="#E4E8EF" stroke-width="1"/>
+<line x1="100" y1="370" x2="630" y2="370" stroke="#E4E8EF" stroke-width="1"/>
+<line x1="100" y1="428" x2="630" y2="428" stroke="#E4E8EF" stroke-width="1"/>
+<line x1="170" y1="190" x2="170" y2="486" stroke="#E4E8EF" stroke-width="1.5"/>
+<line x1="285" y1="190" x2="285" y2="486" stroke="#E4E8EF" stroke-width="1.5"/>
+<line x1="400" y1="190" x2="400" y2="486" stroke="#E4E8EF" stroke-width="1.5"/>
+<line x1="515" y1="190" x2="515" y2="486" stroke="#E4E8EF" stroke-width="1.5"/>
+<text x="135.0" y="230.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">현재</text>
+<text x="227.5" y="216.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">다음</text>
+<text x="227.5" y="242.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">x = 0</text>
+<text x="342.5" y="216.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">다음</text>
+<text x="342.5" y="242.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">x = 1</text>
+<text x="457.5" y="216.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">출력</text>
+<text x="457.5" y="242.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">x = 0</text>
+<text x="572.5" y="216.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">출력</text>
+<text x="572.5" y="242.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">x = 1</text>
+<text x="135.0" y="292.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">A</text>
+<text x="227.5" y="292.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">B</text>
+<text x="342.5" y="292.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">C</text>
+<text x="457.5" y="292.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">0</text>
+<text x="572.5" y="292.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">0</text>
+<text x="135.0" y="350.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">B</text>
+<text x="227.5" y="350.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">D</text>
+<text x="342.5" y="350.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">C</text>
+<text x="457.5" y="350.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">0</text>
+<text x="572.5" y="350.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">1</text>
+<text x="135.0" y="408.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">C</text>
+<text x="227.5" y="408.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">D</text>
+<text x="342.5" y="408.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">C</text>
+<text x="457.5" y="408.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">0</text>
+<text x="572.5" y="408.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">1</text>
+<text x="135.0" y="466.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">D</text>
+<text x="227.5" y="466.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">A</text>
+<text x="342.5" y="466.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">C</text>
+<text x="457.5" y="466.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">0</text>
+<text x="572.5" y="466.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">0</text>
+<text x="700.0" y="186.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A">라벨 = 입력 / 출력</text>
+<path d="M756.5,378.7 Q832.5,317.5 907.0,257.6" fill="none" stroke="#1F2A44" stroke-width="2" stroke-linecap="round" marker-end="url(#arwS)"></path>
+<path d="M764.0,400.0 Q935.0,400.0 1104.0,400.0" fill="none" stroke="#1F2A44" stroke-width="2" stroke-linecap="round" marker-end="url(#arwS)"></path>
+<path d="M935.0,269.0 Q935.0,400.0 935.0,529.0" fill="none" stroke="#1F2A44" stroke-width="2" stroke-linecap="round" marker-end="url(#arwS)"></path>
+<path d="M961.5,256.3 C1011.6,296.7 1061.8,337.1 1112.0,377.4" fill="none" stroke="#1F2A44" stroke-width="2" stroke-linecap="round" marker-end="url(#arwS)"></path>
+<path d="M1118.9,426.6 Q1056.0,506.0 967.4,549.2" fill="none" stroke="#1F2A44" stroke-width="2" stroke-linecap="round" marker-end="url(#arwS)"></path>
+<path d="M1170.0,384.0 C1202.4,343.8 1202.4,456.2 1171.8,416.9" fill="none" stroke="#1F2A44" stroke-width="2" stroke-linecap="round" marker-end="url(#arwS)"></path>
+<path d="M908.5,543.7 Q832.5,482.5 758.0,422.6" fill="none" stroke="#1F2A44" stroke-width="2" stroke-linecap="round" marker-end="url(#arwS)"></path>
+<path d="M956.1,538.4 Q1019.0,459.0 1107.6,415.8" fill="none" stroke="#1F2A44" stroke-width="2" stroke-linecap="round" marker-end="url(#arwS)"></path>
+<circle cx="730" cy="400" r="34" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"></circle>
+<text x="730.0" y="410.0" font-size="28" font-weight="bold" text-anchor="middle" fill="#111111">A</text>
+<circle cx="935" cy="235" r="34" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"></circle>
+<text x="935.0" y="245.0" font-size="28" font-weight="bold" text-anchor="middle" fill="#111111">B</text>
+<circle cx="1140" cy="400" r="34" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"></circle>
+<text x="1140.0" y="410.0" font-size="28" font-weight="bold" text-anchor="middle" fill="#111111">C</text>
+<circle cx="935" cy="565" r="34" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"></circle>
+<text x="935.0" y="575.0" font-size="28" font-weight="bold" text-anchor="middle" fill="#111111">D</text>
+<text x="852.0" y="332.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke">0/0</text>
+<text x="835.0" y="391.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke">1/0</text>
+<text x="925.0" y="480.0" font-size="20" font-weight="normal" text-anchor="end" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke">0/0</text>
+<text x="1060.0" y="308.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke">1/1</text>
+<text x="1070.0" y="522.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke">0/0</text>
+<text x="1196.0" y="352.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke">1/1</text>
+<text x="815.0" y="507.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke">0/0</text>
+<text x="1000.0" y="470.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke">1/0</text>
+<text x="925.0" y="480.0" font-size="20" font-weight="bold" text-anchor="end" fill="#C0392B" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">0/0<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.26607;0.27054;0.31161;0.31607;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="1060.0" y="308.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#C0392B" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">1/1<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.26607;0.27054;0.31161;0.31607;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="1070.0" y="522.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#C0392B" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">0/0<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.26607;0.27054;0.31161;0.31607;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="1196.0" y="352.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#C0392B" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">1/1<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.26607;0.27054;0.31161;0.31607;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="852.0" y="332.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#C0392B" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">0/0<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.32321;0.32768;0.36875;0.37321;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="835.0" y="391.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#C0392B" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">1/0<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.32321;0.32768;0.36875;0.37321;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="815.0" y="507.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#C0392B" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">0/0<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.32321;0.32768;0.36875;0.37321;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="1000.0" y="470.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#C0392B" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">1/0<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.32321;0.32768;0.36875;0.37321;1" dur="56.0s" repeatCount="indefinite"/></text>
+<rect x="394" y="184" width="242" height="308" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.24286;0.24732;0.25804;0.26250;1" dur="56.0s" repeatCount="indefinite"/></rect>
+<text x="935.0" y="632.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#1F2A44" opacity="0">출력 = 화살표 라벨의 「/」 뒤 숫자<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.24464;0.24911;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="74.0" y="350.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#C0392B" opacity="0">①<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.26607;0.27054;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="74.0" y="408.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#C0392B" opacity="0">①<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.26607;0.27054;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="74.0" y="292.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#C0392B" opacity="0">②<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.32321;0.32768;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="74.0" y="466.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#C0392B" opacity="0">②<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.32321;0.32768;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="100.0" y="524.0" font-size="24" font-weight="bold" text-anchor="start" fill="#1F2A44" opacity="0">① B, C — 출력 (0, 1)<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.26964;0.27411;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="100.0" y="562.0" font-size="24" font-weight="bold" text-anchor="start" fill="#1F2A44" opacity="0">② A, D — 출력 (0, 0)<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.32679;0.33125;1" dur="56.0s" repeatCount="indefinite"/></text>
+<rect x="48" y="618" width="314" height="44" rx="8" fill="#FDECEC" stroke="#C0392B" stroke-width="2.5" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.38571;0.39018;0.43304;0.43750;1" dur="56.0s" repeatCount="indefinite"/></rect>
+<text x="64.0" y="650.0" font-size="28" font-weight="bold" text-anchor="start" fill="#C0392B">후보 = 출력이 같은 쌍<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.38571;0.39018;1" dur="56.0s" repeatCount="indefinite"/></text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.46429;0.46964;0.74464;0.75000;1" dur="56.0s" repeatCount="indefinite"/>
+<rect x="60" y="30" width="109" height="34" rx="17" fill="#1F2A44"/>
+<text x="114.5" y="53.0" font-size="17" font-weight="bold" text-anchor="middle" fill="#FFFFFF">상태 축소</text>
+<text x="60.0" y="106.0" font-size="34" font-weight="bold" text-anchor="start" fill="#111111">(B, C) 병합과 치환</text>
+<text x="60.0" y="142.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A">병합 조건 2 = 모든 입력에서 다음 상태가 같다 (또는 서로 병합 가능한 쌍)</text>
+<text x="1220.0" y="52.0" font-size="15" font-weight="normal" text-anchor="end" fill="#7A8BA6">3 / 4</text>
+<rect x="101" y="313" width="528" height="56" fill="#DCEBFF" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.46964;0.47411;0.52054;0.52500;1" dur="56.0s" repeatCount="indefinite"/></rect>
+<rect x="101" y="371" width="528" height="56" fill="#DCEBFF" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.46964;0.47411;0.52054;0.52500;1" dur="56.0s" repeatCount="indefinite"/></rect>
+<circle cx="935" cy="235" r="44" fill="#DCEBFF" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.46964;0.47411;0.52054;0.52500;1" dur="56.0s" repeatCount="indefinite"/></circle>
+<circle cx="1140" cy="400" r="44" fill="#DCEBFF" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.46964;0.47411;0.52054;0.52500;1" dur="56.0s" repeatCount="indefinite"/></circle>
+<rect x="100" y="190" width="530" height="296" rx="6" fill="none" stroke="#1F2A44" stroke-width="2"/>
+<line x1="100" y1="254" x2="630" y2="254" stroke="#1F2A44" stroke-width="1.5"/>
+<line x1="100" y1="312" x2="630" y2="312" stroke="#E4E8EF" stroke-width="1"/>
+<line x1="100" y1="370" x2="630" y2="370" stroke="#E4E8EF" stroke-width="1"/>
+<line x1="100" y1="428" x2="630" y2="428" stroke="#E4E8EF" stroke-width="1"/>
+<line x1="170" y1="190" x2="170" y2="486" stroke="#E4E8EF" stroke-width="1.5"/>
+<line x1="285" y1="190" x2="285" y2="486" stroke="#E4E8EF" stroke-width="1.5"/>
+<line x1="400" y1="190" x2="400" y2="486" stroke="#E4E8EF" stroke-width="1.5"/>
+<line x1="515" y1="190" x2="515" y2="486" stroke="#E4E8EF" stroke-width="1.5"/>
+<text x="135.0" y="230.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">현재</text>
+<text x="227.5" y="216.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">다음</text>
+<text x="227.5" y="242.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">x = 0</text>
+<text x="342.5" y="216.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">다음</text>
+<text x="342.5" y="242.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">x = 1</text>
+<text x="457.5" y="216.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">출력</text>
+<text x="457.5" y="242.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">x = 0</text>
+<text x="572.5" y="216.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">출력</text>
+<text x="572.5" y="242.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">x = 1</text>
+<text x="135.0" y="292.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">A</text>
+<text x="227.5" y="292.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">B</text>
+<text x="342.5" y="292.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44" opacity="0">C<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.46429;0.55357" dur="56.0s" repeatCount="indefinite" calcMode="discrete"/></text>
+<text x="342.5" y="292.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#C0392B" opacity="0">B<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.55357;0.75000" dur="56.0s" repeatCount="indefinite" calcMode="discrete"/></text>
+<text x="457.5" y="292.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">0</text>
+<text x="572.5" y="292.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">0</text>
+<text x="135.0" y="350.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">B</text>
+<text x="227.5" y="350.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">D</text>
+<text x="342.5" y="350.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44" opacity="0">C<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.46429;0.58036" dur="56.0s" repeatCount="indefinite" calcMode="discrete"/></text>
+<text x="342.5" y="350.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#C0392B" opacity="0">B<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.58036;0.75000" dur="56.0s" repeatCount="indefinite" calcMode="discrete"/></text>
+<text x="457.5" y="350.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">0</text>
+<text x="572.5" y="350.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">1</text>
+<text x="135.0" y="408.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">C<animate attributeName="opacity" values="1;1;0.35;0.35" keyTimes="0;0.52500;0.53571;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="227.5" y="408.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">D<animate attributeName="opacity" values="1;1;0.35;0.35" keyTimes="0;0.52500;0.53571;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="342.5" y="408.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">C<animate attributeName="opacity" values="1;1;0.35;0.35" keyTimes="0;0.52500;0.53571;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="457.5" y="408.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">0<animate attributeName="opacity" values="1;1;0.35;0.35" keyTimes="0;0.52500;0.53571;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="572.5" y="408.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">1<animate attributeName="opacity" values="1;1;0.35;0.35" keyTimes="0;0.52500;0.53571;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="135.0" y="466.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">D</text>
+<text x="227.5" y="466.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">A</text>
+<text x="342.5" y="466.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44" opacity="0">C<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.46429;0.60714" dur="56.0s" repeatCount="indefinite" calcMode="discrete"/></text>
+<text x="342.5" y="466.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#C0392B" opacity="0">B<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.60714;0.75000" dur="56.0s" repeatCount="indefinite" calcMode="discrete"/></text>
+<text x="457.5" y="466.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">0</text>
+<text x="572.5" y="466.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">0</text>
+<text x="700.0" y="186.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A">라벨 = 입력 / 출력</text>
+<path d="M756.5,378.7 Q832.5,317.5 907.0,257.6" fill="none" stroke="#1F2A44" stroke-width="2" stroke-linecap="round" marker-end="url(#arwS)"></path>
+<path d="M935.0,269.0 Q935.0,400.0 935.0,529.0" fill="none" stroke="#1F2A44" stroke-width="2" stroke-linecap="round" marker-end="url(#arwS)"></path>
+<path d="M908.5,543.7 Q832.5,482.5 758.0,422.6" fill="none" stroke="#1F2A44" stroke-width="2" stroke-linecap="round" marker-end="url(#arwS)"></path>
+<path d="M1118.9,426.6 Q1056.0,506.0 967.4,549.2" fill="none" stroke="#1F2A44" stroke-width="2" stroke-linecap="round" marker-end="url(#arwS)"><animate attributeName="opacity" values="1;1;0.35;0.35;0;0" keyTimes="0;0.52500;0.53571;0.63393;0.64286;1" dur="56.0s" repeatCount="indefinite"/></path>
+<path d="M1170.0,384.0 C1202.4,343.8 1202.4,456.2 1171.8,416.9" fill="none" stroke="#1F2A44" stroke-width="2" stroke-linecap="round" marker-end="url(#arwS)"><animate attributeName="opacity" values="1;1;0.35;0.35;0;0" keyTimes="0;0.52500;0.53571;0.63393;0.64286;1" dur="56.0s" repeatCount="indefinite"/></path>
+<path d="M764.0,400.0 Q935.0,400.0 1104.0,400.0" fill="none" stroke="#1F2A44" stroke-width="2" stroke-linecap="round" marker-end="url(#arwS)"><animate attributeName="d" values="M764.0,400.0 Q935.0,400.0 1104.0,400.0;M764.0,400.0 Q935.0,400.0 1104.0,400.0;M742.6,368.4 Q785.0,262.0 899.6,241.4;M742.6,368.4 Q785.0,262.0 899.6,241.4" keyTimes="0;0.55357;0.56607;1" dur="56.0s" repeatCount="indefinite"/></path>
+<path d="M961.5,256.3 C1011.6,296.7 1061.8,337.1 1112.0,377.4" fill="none" stroke="#1F2A44" stroke-width="2" stroke-linecap="round" marker-end="url(#arwS)"><animate attributeName="d" values="M961.5,256.3 C1011.6,296.7 1061.8,337.1 1112.0,377.4;M961.5,256.3 C1011.6,296.7 1061.8,337.1 1112.0,377.4;M919.0,205.0 C878.8,172.6 991.2,172.6 951.9,203.2;M919.0,205.0 C878.8,172.6 991.2,172.6 951.9,203.2" keyTimes="0;0.58036;0.59286;1" dur="56.0s" repeatCount="indefinite"/></path>
+<path d="M956.1,538.4 Q1019.0,459.0 1107.6,415.8" fill="none" stroke="#1F2A44" stroke-width="2" stroke-linecap="round" marker-end="url(#arwS)"><animate attributeName="d" values="M956.1,538.4 Q1019.0,459.0 1107.6,415.8;M956.1,538.4 Q1019.0,459.0 1107.6,415.8;M952.0,535.5 Q1030.0,400.0 953.0,266.2;M952.0,535.5 Q1030.0,400.0 953.0,266.2" keyTimes="0;0.60714;0.61964;1" dur="56.0s" repeatCount="indefinite"/></path>
+<circle cx="730" cy="400" r="34" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"></circle>
+<text x="730.0" y="410.0" font-size="28" font-weight="bold" text-anchor="middle" fill="#111111">A</text>
+<circle cx="935" cy="235" r="34" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"></circle>
+<text x="935.0" y="245.0" font-size="28" font-weight="bold" text-anchor="middle" fill="#111111">B</text>
+<circle cx="935" cy="565" r="34" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"></circle>
+<text x="935.0" y="575.0" font-size="28" font-weight="bold" text-anchor="middle" fill="#111111">D</text>
+<g><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.65714;0.66071;1" dur="56.0s" repeatCount="indefinite"/><circle cx="1140" cy="400" r="34" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"><animate attributeName="cx" values="1140.0;1140.0;935.0;935.0" keyTimes="0.00000;0.63393;0.66071;1.00000" dur="56.0s" repeatCount="indefinite"/><animate attributeName="cy" values="400.0;400.0;235.0;235.0" keyTimes="0.00000;0.63393;0.66071;1.00000" dur="56.0s" repeatCount="indefinite"/></circle><circle cx="1140" cy="400" r="39" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.52500;0.52946;1" dur="56.0s" repeatCount="indefinite"/><animate attributeName="cx" values="1140.0;1140.0;935.0;935.0" keyTimes="0.00000;0.63393;0.66071;1.00000" dur="56.0s" repeatCount="indefinite"/><animate attributeName="cy" values="400.0;400.0;235.0;235.0" keyTimes="0.00000;0.63393;0.66071;1.00000" dur="56.0s" repeatCount="indefinite"/></circle><text x="1140" y="410" font-size="28" font-weight="bold" text-anchor="middle" fill="#111111">C<animate attributeName="x" values="1140.0;1140.0;935.0;935.0" keyTimes="0.00000;0.63393;0.66071;1.00000" dur="56.0s" repeatCount="indefinite"/><animate attributeName="y" values="410.0;410.0;245.0;245.0" keyTimes="0.00000;0.63393;0.66071;1.00000" dur="56.0s" repeatCount="indefinite"/></text></g>
+<text x="852.0" y="332.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke">0/0</text>
+<text x="925.0" y="480.0" font-size="20" font-weight="normal" text-anchor="end" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke">0/0</text>
+<text x="815.0" y="507.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke">0/0</text>
+<text x="1070.0" y="522.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke">0/0<animate attributeName="opacity" values="1;1;0.35;0.35;0;0" keyTimes="0;0.52500;0.53571;0.63393;0.64286;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="1196.0" y="352.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke">1/1<animate attributeName="opacity" values="1;1;0.35;0.35;0;0" keyTimes="0;0.52500;0.53571;0.63393;0.64286;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="835.0" y="391.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke">1/0<animate attributeName="x" values="835.0;835.0;788.0;788.0" keyTimes="0.00000;0.55357;0.56607;1.00000" dur="56.0s" repeatCount="indefinite"/><animate attributeName="y" values="391.0;391.0;270.0;270.0" keyTimes="0.00000;0.55357;0.56607;1.00000" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="1060.0" y="308.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke">1/1<animate attributeName="x" values="1060.0;1060.0;935.0;935.0" keyTimes="0.00000;0.58036;0.59286;1.00000" dur="56.0s" repeatCount="indefinite"/><animate attributeName="y" values="308.0;308.0;168.0;168.0" keyTimes="0.00000;0.58036;0.59286;1.00000" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="1000.0" y="470.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke">1/0<animate attributeName="x" values="1000.0;1000.0;1010.0;1010.0" keyTimes="0.00000;0.60714;0.61964;1.00000" dur="56.0s" repeatCount="indefinite"/><animate attributeName="y" values="470.0;470.0;405.0;405.0" keyTimes="0.00000;0.60714;0.61964;1.00000" dur="56.0s" repeatCount="indefinite"/></text>
+<rect x="166" y="308" width="238" height="124" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.48393;0.48839;0.51339;0.51786;1" dur="56.0s" repeatCount="indefinite"/></rect>
+<path d="M935.0,269.0 Q935.0,400.0 935.0,529.0" fill="none" stroke="#C0392B" stroke-width="3.5" stroke-linecap="round" marker-end="url(#arwE)" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.48214;0.48661;0.51339;0.51786;1" dur="56.0s" repeatCount="indefinite"/></path>
+<path d="M961.5,256.3 C1011.6,296.7 1061.8,337.1 1112.0,377.4" fill="none" stroke="#C0392B" stroke-width="3.5" stroke-linecap="round" marker-end="url(#arwE)" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.48214;0.48661;0.51339;0.51786;1" dur="56.0s" repeatCount="indefinite"/></path>
+<path d="M1118.9,426.6 Q1056.0,506.0 967.4,549.2" fill="none" stroke="#C0392B" stroke-width="3.5" stroke-linecap="round" marker-end="url(#arwE)" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.48214;0.48661;0.51339;0.51786;1" dur="56.0s" repeatCount="indefinite"/></path>
+<path d="M1170.0,384.0 C1202.4,343.8 1202.4,456.2 1171.8,416.9" fill="none" stroke="#C0392B" stroke-width="3.5" stroke-linecap="round" marker-end="url(#arwE)" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.48214;0.48661;0.51339;0.51786;1" dur="56.0s" repeatCount="indefinite"/></path>
+<text x="100.0" y="524.0" font-size="24" font-weight="bold" text-anchor="start" fill="#1F2A44" opacity="0">다음 상태 (D, C) = (D, C) → B와 C는 등가<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.49286;0.49732;1" dur="56.0s" repeatCount="indefinite"/></text>
+<line x1="112" y1="399.0" x2="618" y2="399.0" stroke="#C0392B" stroke-width="3" stroke-dasharray="506" stroke-dashoffset="506"><animate attributeName="stroke-dashoffset" values="506;506;0;0" keyTimes="0;0.52500;0.53571;1" dur="56.0s" repeatCount="indefinite"/></line>
+<text x="100.0" y="562.0" font-size="24" font-weight="bold" text-anchor="start" fill="#1F2A44" opacity="0">C를 B로 병합 → C를 모두 B로 치환<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.53929;0.54375;1" dur="56.0s" repeatCount="indefinite"/></text>
+<path d="M764.0,400.0 Q935.0,400.0 1104.0,400.0" fill="none" stroke="#C0392B" stroke-width="3.5" stroke-linecap="round" marker-end="url(#arwE)" opacity="0"><animate attributeName="d" values="M764.0,400.0 Q935.0,400.0 1104.0,400.0;M764.0,400.0 Q935.0,400.0 1104.0,400.0;M742.6,368.4 Q785.0,262.0 899.6,241.4;M742.6,368.4 Q785.0,262.0 899.6,241.4" keyTimes="0;0.55357;0.56607;1" dur="56.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.55357;0.55804;0.74554;0.75000;1" dur="56.0s" repeatCount="indefinite"/></path>
+<text x="835.0" y="391.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#C0392B" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">1/0<animate attributeName="x" values="835.0;835.0;788.0;788.0" keyTimes="0.00000;0.55357;0.56607;1.00000" dur="56.0s" repeatCount="indefinite"/><animate attributeName="y" values="391.0;391.0;270.0;270.0" keyTimes="0.00000;0.55357;0.56607;1.00000" dur="56.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.55357;0.55804;0.74554;0.75000;1" dur="56.0s" repeatCount="indefinite"/></text>
+<path d="M961.5,256.3 C1011.6,296.7 1061.8,337.1 1112.0,377.4" fill="none" stroke="#C0392B" stroke-width="3.5" stroke-linecap="round" marker-end="url(#arwE)" opacity="0"><animate attributeName="d" values="M961.5,256.3 C1011.6,296.7 1061.8,337.1 1112.0,377.4;M961.5,256.3 C1011.6,296.7 1061.8,337.1 1112.0,377.4;M919.0,205.0 C878.8,172.6 991.2,172.6 951.9,203.2;M919.0,205.0 C878.8,172.6 991.2,172.6 951.9,203.2" keyTimes="0;0.58036;0.59286;1" dur="56.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.58036;0.58482;0.74554;0.75000;1" dur="56.0s" repeatCount="indefinite"/></path>
+<text x="1060.0" y="308.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#C0392B" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">1/1<animate attributeName="x" values="1060.0;1060.0;935.0;935.0" keyTimes="0.00000;0.58036;0.59286;1.00000" dur="56.0s" repeatCount="indefinite"/><animate attributeName="y" values="308.0;308.0;168.0;168.0" keyTimes="0.00000;0.58036;0.59286;1.00000" dur="56.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.58036;0.58482;0.74554;0.75000;1" dur="56.0s" repeatCount="indefinite"/></text>
+<path d="M956.1,538.4 Q1019.0,459.0 1107.6,415.8" fill="none" stroke="#C0392B" stroke-width="3.5" stroke-linecap="round" marker-end="url(#arwE)" opacity="0"><animate attributeName="d" values="M956.1,538.4 Q1019.0,459.0 1107.6,415.8;M956.1,538.4 Q1019.0,459.0 1107.6,415.8;M952.0,535.5 Q1030.0,400.0 953.0,266.2;M952.0,535.5 Q1030.0,400.0 953.0,266.2" keyTimes="0;0.60714;0.61964;1" dur="56.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.60714;0.61161;0.74554;0.75000;1" dur="56.0s" repeatCount="indefinite"/></path>
+<text x="1000.0" y="470.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#C0392B" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">1/0<animate attributeName="x" values="1000.0;1000.0;1010.0;1010.0" keyTimes="0.00000;0.60714;0.61964;1.00000" dur="56.0s" repeatCount="indefinite"/><animate attributeName="y" values="470.0;470.0;405.0;405.0" keyTimes="0.00000;0.60714;0.61964;1.00000" dur="56.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.60714;0.61161;0.74554;0.75000;1" dur="56.0s" repeatCount="indefinite"/></text>
+<circle cx="935" cy="235" r="39" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.65893;0.66339;0.68125;0.68571;1" dur="56.0s" repeatCount="indefinite"/></circle>
+<text x="935.0" y="632.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#1F2A44" opacity="0">상태 4<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.46429;0.66071" dur="56.0s" repeatCount="indefinite" calcMode="discrete"/></text>
+<text x="935.0" y="632.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#C0392B" opacity="0">상태 3<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.66071;0.75000" dur="56.0s" repeatCount="indefinite" calcMode="discrete"/></text>
+<text x="100.0" y="600.0" font-size="24" font-weight="bold" text-anchor="start" fill="#C0392B" opacity="0">C가 B에 합쳐짐 → 상태 4 → 3<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.66071;0.66518;1" dur="56.0s" repeatCount="indefinite"/></text>
+<rect x="281" y="250" width="123" height="240" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.68036;0.68482;0.72768;0.73214;1" dur="56.0s" repeatCount="indefinite"/></rect>
+<rect x="48" y="618" width="494" height="44" rx="8" fill="#FDECEC" stroke="#C0392B" stroke-width="2.5" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.68036;0.68482;0.72768;0.73214;1" dur="56.0s" repeatCount="indefinite"/></rect>
+<text x="64.0" y="650.0" font-size="28" font-weight="bold" text-anchor="start" fill="#C0392B">병합하면 표와 상태도 전체에서 치환<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.68036;0.68482;1" dur="56.0s" repeatCount="indefinite"/></text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.75000;0.75536;0.99464;1.00000;1" dur="56.0s" repeatCount="indefinite"/>
+<rect x="60" y="30" width="109" height="34" rx="17" fill="#1F2A44"/>
+<text x="114.5" y="53.0" font-size="17" font-weight="bold" text-anchor="middle" fill="#FFFFFF">상태 축소</text>
+<text x="60.0" y="106.0" font-size="34" font-weight="bold" text-anchor="start" fill="#111111">치환 뒤 재검사 — (A, D)</text>
+<text x="60.0" y="142.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A">병합 뒤에는 남은 후보 쌍의 다음 상태가 바뀐다</text>
+<text x="1220.0" y="52.0" font-size="15" font-weight="normal" text-anchor="end" fill="#7A8BA6">4 / 4</text>
+<circle cx="730" cy="400" r="44" fill="#DCEBFF" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.76786;0.77232;0.85268;0.85714;1" dur="56.0s" repeatCount="indefinite"/></circle>
+<circle cx="935" cy="565" r="44" fill="#DCEBFF" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.76786;0.77232;0.85268;0.85714;1" dur="56.0s" repeatCount="indefinite"/></circle>
+<circle cx="935" cy="235" r="44" fill="#DCEBFF" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.84643;0.85089;0.94554;0.95000;1" dur="56.0s" repeatCount="indefinite"/></circle>
+<text x="100.0" y="184.0" font-size="20" font-weight="bold" text-anchor="start" fill="#111111">치환 전</text>
+<rect x="100" y="194" width="340" height="164" rx="6" fill="none" stroke="#1F2A44" stroke-width="2"/>
+<line x1="100" y1="258" x2="440" y2="258" stroke="#1F2A44" stroke-width="1.5"/>
+<line x1="100" y1="308" x2="440" y2="308" stroke="#E4E8EF" stroke-width="1"/>
+<line x1="180" y1="194" x2="180" y2="358" stroke="#E4E8EF" stroke-width="1.5"/>
+<line x1="310" y1="194" x2="310" y2="358" stroke="#E4E8EF" stroke-width="1.5"/>
+<text x="140.0" y="234.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">현재</text>
+<text x="245.0" y="220.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">다음</text>
+<text x="245.0" y="246.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">x = 0</text>
+<text x="375.0" y="220.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">다음</text>
+<text x="375.0" y="246.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">x = 1</text>
+<text x="140.0" y="292.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">A</text>
+<text x="245.0" y="292.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">B</text>
+<text x="375.0" y="292.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">C</text>
+<text x="140.0" y="342.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">D</text>
+<text x="245.0" y="342.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">A</text>
+<text x="375.0" y="342.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">C</text>
+<rect x="176" y="254" width="138" height="108" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.76964;0.77411;0.80268;0.80714;1" dur="56.0s" repeatCount="indefinite"/></rect>
+<text x="460.0" y="316.0" font-size="24" font-weight="bold" text-anchor="start" fill="#1F2A44" opacity="0">x = 0: B ≠ A → 보류<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.77857;0.78304;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="100.0" y="392.0" font-size="20" font-weight="bold" text-anchor="start" fill="#111111">치환 뒤</text>
+<rect x="100" y="402" width="340" height="164" rx="6" fill="none" stroke="#1F2A44" stroke-width="2"/>
+<line x1="100" y1="466" x2="440" y2="466" stroke="#1F2A44" stroke-width="1.5"/>
+<line x1="100" y1="516" x2="440" y2="516" stroke="#E4E8EF" stroke-width="1"/>
+<line x1="180" y1="402" x2="180" y2="566" stroke="#E4E8EF" stroke-width="1.5"/>
+<line x1="310" y1="402" x2="310" y2="566" stroke="#E4E8EF" stroke-width="1.5"/>
+<text x="140.0" y="442.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">현재</text>
+<text x="245.0" y="428.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">다음</text>
+<text x="245.0" y="454.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">x = 0</text>
+<text x="375.0" y="428.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">다음</text>
+<text x="375.0" y="454.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">x = 1</text>
+<text x="140.0" y="500.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">A</text>
+<text x="245.0" y="500.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">B</text>
+<text x="375.0" y="500.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#C0392B">B</text>
+<text x="140.0" y="550.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">D</text>
+<text x="245.0" y="550.0" font-size="24" font-weight="normal" text-anchor="middle" fill="#1F2A44">A</text>
+<text x="375.0" y="550.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#C0392B">B</text>
+<rect x="176" y="462" width="138" height="108" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.81250;0.81696;0.84554;0.85000;1" dur="56.0s" repeatCount="indefinite"/></rect>
+<text x="460.0" y="524.0" font-size="24" font-weight="bold" text-anchor="start" fill="#1F2A44" opacity="0">x = 0: 여전히 B ≠ A<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.82143;0.82589;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="700.0" y="186.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A">라벨 = 입력 / 출력</text>
+<path d="M756.5,378.7 Q832.5,317.5 907.0,257.6" fill="none" stroke="#1F2A44" stroke-width="2" stroke-linecap="round" marker-end="url(#arwS)"></path>
+<path d="M935.0,269.0 Q935.0,400.0 935.0,529.0" fill="none" stroke="#1F2A44" stroke-width="2" stroke-linecap="round" marker-end="url(#arwS)"></path>
+<path d="M908.5,543.7 Q832.5,482.5 758.0,422.6" fill="none" stroke="#1F2A44" stroke-width="2" stroke-linecap="round" marker-end="url(#arwS)"></path>
+<path d="M742.6,368.4 Q785.0,262.0 899.6,241.4" fill="none" stroke="#1F2A44" stroke-width="2" stroke-linecap="round" marker-end="url(#arwS)"></path>
+<path d="M919.0,205.0 C878.8,172.6 991.2,172.6 951.9,203.2" fill="none" stroke="#1F2A44" stroke-width="2" stroke-linecap="round" marker-end="url(#arwS)"></path>
+<path d="M952.0,535.5 Q1030.0,400.0 953.0,266.2" fill="none" stroke="#1F2A44" stroke-width="2" stroke-linecap="round" marker-end="url(#arwS)"></path>
+<circle cx="730" cy="400" r="34" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"></circle>
+<text x="730.0" y="410.0" font-size="28" font-weight="bold" text-anchor="middle" fill="#111111">A</text>
+<circle cx="935" cy="235" r="34" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"></circle>
+<text x="935.0" y="245.0" font-size="28" font-weight="bold" text-anchor="middle" fill="#111111">B</text>
+<circle cx="935" cy="565" r="34" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"></circle>
+<text x="935.0" y="575.0" font-size="28" font-weight="bold" text-anchor="middle" fill="#111111">D</text>
+<text x="852.0" y="332.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke">0/0</text>
+<text x="925.0" y="480.0" font-size="20" font-weight="normal" text-anchor="end" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke">0/0</text>
+<text x="815.0" y="507.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke">0/0</text>
+<text x="788.0" y="270.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke">1/0</text>
+<text x="935.0" y="168.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke">1/1</text>
+<text x="1010.0" y="405.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#1F2A44" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke">1/0</text>
+<path d="M756.5,378.7 Q832.5,317.5 907.0,257.6" fill="none" stroke="#C0392B" stroke-width="3.5" stroke-linecap="round" marker-end="url(#arwE)" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.76786;0.77232;0.85268;0.85714;1" dur="56.0s" repeatCount="indefinite"/></path>
+<text x="852.0" y="332.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#C0392B" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">0/0<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.76786;0.77232;0.85268;0.85714;1" dur="56.0s" repeatCount="indefinite"/></text>
+<path d="M908.5,543.7 Q832.5,482.5 758.0,422.6" fill="none" stroke="#C0392B" stroke-width="3.5" stroke-linecap="round" marker-end="url(#arwE)" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.76786;0.77232;0.85268;0.85714;1" dur="56.0s" repeatCount="indefinite"/></path>
+<text x="815.0" y="507.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#C0392B" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">0/0<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.76786;0.77232;0.85268;0.85714;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="788.0" y="270.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#C0392B" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">1/0<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.84643;0.85089;0.94554;0.95000;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="935.0" y="168.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#C0392B" stroke="#FFFFFF" stroke-width="6" stroke-linejoin="round" paint-order="stroke" opacity="0">1/1<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.84643;0.85089;0.94554;0.95000;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="100.0" y="600.0" font-size="24" font-weight="bold" text-anchor="start" fill="#1F2A44" opacity="0">B와 A는 출력이 다름 (A: 0, 0 · B: 0, 1) → 등가가 아님<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.84643;0.85089;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="1220.0" y="190.0" font-size="24" font-weight="bold" text-anchor="end" fill="#C0392B" opacity="0">최종 3상태 (A, B, D)<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.87143;0.87589;1" dur="56.0s" repeatCount="indefinite"/></text>
+<rect x="48" y="618" width="594" height="44" rx="8" fill="#FDECEC" stroke="#C0392B" stroke-width="2.5" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.89821;0.90268;0.94554;0.95000;1" dur="56.0s" repeatCount="indefinite"/></rect>
+<text x="64.0" y="650.0" font-size="28" font-weight="bold" text-anchor="start" fill="#C0392B">출력이 같아도 다음 상태가 다르면 병합 불가<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.89821;0.90268;1" dur="56.0s" repeatCount="indefinite"/></text>
+<text x="935.0" y="632.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#1F2A44" opacity="0">상태 4 → 3 · 전이 8 → 6 · 입출력 동작은 같다<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.95714;0.96161;1" dur="56.0s" repeatCount="indefinite"/></text>
+</g>
+<rect x="0" y="714" width="1280" height="6" fill="#EEF1F5"/>
+<rect x="0" y="714" width="0" height="6" fill="#7A8BA6"><animate attributeName="width" values="0;1280" keyTimes="0;1" dur="56.0s" repeatCount="indefinite"/></rect>
+</svg>

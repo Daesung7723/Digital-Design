@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="356" viewBox="0 0 600 356" font-family="Malgun Gothic, 'Noto Sans KR', sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1F2937"/></marker><marker id="ahc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#C0392B"/></marker></defs>
+<rect x="0" y="0" width="600" height="356" fill="#FFFFFF"/>
+<g transform="translate(0,0)">
+<path d="M137.0,150.0 L272.0,150.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M324.8,139.4 L474.2,76.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M324.8,160.6 L474.2,224.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M500.0,92.0 L500.0,207.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M473.6,240.6 Q285.8,280.4 132.5,166.7" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<circle cx="110" cy="150" r="27" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="110" y="148" text-anchor="middle" font-size="16" font-weight="bold" fill="#1F2937">I</text>
+<text x="110" y="165" text-anchor="middle" font-size="12" fill="#1F5FBF">출력 0</text>
+<circle cx="300" cy="150" r="27" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="300" y="148" text-anchor="middle" font-size="16" font-weight="bold" fill="#1F2937">W</text>
+<text x="300" y="165" text-anchor="middle" font-size="12" fill="#1F5FBF">v=1</text>
+<circle cx="500" cy="65" r="27" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="500" y="63" text-anchor="middle" font-size="16" font-weight="bold" fill="#1F2937">S</text>
+<text x="500" y="80" text-anchor="middle" font-size="12" fill="#1F5FBF">s=1</text>
+<circle cx="500" cy="235" r="27" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="500" y="233" text-anchor="middle" font-size="16" font-weight="bold" fill="#1F2937">O</text>
+<text x="500" y="250" text-anchor="middle" font-size="12" fill="#1F5FBF">o=1</text>
+<rect x="370.9" y="88.8" width="32.6" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="387.2" y="103.8" text-anchor="middle" font-size="14" fill="#1F2937">x=1</text>
+<rect x="381.1" y="167.3" width="32.6" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="397.4" y="182.3" text-anchor="middle" font-size="14" fill="#1F2937">x=0</text>
+</g>
+<text x="10" y="348" font-size="12.5" fill="#4B5563">원 아래 = 그 단계에서 1이 되는 출력 · 라벨 없는 화살표 = 조건 없이 다음 클럭에 진행</text>
+</svg>

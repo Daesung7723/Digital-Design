@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<defs><marker id="arw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1F2A44"/></marker><marker id="arwT" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#4A7D7C"/></marker></defs>
+<rect width="1280" height="720" fill="#FFFFFF"/>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.00000;0.00896;0.49851;0.50746;1" dur="33.5s" repeatCount="indefinite"/>
+<rect x="60" y="30" width="109" height="34" rx="17" fill="#1F2A44"/>
+<text x="114.5" y="53.0" font-size="17" font-weight="bold" text-anchor="middle" fill="#FFFFFF">설계 절차</text>
+<text x="60.0" y="106.0" font-size="34" font-weight="bold" text-anchor="start" fill="#111111">분석과 설계의 방향</text>
+<text x="60.0" y="142.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A">6장 분석과 7장 설계는 같은 표현을 반대 순서로 지난다</text>
+<text x="1220.0" y="52.0" font-size="15" font-weight="normal" text-anchor="end" fill="#7A8BA6">1 / 2</text>
+<rect x="60" y="300" width="200" height="100" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/><text x="160.0" y="358.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">회로</text>
+<rect x="300" y="300" width="200" height="100" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/><text x="400.0" y="358.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">FF 입력 방정식</text>
+<rect x="540" y="300" width="200" height="100" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/><text x="640.0" y="358.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">상태표</text>
+<rect x="780" y="300" width="200" height="100" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/><text x="880.0" y="358.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">상태도</text>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.19104;0.19851;1" dur="33.5s" repeatCount="indefinite"/><rect x="1020" y="300" width="200" height="100" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/><text x="1120.0" y="346.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">기능 정의</text><text x="1120.0" y="378.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">(한 문장)</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.00896;0.01642;0.17761;0.18507;1" dur="33.5s" repeatCount="indefinite"/><path d="M264,350.0 H294" fill="none" stroke="#1F2A44" stroke-width="3.5" marker-end="url(#arw)"/></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.00896;0.01642;0.17761;0.18507;1" dur="33.5s" repeatCount="indefinite"/><path d="M504,350.0 H534" fill="none" stroke="#1F2A44" stroke-width="3.5" marker-end="url(#arw)"/></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.00896;0.01642;0.17761;0.18507;1" dur="33.5s" repeatCount="indefinite"/><path d="M744,350.0 H774" fill="none" stroke="#1F2A44" stroke-width="3.5" marker-end="url(#arw)"/></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.20299;0.21045;1" dur="33.5s" repeatCount="indefinite"/><path d="M1016,350.0 H986" fill="none" stroke="#1F2A44" stroke-width="3.5" marker-end="url(#arw)"/></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.21194;0.21940;1" dur="33.5s" repeatCount="indefinite"/><path d="M776,350.0 H746" fill="none" stroke="#1F2A44" stroke-width="3.5" marker-end="url(#arw)"/></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.22090;0.22836;1" dur="33.5s" repeatCount="indefinite"/><path d="M536,350.0 H506" fill="none" stroke="#1F2A44" stroke-width="3.5" marker-end="url(#arw)"/></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.22985;0.23731;1" dur="33.5s" repeatCount="indefinite"/><path d="M296,350.0 H266" fill="none" stroke="#1F2A44" stroke-width="3.5" marker-end="url(#arw)"/></g>
+<text x="640.0" y="264.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#1F2A44" opacity="0">6장 분석 — 회로에서 동작으로<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.01791;0.02537;0.17761;0.18507;1" dur="33.5s" repeatCount="indefinite"/></text>
+<text x="640.0" y="264.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#C0392B" opacity="0">7장 설계 — 기능 정의에서 회로로<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.19701;0.20448;1" dur="33.5s" repeatCount="indefinite"/></text>
+<rect x="52" y="292" width="216" height="116" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="x" values="52.0;52.0;52.0;292.0;292.0;532.0;532.0;772.0;772.0" keyTimes="0.00000;0.02985;0.05075;0.06567;0.08657;0.10149;0.12239;0.13731;1.00000" dur="33.5s" repeatCount="indefinite"/><animate attributeName="y" values="292.0;292.0;292.0;292.0;292.0;292.0;292.0;292.0;292.0" keyTimes="0.00000;0.02985;0.05075;0.06567;0.08657;0.10149;0.12239;0.13731;1.00000" dur="33.5s" repeatCount="indefinite"/><animate attributeName="width" values="216.0;216.0;216.0;216.0;216.0;216.0;216.0;216.0;216.0" keyTimes="0.00000;0.02985;0.05075;0.06567;0.08657;0.10149;0.12239;0.13731;1.00000" dur="33.5s" repeatCount="indefinite"/><animate attributeName="height" values="116.0;116.0;116.0;116.0;116.0;116.0;116.0;116.0;116.0" keyTimes="0.00000;0.02985;0.05075;0.06567;0.08657;0.10149;0.12239;0.13731;1.00000" dur="33.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.02985;0.03731;0.15373;0.16119;1" dur="33.5s" repeatCount="indefinite"/></rect>
+<rect x="1012" y="292" width="216" height="116" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="x" values="1012.0;1012.0;1012.0;772.0;772.0;532.0;532.0;292.0;292.0;52.0;52.0" keyTimes="0.00000;0.24478;0.25970;0.27463;0.28955;0.30448;0.31940;0.33433;0.34925;0.36418;1.00000" dur="33.5s" repeatCount="indefinite"/><animate attributeName="y" values="292.0;292.0;292.0;292.0;292.0;292.0;292.0;292.0;292.0;292.0;292.0" keyTimes="0.00000;0.24478;0.25970;0.27463;0.28955;0.30448;0.31940;0.33433;0.34925;0.36418;1.00000" dur="33.5s" repeatCount="indefinite"/><animate attributeName="width" values="216.0;216.0;216.0;216.0;216.0;216.0;216.0;216.0;216.0;216.0;216.0" keyTimes="0.00000;0.24478;0.25970;0.27463;0.28955;0.30448;0.31940;0.33433;0.34925;0.36418;1.00000" dur="33.5s" repeatCount="indefinite"/><animate attributeName="height" values="116.0;116.0;116.0;116.0;116.0;116.0;116.0;116.0;116.0;116.0;116.0" keyTimes="0.00000;0.24478;0.25970;0.27463;0.28955;0.30448;0.31940;0.33433;0.34925;0.36418;1.00000" dur="33.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.24478;0.25224;0.38060;0.38806;1" dur="33.5s" repeatCount="indefinite"/></rect>
+<text x="640.0" y="480.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A" opacity="0">같은 표현 · 같은 표 — 화살표 방향만 다르다<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.38209;0.38955;1" dur="33.5s" repeatCount="indefinite"/></text>
+<rect x="48" y="618" width="342" height="44" rx="8" fill="#FDECEC" stroke="#C0392B" stroke-width="2.5" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.39701;0.40448;0.47612;0.48358;1" dur="33.5s" repeatCount="indefinite"/></rect>
+<text x="64.0" y="650.0" font-size="28" font-weight="bold" text-anchor="start" fill="#C0392B">설계 = 분석 절차의 역순<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.39701;0.40448;1" dur="33.5s" repeatCount="indefinite"/></text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.50746;0.51642;0.99104;1.00000;1" dur="33.5s" repeatCount="indefinite"/>
+<rect x="60" y="30" width="109" height="34" rx="17" fill="#1F2A44"/>
+<text x="114.5" y="53.0" font-size="17" font-weight="bold" text-anchor="middle" fill="#FFFFFF">설계 절차</text>
+<text x="60.0" y="106.0" font-size="34" font-weight="bold" text-anchor="start" fill="#111111">설계 7단계</text>
+<text x="60.0" y="142.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A">Step 1만 기능 정의에서 새로 도출하고, Step 2~7은 배운 도구를 차례로 적용한다</text>
+<text x="1220.0" y="52.0" font-size="15" font-weight="normal" text-anchor="end" fill="#7A8BA6">2 / 2</text>
+<rect x="227" y="224" width="991" height="128" rx="10" fill="#DCEBFF" opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.81791;0.82537;1" dur="33.5s" repeatCount="indefinite"/></rect>
+<rect x="70" y="236" width="150" height="104" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/>
+<text x="145.0" y="272.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#44506A">Step 1</text>
+<text x="145.0" y="312.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">상태도 도출</text>
+<text x="145.0" y="376.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">§2</text>
+<rect x="235" y="236" width="150" height="104" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/>
+<text x="310.0" y="272.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#44506A">Step 2</text>
+<text x="310.0" y="312.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">상태 축소</text>
+<text x="310.0" y="376.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">§3</text>
+<rect x="400" y="236" width="150" height="104" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/>
+<text x="475.0" y="272.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#44506A">Step 3</text>
+<text x="475.0" y="312.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">상태 할당</text>
+<text x="475.0" y="376.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">§4</text>
+<rect x="565" y="236" width="150" height="104" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/>
+<text x="640.0" y="272.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#44506A">Step 4</text>
+<text x="640.0" y="312.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">상태표</text>
+<text x="640.0" y="376.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">§5</text>
+<rect x="730" y="236" width="150" height="104" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/>
+<text x="805.0" y="272.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#44506A">Step 5</text>
+<text x="805.0" y="312.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">FF 선택</text>
+<text x="805.0" y="376.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">§5 · §6</text>
+<rect x="895" y="236" width="150" height="104" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/>
+<text x="970.0" y="272.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#44506A">Step 6</text>
+<text x="970.0" y="312.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">입력 방정식</text>
+<text x="970.0" y="376.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">§5 · §6</text>
+<rect x="1060" y="236" width="150" height="104" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/>
+<text x="1135.0" y="272.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#44506A">Step 7</text>
+<text x="1135.0" y="312.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">회로 · 검증</text>
+<text x="1135.0" y="376.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">§5</text>
+<rect x="64" y="230" width="162" height="116" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="x" values="64.0;64.0;64.0;229.0;229.0;394.0;394.0;559.0;559.0;724.0;724.0;889.0;889.0;1054.0;1054.0" keyTimes="0.00000;0.53731;0.55522;0.57015;0.58806;0.60299;0.62090;0.63582;0.65373;0.66866;0.68657;0.70149;0.71940;0.73433;1.00000" dur="33.5s" repeatCount="indefinite"/><animate attributeName="y" values="230.0;230.0;230.0;230.0;230.0;230.0;230.0;230.0;230.0;230.0;230.0;230.0;230.0;230.0;230.0" keyTimes="0.00000;0.53731;0.55522;0.57015;0.58806;0.60299;0.62090;0.63582;0.65373;0.66866;0.68657;0.70149;0.71940;0.73433;1.00000" dur="33.5s" repeatCount="indefinite"/><animate attributeName="width" values="162.0;162.0;162.0;162.0;162.0;162.0;162.0;162.0;162.0;162.0;162.0;162.0;162.0;162.0;162.0" keyTimes="0.00000;0.53731;0.55522;0.57015;0.58806;0.60299;0.62090;0.63582;0.65373;0.66866;0.68657;0.70149;0.71940;0.73433;1.00000" dur="33.5s" repeatCount="indefinite"/><animate attributeName="height" values="116.0;116.0;116.0;116.0;116.0;116.0;116.0;116.0;116.0;116.0;116.0;116.0;116.0;116.0;116.0" keyTimes="0.00000;0.53731;0.55522;0.57015;0.58806;0.60299;0.62090;0.63582;0.65373;0.66866;0.68657;0.70149;0.71940;0.73433;1.00000" dur="33.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.53731;0.54478;0.78060;0.78806;1" dur="33.5s" repeatCount="indefinite"/></rect>
+<rect x="64" y="230" width="162" height="116" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.80896;0.81642;0.99254;1.00000;1" dur="33.5s" repeatCount="indefinite"/></rect>
+<text x="145.0" y="440.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#C0392B" opacity="0">창의성<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.81194;0.81940;1" dur="33.5s" repeatCount="indefinite"/></text>
+<text x="145.0" y="474.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A" opacity="0">무엇을 기억할지<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.81194;0.81940;1" dur="33.5s" repeatCount="indefinite"/></text>
+<text x="722.5" y="440.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#1F2A44" opacity="0">배운 도구를 차례로 적용하는 기계적 절차<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.82388;0.83134;1" dur="33.5s" repeatCount="indefinite"/></text>
+<text x="722.5" y="474.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A" opacity="0">3장 K-map · 5장 특성표 · 여기표 · 6장 상태표<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.82388;0.83134;1" dur="33.5s" repeatCount="indefinite"/></text>
+<rect x="48" y="618" width="713" height="44" rx="8" fill="#FDECEC" stroke="#C0392B" stroke-width="2.5" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.87463;0.88209;0.95373;0.96119;1" dur="33.5s" repeatCount="indefinite"/></rect>
+<text x="64.0" y="650.0" font-size="28" font-weight="bold" text-anchor="start" fill="#C0392B">창의성이 필요한 단계 = Step 1(기능 정의 → 상태도)<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.87463;0.88209;1" dur="33.5s" repeatCount="indefinite"/></text>
+</g>
+<rect x="0" y="714" width="1280" height="6" fill="#EEF1F5"/>
+<rect x="0" y="714" width="0" height="6" fill="#7A8BA6"><animate attributeName="width" values="0;1280" keyTimes="0;1" dur="33.5s" repeatCount="indefinite"/></rect>
+</svg>

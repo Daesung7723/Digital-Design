@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="714" height="344" viewBox="0 0 714 344" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<defs><pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#9AA3B2" stroke-width="2"/></pattern></defs>
+<rect x="0" y="0" width="714" height="344" fill="#FFFFFF"/>
+<rect x="207.0" y="82" width="42.0" height="42" fill="#FFE9A8" opacity="0.7" rx="3"/>
+<rect x="543.0" y="82" width="42.0" height="42" fill="#FFE9A8" opacity="0.7" rx="3"/>
+<line x1="144.0" y1="28" x2="144.0" y2="310" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="144.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">↑</text>
+<line x1="228.0" y1="28" x2="228.0" y2="310" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="228.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">↑</text>
+<line x1="312.0" y1="28" x2="312.0" y2="310" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="312.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">↑</text>
+<line x1="396.0" y1="28" x2="396.0" y2="310" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="396.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">↑</text>
+<line x1="480.0" y1="28" x2="480.0" y2="310" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="480.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">↑</text>
+<line x1="564.0" y1="28" x2="564.0" y2="310" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="564.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">↑</text>
+<line x1="648.0" y1="28" x2="648.0" y2="310" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="648.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">↑</text>
+<text x="50" y="61.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">CLK</text>
+<line x1="60.0" y1="68" x2="144.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="144.0" y1="68" x2="144.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="144.0" y1="44" x2="186.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="186.0" y1="44" x2="186.0" y2="68" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="186.0" y1="68" x2="228.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="228.0" y1="68" x2="228.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="228.0" y1="44" x2="270.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="270.0" y1="44" x2="270.0" y2="68" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="270.0" y1="68" x2="312.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="312.0" y1="68" x2="312.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="312.0" y1="44" x2="354.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="354.0" y1="44" x2="354.0" y2="68" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="354.0" y1="68" x2="396.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="396.0" y1="68" x2="396.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="396.0" y1="44" x2="438.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="438.0" y1="44" x2="438.0" y2="68" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="438.0" y1="68" x2="480.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="480.0" y1="68" x2="480.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="480.0" y1="44" x2="522.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="522.0" y1="44" x2="522.0" y2="68" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="522.0" y1="68" x2="564.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="564.0" y1="68" x2="564.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="564.0" y1="44" x2="606.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="606.0" y1="44" x2="606.0" y2="68" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="606.0" y1="68" x2="648.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="648.0" y1="68" x2="648.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="648.0" y1="44" x2="690.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="60" y1="80.0" x2="690" y2="80.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="50" y="107.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">x</text>
+<line x1="60.0" y1="90" x2="270.0" y2="90" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="270.0" y1="90" x2="270.0" y2="114" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="270.0" y1="114" x2="690.0" y2="114" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="60" y1="126.0" x2="690" y2="126.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="50" y="153.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">상태</text>
+<path d="M60.0,148.0 L64.0,136 L140.0,136 L144.0,148.0 L140.0,160 L64.0,160 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="102.0" y="152.5" font-size="12.5" text-anchor="middle" fill="#111111">I</text>
+<path d="M144.0,148.0 L148.0,136 L224.0,136 L228.0,148.0 L224.0,160 L148.0,160 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="186.0" y="152.5" font-size="12.5" text-anchor="middle" fill="#111111">W</text>
+<path d="M228.0,148.0 L232.0,136 L308.0,136 L312.0,148.0 L308.0,160 L232.0,160 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="270.0" y="152.5" font-size="12.5" text-anchor="middle" fill="#111111">S</text>
+<path d="M312.0,148.0 L316.0,136 L392.0,136 L396.0,148.0 L392.0,160 L316.0,160 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="354.0" y="152.5" font-size="12.5" text-anchor="middle" fill="#111111">O</text>
+<path d="M396.0,148.0 L400.0,136 L476.0,136 L480.0,148.0 L476.0,160 L400.0,160 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="438.0" y="152.5" font-size="12.5" text-anchor="middle" fill="#111111">I</text>
+<path d="M480.0,148.0 L484.0,136 L560.0,136 L564.0,148.0 L560.0,160 L484.0,160 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="522.0" y="152.5" font-size="12.5" text-anchor="middle" fill="#111111">W</text>
+<path d="M564.0,148.0 L568.0,136 L644.0,136 L648.0,148.0 L644.0,160 L568.0,160 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="606.0" y="152.5" font-size="12.5" text-anchor="middle" fill="#111111">O</text>
+<path d="M648.0,148.0 L652.0,136 L686.0,136 L690.0,148.0 L686.0,160 L652.0,160 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="669.0" y="152.5" font-size="12.5" text-anchor="middle" fill="#111111">I</text>
+<line x1="60" y1="172.0" x2="690" y2="172.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="50" y="199.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">v</text>
+<line x1="60.0" y1="206" x2="144.0" y2="206" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="144.0" y1="206" x2="144.0" y2="182" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="144.0" y1="182" x2="228.0" y2="182" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="228.0" y1="182" x2="228.0" y2="206" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="228.0" y1="206" x2="480.0" y2="206" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="480.0" y1="206" x2="480.0" y2="182" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="480.0" y1="182" x2="564.0" y2="182" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="564.0" y1="182" x2="564.0" y2="206" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="564.0" y1="206" x2="690.0" y2="206" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="60" y1="218.0" x2="690" y2="218.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="50" y="245.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">s</text>
+<line x1="60.0" y1="252" x2="228.0" y2="252" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="228.0" y1="252" x2="228.0" y2="228" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="228.0" y1="228" x2="312.0" y2="228" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="312.0" y1="228" x2="312.0" y2="252" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="312.0" y1="252" x2="690.0" y2="252" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="60" y1="264.0" x2="690" y2="264.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="50" y="291.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">o</text>
+<line x1="60.0" y1="298" x2="312.0" y2="298" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="312.0" y1="298" x2="312.0" y2="274" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="312.0" y1="274" x2="396.0" y2="274" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="396.0" y1="274" x2="396.0" y2="298" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="396.0" y1="298" x2="564.0" y2="298" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="564.0" y1="298" x2="564.0" y2="274" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="564.0" y1="274" x2="648.0" y2="274" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="648.0" y1="274" x2="648.0" y2="298" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="648.0" y1="298" x2="690.0" y2="298" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="60" y1="310.0" x2="690" y2="310.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="8" y="338" font-size="12" fill="#44506A">음영 = W 상태에서 x를 읽는 에지(8·24) · 첫 사이클 x=1 → S 경유 / 둘째 사이클 x=0 → O로 직행</text>
+</svg>

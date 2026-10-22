@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="216" viewBox="0 0 520 216" font-family="Malgun Gothic, 'Noto Sans KR', sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1F2937"/></marker><marker id="ahc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#C0392B"/></marker></defs>
+<rect x="0" y="0" width="520" height="216" fill="#FFFFFF"/>
+<g transform="translate(0,0)">
+<path d="M176.2,88.3 Q260.0,67.0 342.9,88.1" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M343.8,101.7 Q260.0,123.0 177.1,101.9" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M126.2,107.7 C88.1,151.4 88.1,38.6 126.2,82.3" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M393.8,82.3 C431.9,38.6 431.9,151.4 393.8,107.7" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<circle cx="150" cy="95" r="27" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="150" y="100.5" text-anchor="middle" font-size="16" font-weight="bold" fill="#1F2937">S0</text>
+<circle cx="370" cy="95" r="27" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="370" y="100.5" text-anchor="middle" font-size="16" font-weight="bold" fill="#1F2937">S1</text>
+<rect x="243.5" y="54.6" width="32.6" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="259.8" y="69.6" text-anchor="middle" font-size="14" fill="#1F2937">1/1</text>
+<rect x="243.9" y="115.4" width="32.6" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="260.2" y="130.4" text-anchor="middle" font-size="14" fill="#1F2937">0/0</text>
+<rect x="54.2" y="85.0" width="32.6" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="70.5" y="100.0" text-anchor="middle" font-size="14" fill="#1F2937">0/0</text>
+<rect x="433.2" y="85.0" width="32.6" height="19" rx="3" fill="#FFFFFF" opacity="0.92"/>
+<text x="449.5" y="100.0" text-anchor="middle" font-size="14" fill="#1F2937">1/0</text>
+</g>
+<text x="10" y="208" font-size="12.5" fill="#4B5563">화살표 위 = 입력 x / 출력 y · S0 = 직전 x가 0 · S1 = 직전 x가 1</text>
+</svg>
