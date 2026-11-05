@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="756" height="304" viewBox="0 0 756 304" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<defs><pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#9AA3B2" stroke-width="2"/></pattern></defs>
+<rect x="0" y="0" width="756" height="304" fill="#FFFFFF"/>
+<rect x="428.4" y="116" width="39.6" height="36" fill="#FFC9C9" opacity="0.7" rx="3"/>
+<rect x="534.0" y="116" width="33.0" height="36" fill="#FFE9A8" opacity="0.7" rx="3"/>
+<rect x="435.0" y="196" width="99.0" height="36" fill="#FFC9C9" opacity="0.7" rx="3"/>
+<rect x="534.0" y="236" width="198.0" height="36" fill="#DCEBFF" opacity="0.7" rx="3"/>
+<line x1="270.0" y1="28" x2="270.0" y2="274" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="270.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">↑</text>
+<line x1="402.0" y1="28" x2="402.0" y2="274" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="402.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">↑</text>
+<line x1="534.0" y1="28" x2="534.0" y2="274" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="534.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">↑</text>
+<line x1="666.0" y1="28" x2="666.0" y2="274" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="666.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">↑</text>
+<text x="128" y="58.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">clk</text>
+<line x1="138.0" y1="62" x2="270.0" y2="62" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="270.0" y1="62" x2="270.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="270.0" y1="44" x2="336.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="336.0" y1="44" x2="336.0" y2="62" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="336.0" y1="62" x2="402.0" y2="62" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="402.0" y1="62" x2="402.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="402.0" y1="44" x2="468.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="468.0" y1="44" x2="468.0" y2="62" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="468.0" y1="62" x2="534.0" y2="62" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="534.0" y1="62" x2="534.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="534.0" y1="44" x2="600.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="600.0" y1="44" x2="600.0" y2="62" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="600.0" y1="62" x2="666.0" y2="62" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="666.0" y1="62" x2="666.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="666.0" y1="44" x2="732.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="138" y1="74.0" x2="732" y2="74.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="128" y="98.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">Load</text>
+<line x1="138.0" y1="102" x2="435.0" y2="102" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="435.0" y1="102" x2="435.0" y2="84" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="435.0" y1="84" x2="567.0" y2="84" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="567.0" y1="84" x2="567.0" y2="102" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="567.0" y1="102" x2="732.0" y2="102" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="138" y1="114.0" x2="732" y2="114.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="128" y="138.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">clk·Load</text>
+<line x1="138.0" y1="142" x2="435.0" y2="142" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="435.0" y1="142" x2="435.0" y2="124" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="435.0" y1="124" x2="468.0" y2="124" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="468.0" y1="124" x2="468.0" y2="142" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="468.0" y1="142" x2="534.0" y2="142" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="534.0" y1="142" x2="534.0" y2="124" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="534.0" y1="124" x2="567.0" y2="124" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="567.0" y1="124" x2="567.0" y2="142" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="567.0" y1="142" x2="732.0" y2="142" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="138" y1="154.0" x2="732" y2="154.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="128" y="178.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">I</text>
+<path d="M138.0,173.0 L142.0,164 L497.0,164 L501.0,173.0 L497.0,182 L142.0,182 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="319.5" y="177.5" font-size="12.5" text-anchor="middle" fill="#111111">0011</text>
+<path d="M501.0,173.0 L505.0,164 L728.0,164 L732.0,173.0 L728.0,182 L505.0,182 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="616.5" y="177.5" font-size="12.5" text-anchor="middle" fill="#111111">1010</text>
+<line x1="138" y1="194.0" x2="732" y2="194.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="128" y="218.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">Q (게이트 클럭)</text>
+<path d="M138.0,213.0 L142.0,204 L431.0,204 L435.0,213.0 L431.0,222 L142.0,222 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="286.5" y="217.5" font-size="12.5" text-anchor="middle" fill="#111111">0110</text>
+<path d="M435.0,213.0 L439.0,204 L530.0,204 L534.0,213.0 L530.0,222 L439.0,222 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="484.5" y="217.5" font-size="12.5" text-anchor="middle" fill="#111111">0011</text>
+<path d="M534.0,213.0 L538.0,204 L728.0,204 L732.0,213.0 L728.0,222 L538.0,222 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="633.0" y="217.5" font-size="12.5" text-anchor="middle" fill="#111111">1010</text>
+<line x1="138" y1="234.0" x2="732" y2="234.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="128" y="258.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">Q (Load-MUX)</text>
+<path d="M138.0,253.0 L142.0,244 L530.0,244 L534.0,253.0 L530.0,262 L142.0,262 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="336.0" y="257.5" font-size="12.5" text-anchor="middle" fill="#111111">0110</text>
+<path d="M534.0,253.0 L538.0,244 L728.0,244 L732.0,253.0 L728.0,262 L538.0,262 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="633.0" y="257.5" font-size="12.5" text-anchor="middle" fill="#111111">1010</text>
+<line x1="138" y1="274.0" x2="732" y2="274.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="270.0" y="292" font-size="12" text-anchor="middle" fill="#44506A">4</text>
+<text x="402.0" y="292" font-size="12" text-anchor="middle" fill="#44506A">8</text>
+<text x="435.0" y="292" font-size="12" text-anchor="middle" fill="#44506A">9</text>
+<text x="501.0" y="292" font-size="12" text-anchor="middle" fill="#44506A">11</text>
+<text x="534.0" y="292" font-size="12" text-anchor="middle" fill="#44506A">12</text>
+<text x="567.0" y="292" font-size="12" text-anchor="middle" fill="#44506A">13</text>
+<text x="666.0" y="292" font-size="12" text-anchor="middle" fill="#44506A">16</text>
+</svg>

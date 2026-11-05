@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="138" viewBox="0 0 560 138" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect x="0" y="0" width="560" height="138" fill="#FFFFFF"/>
+<text x="118.0" y="16.0" font-size="13" text-anchor="middle" fill="#44506A">si</text>
+<text x="180.0" y="16.0" font-size="13" text-anchor="middle" fill="#44506A">Q<tspan dy="3.6" font-size="9.4">3</tspan><tspan dy="-3.6">&#8203;</tspan></text>
+<text x="242.0" y="16.0" font-size="13" text-anchor="middle" fill="#44506A">Q<tspan dy="3.6" font-size="9.4">2</tspan><tspan dy="-3.6">&#8203;</tspan></text>
+<text x="304.0" y="16.0" font-size="13" text-anchor="middle" fill="#44506A">Q<tspan dy="3.6" font-size="9.4">1</tspan><tspan dy="-3.6">&#8203;</tspan></text>
+<text x="366.0" y="16.0" font-size="13" text-anchor="middle" fill="#44506A">Q<tspan dy="3.6" font-size="9.4">0</tspan><tspan dy="-3.6">&#8203;</tspan></text>
+<rect x="96.0" y="26.0" width="44.0" height="34.0" rx="0" fill="#DCEBFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="118.0" y="48.8" font-size="16" text-anchor="middle" fill="#111111" font-weight="bold">0</text>
+<rect x="158.0" y="26.0" width="44.0" height="34.0" rx="0" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="180.0" y="48.8" font-size="16" text-anchor="middle" fill="#111111">1</text>
+<rect x="158.0" y="104.0" width="44.0" height="34.0" rx="0" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="180.0" y="126.8" font-size="16" text-anchor="middle" fill="#111111" font-weight="bold">0</text>
+<rect x="220.0" y="26.0" width="44.0" height="34.0" rx="0" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="242.0" y="48.8" font-size="16" text-anchor="middle" fill="#111111">1</text>
+<rect x="220.0" y="104.0" width="44.0" height="34.0" rx="0" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="242.0" y="126.8" font-size="16" text-anchor="middle" fill="#111111" font-weight="bold">1</text>
+<rect x="282.0" y="26.0" width="44.0" height="34.0" rx="0" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="304.0" y="48.8" font-size="16" text-anchor="middle" fill="#111111">0</text>
+<rect x="282.0" y="104.0" width="44.0" height="34.0" rx="0" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="304.0" y="126.8" font-size="16" text-anchor="middle" fill="#111111" font-weight="bold">1</text>
+<rect x="344.0" y="26.0" width="44.0" height="34.0" rx="0" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="366.0" y="48.8" font-size="16" text-anchor="middle" fill="#111111">0</text>
+<rect x="344.0" y="104.0" width="44.0" height="34.0" rx="0" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="366.0" y="126.8" font-size="16" text-anchor="middle" fill="#111111" font-weight="bold">0</text>
+<polyline points="118.0,60.0 180.0,103.0" fill="none" stroke="#C0392B" stroke-width="2.0" stroke-linejoin="round"/>
+<polygon points="180.0,103.0 170.0,101.6 175.2,94.2" fill="#C0392B"/>
+<polyline points="180.0,60.0 242.0,103.0" fill="none" stroke="#C0392B" stroke-width="2.0" stroke-linejoin="round"/>
+<polygon points="242.0,103.0 232.0,101.6 237.2,94.2" fill="#C0392B"/>
+<polyline points="242.0,60.0 304.0,103.0" fill="none" stroke="#C0392B" stroke-width="2.0" stroke-linejoin="round"/>
+<polygon points="304.0,103.0 294.0,101.6 299.2,94.2" fill="#C0392B"/>
+<polyline points="304.0,60.0 366.0,103.0" fill="none" stroke="#C0392B" stroke-width="2.0" stroke-linejoin="round"/>
+<polygon points="366.0,103.0 356.0,101.6 361.2,94.2" fill="#C0392B"/>
+<text x="84.0" y="48.0" font-size="14" text-anchor="end" fill="#111111" font-weight="bold">에지 직전</text>
+<text x="84.0" y="126.0" font-size="14" text-anchor="end" fill="#111111" font-weight="bold">에지 직후</text>
+<polyline points="388.0,43.0 424.0,43.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="424.0,43.0 415.0,47.5 415.0,38.5" fill="#1F2A44"/>
+<text x="430.0" y="48.0" font-size="13" text-anchor="start" fill="#44506A">직렬 출력</text>
+</svg>

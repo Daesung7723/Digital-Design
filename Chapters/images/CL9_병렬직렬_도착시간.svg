@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="790" height="276" viewBox="0 0 790 276" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect x="0" y="0" width="790" height="276" fill="#FFFFFF"/>
+<text x="196.0" y="18.0" font-size="15" text-anchor="middle" fill="#111111" font-weight="bold">병렬 — 4가닥 동시 전송</text>
+<svg x="4" y="24" xmlns="http://www.w3.org/2000/svg" width="396" height="222" viewBox="0 0 396 222" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<defs><pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#9AA3B2" stroke-width="2"/></pattern></defs>
+<rect x="0" y="0" width="396" height="222" fill="#FFFFFF"/>
+<rect x="192.6" y="168" width="23.4" height="40" fill="#FFC9C9" opacity="0.7" rx="3"/>
+<line x1="195.2" y1="28" x2="195.2" y2="210" stroke="#C0392B" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="195.2" y="24" font-size="12" text-anchor="middle" fill="#C0392B">수신 시점</text>
+<text x="50" y="60.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">D<tspan dy="4.2" font-size="10.8">3</tspan><tspan dy="-4.2">&#8203;</tspan></text>
+<line x1="60.0" y1="66" x2="164.0" y2="66" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="164.0" y1="66" x2="164.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="164.0" y1="44" x2="372.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="60" y1="78.0" x2="372" y2="78.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="50" y="104.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">D<tspan dy="4.2" font-size="10.8">2</tspan><tspan dy="-4.2">&#8203;</tspan></text>
+<line x1="60.0" y1="88" x2="184.8" y2="88" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="184.8" y1="88" x2="184.8" y2="110" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="184.8" y1="110" x2="372.0" y2="110" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="60" y1="122.0" x2="372" y2="122.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="50" y="148.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">D<tspan dy="4.2" font-size="10.8">1</tspan><tspan dy="-4.2">&#8203;</tspan></text>
+<line x1="60.0" y1="154" x2="153.6" y2="154" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="153.6" y1="154" x2="153.6" y2="132" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="153.6" y1="132" x2="372.0" y2="132" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="60" y1="166.0" x2="372" y2="166.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="50" y="192.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">D<tspan dy="4.2" font-size="10.8">0</tspan><tspan dy="-4.2">&#8203;</tspan></text>
+<line x1="60.0" y1="176" x2="216.0" y2="176" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="216.0" y1="176" x2="216.0" y2="198" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="216.0" y1="198" x2="372.0" y2="198" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="60" y1="210.0" x2="372" y2="210.0" stroke="#E4E8EF" stroke-width="1"/>
+</svg>
+<polyline points="396.0,8.0 396.0,266.0" fill="none" stroke="#E4E8EF" stroke-width="1.2" stroke-linejoin="round"/>
+<text x="592.0" y="18.0" font-size="15" text-anchor="middle" fill="#111111" font-weight="bold">직렬 — 1쌍으로 차례로 전송</text>
+<svg x="402" y="24" xmlns="http://www.w3.org/2000/svg" width="392" height="90" viewBox="0 0 392 90" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<defs><pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#9AA3B2" stroke-width="2"/></pattern></defs>
+<rect x="0" y="0" width="392" height="90" fill="#FFFFFF"/>
+<line x1="102.0" y1="28" x2="102.0" y2="78" stroke="#C0392B" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="102.0" y="24" font-size="12" text-anchor="middle" fill="#C0392B">①</text>
+<line x1="178.0" y1="28" x2="178.0" y2="78" stroke="#C0392B" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="178.0" y="24" font-size="12" text-anchor="middle" fill="#C0392B">②</text>
+<line x1="254.0" y1="28" x2="254.0" y2="78" stroke="#C0392B" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="254.0" y="24" font-size="12" text-anchor="middle" fill="#C0392B">③</text>
+<line x1="330.0" y1="28" x2="330.0" y2="78" stroke="#C0392B" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="330.0" y="24" font-size="12" text-anchor="middle" fill="#C0392B">④</text>
+<text x="54" y="60.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">직렬 선</text>
+<path d="M64.0,55.0 L68.0,44 L136.0,44 L140.0,55.0 L136.0,66 L68.0,66 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="102.0" y="59.5" font-size="12.5" text-anchor="middle" fill="#111111">1</text>
+<path d="M140.0,55.0 L144.0,44 L212.0,44 L216.0,55.0 L212.0,66 L144.0,66 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="178.0" y="59.5" font-size="12.5" text-anchor="middle" fill="#111111">0</text>
+<path d="M216.0,55.0 L220.0,44 L288.0,44 L292.0,55.0 L288.0,66 L220.0,66 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="254.0" y="59.5" font-size="12.5" text-anchor="middle" fill="#111111">1</text>
+<path d="M292.0,55.0 L296.0,44 L364.0,44 L368.0,55.0 L364.0,66 L296.0,66 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="330.0" y="59.5" font-size="12.5" text-anchor="middle" fill="#111111">0</text>
+<line x1="64" y1="78.0" x2="368" y2="78.0" stroke="#E4E8EF" stroke-width="1"/>
+</svg>
+<text x="592.0" y="140.0" font-size="14" text-anchor="middle" fill="#111111" font-weight="bold">한 비트씩 차례로 수신</text>
+<text x="592.0" y="162.0" font-size="13" text-anchor="middle" fill="#44506A">선 사이 도착 시간 차이 문제가 크게 감소</text>
+<text x="196.0" y="262.0" font-size="14" text-anchor="middle" fill="#C0392B" font-weight="bold">D<tspan dy="3.9" font-size="10.1">0</tspan><tspan dy="-3.9">가 수신 시점 뒤에 도착 — 이전 값이 수신됨</tspan></text>
+</svg>

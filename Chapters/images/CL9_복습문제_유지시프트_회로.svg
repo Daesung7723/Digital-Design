@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="790" height="212" viewBox="0 0 790 212" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect x="0" y="0" width="790" height="212" fill="#FFFFFF"/>
+<rect x="416.0" y="42.0" width="66.0" height="106.0" rx="6" fill="#DCEBFF" opacity="0.75"/>
+<polygon points="90.0,62.0 126.0,74.0 126.0,114.0 90.0,126.0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="98.0" y="84.4" font-size="12" text-anchor="middle" fill="#1F2A44">0</text>
+<text x="98.0" y="112.6" font-size="12" text-anchor="middle" fill="#1F2A44">1</text>
+<rect x="148.0" y="74.0" width="52.0" height="64.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="159.0" y="99.0" font-size="13" text-anchor="middle" fill="#1F2A44">D</text>
+<text x="189.0" y="99.0" font-size="13" text-anchor="middle" fill="#1F2A44">Q</text>
+<polygon points="148.0,116.0 157.0,122.0 148.0,128.0" fill="none" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="174.0" y="68.0" font-size="13" text-anchor="middle" fill="#44506A">Q<tspan dy="3.6" font-size="9.4">3</tspan><tspan dy="-3.6">&#8203;</tspan></text>
+<polyline points="126.0,94.0 148.0,94.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="148.0,94.0 139.0,98.5 139.0,89.5" fill="#1F2A44"/>
+<polyline points="200.0,94.0 212.0,94.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<circle cx="212.0" cy="94.0" r="3" fill="#1F2A44"/>
+<polyline points="212.0,94.0 212.0,24.0 78.0,24.0 78.0,79.9 90.0,79.9" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="90.0,79.9 81.0,84.4 81.0,75.4" fill="#1F2A44"/>
+<polyline points="44.0,108.1 90.0,108.1" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="90.0,108.1 81.0,112.6 81.0,103.6" fill="#1F2A44"/>
+<text x="38.0" y="113.1" font-size="14" text-anchor="end" fill="#111111">si</text>
+<polyline points="44.0,158.0 630.0,158.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<text x="38.0" y="163.0" font-size="14" text-anchor="end" fill="#111111" font-weight="bold">Ctrl</text>
+<polyline points="44.0,186.0 658.0,186.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<text x="38.0" y="191.0" font-size="14" text-anchor="end" fill="#111111">clk</text>
+<polyline points="108.0,158.0 108.0,120.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="108.0,120.0 112.5,129.0 103.5,129.0" fill="#1F2A44"/>
+<circle cx="108.0" cy="158.0" r="3" fill="#1F2A44"/>
+<polyline points="136.0,186.0 136.0,122.0 148.0,122.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<circle cx="136.0" cy="186.0" r="3" fill="#1F2A44"/>
+<polygon points="264.0,62.0 300.0,74.0 300.0,114.0 264.0,126.0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="272.0" y="84.4" font-size="12" text-anchor="middle" fill="#1F2A44">0</text>
+<text x="272.0" y="112.6" font-size="12" text-anchor="middle" fill="#1F2A44">1</text>
+<rect x="322.0" y="74.0" width="52.0" height="64.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="333.0" y="99.0" font-size="13" text-anchor="middle" fill="#1F2A44">D</text>
+<text x="363.0" y="99.0" font-size="13" text-anchor="middle" fill="#1F2A44">Q</text>
+<polygon points="322.0,116.0 331.0,122.0 322.0,128.0" fill="none" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="348.0" y="68.0" font-size="13" text-anchor="middle" fill="#44506A">Q<tspan dy="3.6" font-size="9.4">2</tspan><tspan dy="-3.6">&#8203;</tspan></text>
+<polyline points="300.0,94.0 322.0,94.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="322.0,94.0 313.0,98.5 313.0,89.5" fill="#1F2A44"/>
+<polyline points="374.0,94.0 386.0,94.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<circle cx="386.0" cy="94.0" r="3" fill="#1F2A44"/>
+<polyline points="386.0,94.0 386.0,24.0 252.0,24.0 252.0,79.9 264.0,79.9" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="264.0,79.9 255.0,84.4 255.0,75.4" fill="#1F2A44"/>
+<polyline points="212.0,94.0 238.0,94.0 238.0,108.1 264.0,108.1" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="264.0,108.1 255.0,112.6 255.0,103.6" fill="#1F2A44"/>
+<polyline points="282.0,158.0 282.0,120.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="282.0,120.0 286.5,129.0 277.5,129.0" fill="#1F2A44"/>
+<circle cx="282.0" cy="158.0" r="3" fill="#1F2A44"/>
+<polyline points="310.0,186.0 310.0,122.0 322.0,122.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<circle cx="310.0" cy="186.0" r="3" fill="#1F2A44"/>
+<polygon points="438.0,62.0 474.0,74.0 474.0,114.0 438.0,126.0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="446.0" y="84.4" font-size="12" text-anchor="middle" fill="#1F2A44">0</text>
+<text x="446.0" y="112.6" font-size="12" text-anchor="middle" fill="#1F2A44">1</text>
+<rect x="496.0" y="74.0" width="52.0" height="64.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="507.0" y="99.0" font-size="13" text-anchor="middle" fill="#1F2A44">D</text>
+<text x="537.0" y="99.0" font-size="13" text-anchor="middle" fill="#1F2A44">Q</text>
+<polygon points="496.0,116.0 505.0,122.0 496.0,128.0" fill="none" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="522.0" y="68.0" font-size="13" text-anchor="middle" fill="#44506A">Q<tspan dy="3.6" font-size="9.4">1</tspan><tspan dy="-3.6">&#8203;</tspan></text>
+<polyline points="474.0,94.0 496.0,94.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="496.0,94.0 487.0,98.5 487.0,89.5" fill="#1F2A44"/>
+<polyline points="548.0,94.0 560.0,94.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<circle cx="560.0" cy="94.0" r="3" fill="#1F2A44"/>
+<polyline points="560.0,94.0 560.0,24.0 426.0,24.0 426.0,79.9 438.0,79.9" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="438.0,79.9 429.0,84.4 429.0,75.4" fill="#1F2A44"/>
+<polyline points="386.0,94.0 412.0,94.0 412.0,108.1 438.0,108.1" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="438.0,108.1 429.0,112.6 429.0,103.6" fill="#1F2A44"/>
+<polyline points="456.0,158.0 456.0,120.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="456.0,120.0 460.5,129.0 451.5,129.0" fill="#1F2A44"/>
+<circle cx="456.0" cy="158.0" r="3" fill="#1F2A44"/>
+<polyline points="484.0,186.0 484.0,122.0 496.0,122.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<circle cx="484.0" cy="186.0" r="3" fill="#1F2A44"/>
+<polygon points="612.0,62.0 648.0,74.0 648.0,114.0 612.0,126.0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="620.0" y="84.4" font-size="12" text-anchor="middle" fill="#1F2A44">0</text>
+<text x="620.0" y="112.6" font-size="12" text-anchor="middle" fill="#1F2A44">1</text>
+<rect x="670.0" y="74.0" width="52.0" height="64.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="681.0" y="99.0" font-size="13" text-anchor="middle" fill="#1F2A44">D</text>
+<text x="711.0" y="99.0" font-size="13" text-anchor="middle" fill="#1F2A44">Q</text>
+<polygon points="670.0,116.0 679.0,122.0 670.0,128.0" fill="none" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="696.0" y="68.0" font-size="13" text-anchor="middle" fill="#44506A">Q<tspan dy="3.6" font-size="9.4">0</tspan><tspan dy="-3.6">&#8203;</tspan></text>
+<polyline points="648.0,94.0 670.0,94.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="670.0,94.0 661.0,98.5 661.0,89.5" fill="#1F2A44"/>
+<polyline points="722.0,94.0 734.0,94.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<circle cx="734.0" cy="94.0" r="3" fill="#1F2A44"/>
+<polyline points="734.0,94.0 734.0,24.0 600.0,24.0 600.0,79.9 612.0,79.9" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="612.0,79.9 603.0,84.4 603.0,75.4" fill="#1F2A44"/>
+<polyline points="560.0,94.0 586.0,94.0 586.0,108.1 612.0,108.1" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="612.0,108.1 603.0,112.6 603.0,103.6" fill="#1F2A44"/>
+<polyline points="630.0,158.0 630.0,120.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="630.0,120.0 634.5,129.0 625.5,129.0" fill="#1F2A44"/>
+<circle cx="630.0" cy="158.0" r="3" fill="#1F2A44"/>
+<polyline points="658.0,186.0 658.0,122.0 670.0,122.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<circle cx="658.0" cy="186.0" r="3" fill="#1F2A44"/>
+<polyline points="734.0,94.0 768.0,94.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="768.0,94.0 759.0,98.5 759.0,89.5" fill="#1F2A44"/>
+<text x="449.0" y="208.0" font-size="13" text-anchor="middle" fill="#111111" font-weight="bold">D<tspan dy="3.6" font-size="9.4">1</tspan><tspan dy="-3.6"> = Ctrl′Q</tspan><tspan dy="3.6" font-size="9.4">1</tspan><tspan dy="-3.6"> + Ctrl Q</tspan><tspan dy="3.6" font-size="9.4">2</tspan><tspan dy="-3.6">&#8203;</tspan></text>
+</svg>

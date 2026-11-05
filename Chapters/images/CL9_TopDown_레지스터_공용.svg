@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="482" viewBox="0 0 800 482" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect x="0" y="0" width="800" height="482" fill="#FFFFFF"/>
+<rect x="112.0" y="10.0" width="576.0" height="58.0" rx="6" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.2"/>
+<text x="100.0" y="44.0" font-size="14" text-anchor="end" fill="#111111" font-weight="bold">컴퓨터</text>
+<text x="700.0" y="44.0" font-size="12.5" text-anchor="start" fill="#44506A"></text>
+<rect x="112.0" y="94.0" width="576.0" height="60.0" rx="6" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.2"/>
+<text x="100.0" y="129.0" font-size="14" text-anchor="end" fill="#111111" font-weight="bold">CPU</text>
+<text x="700.0" y="129.0" font-size="12.5" text-anchor="start" fill="#44506A"></text>
+<rect x="112.0" y="180.0" width="576.0" height="60.0" rx="6" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.2"/>
+<text x="100.0" y="215.0" font-size="14" text-anchor="end" fill="#111111" font-weight="bold">데이터패스</text>
+<text x="700.0" y="215.0" font-size="12.5" text-anchor="start" fill="#44506A"></text>
+<rect x="112.0" y="266.0" width="576.0" height="74.0" rx="6" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.2"/>
+<text x="100.0" y="308.0" font-size="14" text-anchor="end" fill="#111111" font-weight="bold">레지스터</text>
+<text x="700.0" y="308.0" font-size="12.5" text-anchor="start" fill="#44506A"></text>
+<rect x="112.0" y="366.0" width="576.0" height="106.0" rx="6" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.2"/>
+<text x="100.0" y="424.0" font-size="14" text-anchor="end" fill="#111111" font-weight="bold">1비트</text>
+<text x="700.0" y="424.0" font-size="12.5" text-anchor="start" fill="#44506A"></text>
+<polygon points="150.0,57.0 270.0,57.0 688.0,94.0 112.0,94.0" fill="#DCEBFF" opacity="0.55"/>
+<polyline points="150.0,57.0 112.0,94.0" fill="none" stroke="#7A8BA6" stroke-width="1.2" stroke-linejoin="round" stroke-dasharray="5,4"/>
+<polyline points="270.0,57.0 688.0,94.0" fill="none" stroke="#7A8BA6" stroke-width="1.2" stroke-linejoin="round" stroke-dasharray="5,4"/>
+<polygon points="428.0,142.0 628.0,142.0 688.0,180.0 112.0,180.0" fill="#DCEBFF" opacity="0.55"/>
+<polyline points="428.0,142.0 112.0,180.0" fill="none" stroke="#7A8BA6" stroke-width="1.2" stroke-linejoin="round" stroke-dasharray="5,4"/>
+<polyline points="628.0,142.0 688.0,180.0" fill="none" stroke="#7A8BA6" stroke-width="1.2" stroke-linejoin="round" stroke-dasharray="5,4"/>
+<polygon points="292.0,223.0 362.0,223.0 688.0,266.0 112.0,266.0" fill="#DCEBFF" opacity="0.55"/>
+<polyline points="292.0,223.0 112.0,266.0" fill="none" stroke="#7A8BA6" stroke-width="1.2" stroke-linejoin="round" stroke-dasharray="5,4"/>
+<polyline points="362.0,223.0 688.0,266.0" fill="none" stroke="#7A8BA6" stroke-width="1.2" stroke-linejoin="round" stroke-dasharray="5,4"/>
+<polygon points="392.0,313.0 510.0,313.0 688.0,366.0 112.0,366.0" fill="#DCEBFF" opacity="0.55"/>
+<polyline points="392.0,313.0 112.0,366.0" fill="none" stroke="#7A8BA6" stroke-width="1.2" stroke-linejoin="round" stroke-dasharray="5,4"/>
+<polyline points="510.0,313.0 688.0,366.0" fill="none" stroke="#7A8BA6" stroke-width="1.2" stroke-linejoin="round" stroke-dasharray="5,4"/>
+<polyline points="10.0,12.0 10.0,470.0" fill="none" stroke="#1F2A44" stroke-width="2.0" stroke-linejoin="round"/>
+<polygon points="10.0,470.0 5.5,461.0 14.5,461.0" fill="#1F2A44"/>
+<text x="16" y="44" font-size="13" font-weight="bold" fill="#1F2A44" transform="rotate(90 16 44)">Top-down</text>
+<polyline points="270.0,39.0 510.0,39.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<rect x="150.0" y="21.0" width="120.0" height="36.0" rx="4" fill="#FDECEC" stroke="#C0392B" stroke-width="1.6"/>
+<text x="210.0" y="44.0" font-size="14" text-anchor="middle" fill="#C0392B" font-weight="bold">CPU</text>
+<rect x="330.0" y="21.0" width="110.0" height="36.0" rx="4" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="385.0" y="44.0" font-size="14" text-anchor="middle" fill="#111111" font-weight="bold">메모리</text>
+<rect x="510.0" y="21.0" width="130.0" height="36.0" rx="4" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="575.0" y="44.0" font-size="14" text-anchor="middle" fill="#111111" font-weight="bold">입출력 장치</text>
+<rect x="150.0" y="106.0" width="170.0" height="36.0" rx="4" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="235.0" y="129.0" font-size="14" text-anchor="middle" fill="#111111" font-weight="bold">제어유닛</text>
+<rect x="428.0" y="106.0" width="200.0" height="36.0" rx="4" fill="#FDECEC" stroke="#C0392B" stroke-width="1.6"/>
+<text x="528.0" y="129.0" font-size="14" text-anchor="middle" fill="#C0392B" font-weight="bold">데이터패스</text>
+<polyline points="320.0,116.0 427.0,116.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="427.0,116.0 418.0,120.5 418.0,111.5" fill="#1F2A44"/>
+<polyline points="428.0,132.0 321.0,132.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="321.0,132.0 330.0,127.5 330.0,136.5" fill="#1F2A44"/>
+<text x="374.0" y="111.0" font-size="12.5" text-anchor="middle" fill="#44506A">제어 신호</text>
+<rect x="342.0" y="136.0" width="64.0" height="16.0" rx="0" fill="#FFFFFF" stroke="none" stroke-width="0"/>
+<text x="374.0" y="148.0" font-size="12.5" text-anchor="middle" fill="#44506A">상태 신호</text>
+<polyline points="167.0,234.0 626.0,234.0 626.0,228.0" fill="none" stroke="#1F2A44" stroke-width="1.6" stroke-linejoin="round"/>
+<rect x="132.0" y="189.0" width="70.0" height="34.0" rx="4" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="167.0" y="211.0" font-size="14" text-anchor="middle" fill="#111111" font-weight="bold">PC</text>
+<polyline points="167.0,223.0 167.0,234.0" fill="none" stroke="#1F2A44" stroke-width="1.6" stroke-linejoin="round"/>
+<rect x="212.0" y="189.0" width="70.0" height="34.0" rx="4" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="247.0" y="211.0" font-size="14" text-anchor="middle" fill="#111111" font-weight="bold">IR</text>
+<polyline points="247.0,223.0 247.0,234.0" fill="none" stroke="#1F2A44" stroke-width="1.6" stroke-linejoin="round"/>
+<rect x="292.0" y="189.0" width="70.0" height="34.0" rx="4" fill="#FDECEC" stroke="#C0392B" stroke-width="1.6"/>
+<text x="327.0" y="211.0" font-size="14" text-anchor="middle" fill="#C0392B" font-weight="bold">R1</text>
+<polyline points="327.0,223.0 327.0,234.0" fill="none" stroke="#1F2A44" stroke-width="1.6" stroke-linejoin="round"/>
+<rect x="372.0" y="189.0" width="70.0" height="34.0" rx="4" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="407.0" y="211.0" font-size="14" text-anchor="middle" fill="#111111" font-weight="bold">R2</text>
+<polyline points="407.0,223.0 407.0,234.0" fill="none" stroke="#1F2A44" stroke-width="1.6" stroke-linejoin="round"/>
+<rect x="452.0" y="189.0" width="70.0" height="34.0" rx="4" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="487.0" y="211.0" font-size="14" text-anchor="middle" fill="#111111" font-weight="bold">R3</text>
+<polyline points="487.0,223.0 487.0,234.0" fill="none" stroke="#1F2A44" stroke-width="1.6" stroke-linejoin="round"/>
+<rect x="566.0" y="184.0" width="112.0" height="44.0" rx="4" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="622.0" y="202.0" font-size="14" text-anchor="middle" fill="#111111" font-weight="bold">ALU</text>
+<text x="622.0" y="221.0" font-size="12.5" text-anchor="middle" fill="#44506A">연산</text>
+<polyline points="120.0,322.0 581.0,322.0" fill="none" stroke="#1F2A44" stroke-width="1.6" stroke-linejoin="round"/>
+<text x="120.0" y="336.0" font-size="12" text-anchor="start" fill="#44506A">Load · clk 공통</text>
+<rect x="132.0" y="269.0" width="118.0" height="44.0" rx="4" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="191.0" y="287.0" font-size="14" text-anchor="middle" fill="#111111" font-weight="bold">비트 3</text>
+<text x="191.0" y="306.0" font-size="12.5" text-anchor="middle" fill="#44506A">MUX + FF</text>
+<polyline points="191.0,313.0 191.0,322.0" fill="none" stroke="#1F2A44" stroke-width="1.6" stroke-linejoin="round"/>
+<circle cx="191.0" cy="322.0" r="2.6" fill="#1F2A44"/>
+<rect x="262.0" y="269.0" width="118.0" height="44.0" rx="4" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="321.0" y="287.0" font-size="14" text-anchor="middle" fill="#111111" font-weight="bold">비트 2</text>
+<text x="321.0" y="306.0" font-size="12.5" text-anchor="middle" fill="#44506A">MUX + FF</text>
+<polyline points="321.0,313.0 321.0,322.0" fill="none" stroke="#1F2A44" stroke-width="1.6" stroke-linejoin="round"/>
+<circle cx="321.0" cy="322.0" r="2.6" fill="#1F2A44"/>
+<rect x="392.0" y="269.0" width="118.0" height="44.0" rx="4" fill="#FDECEC" stroke="#C0392B" stroke-width="1.6"/>
+<text x="451.0" y="287.0" font-size="14" text-anchor="middle" fill="#C0392B" font-weight="bold">비트 1</text>
+<text x="451.0" y="306.0" font-size="12.5" text-anchor="middle" fill="#44506A">MUX + FF</text>
+<polyline points="451.0,313.0 451.0,322.0" fill="none" stroke="#1F2A44" stroke-width="1.6" stroke-linejoin="round"/>
+<circle cx="451.0" cy="322.0" r="2.6" fill="#1F2A44"/>
+<rect x="522.0" y="269.0" width="118.0" height="44.0" rx="4" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="581.0" y="287.0" font-size="14" text-anchor="middle" fill="#111111" font-weight="bold">비트 0</text>
+<text x="581.0" y="306.0" font-size="12.5" text-anchor="middle" fill="#44506A">MUX + FF</text>
+<polyline points="581.0,313.0 581.0,322.0" fill="none" stroke="#1F2A44" stroke-width="1.6" stroke-linejoin="round"/>
+<circle cx="581.0" cy="322.0" r="2.6" fill="#1F2A44"/>
+<polygon points="196.0,388.0 234.0,400.0 234.0,430.0 196.0,442.0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="204.0" y="407.6" font-size="12" text-anchor="middle" fill="#1F2A44">0</text>
+<text x="204.0" y="431.4" font-size="12" text-anchor="middle" fill="#1F2A44">1</text>
+<rect x="274.0" y="395.0" width="60.0" height="60.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="285.0" y="420.0" font-size="13" text-anchor="middle" fill="#1F2A44">D</text>
+<text x="323.0" y="420.0" font-size="13" text-anchor="middle" fill="#1F2A44">Q</text>
+<polygon points="274.0,433.0 283.0,439.0 274.0,445.0" fill="none" stroke="#1F2A44" stroke-width="1.6"/>
+<polyline points="234.0,415.0 273.0,415.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="273.0,415.0 264.0,419.5 264.0,410.5" fill="#1F2A44"/>
+<polyline points="334.0,415.0 372.0,415.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="372.0,415.0 363.0,419.5 363.0,410.5" fill="#1F2A44"/>
+<text x="378.0" y="420.0" font-size="14" text-anchor="start" fill="#111111" font-weight="bold">Q</text>
+<circle cx="352.0" cy="415.0" r="3" fill="#1F2A44"/>
+<polyline points="352.0,415.0 352.0,376.0 178.0,376.0 178.0,403.1 196.0,403.1" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="196.0,403.1 187.0,407.6 187.0,398.6" fill="#1F2A44"/>
+<polyline points="146.0,426.9 196.0,426.9" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="196.0,426.9 187.0,431.4 187.0,422.4" fill="#1F2A44"/>
+<text x="140.0" y="431.9" font-size="14" text-anchor="end" fill="#111111">I</text>
+<polyline points="215.0,456.0 215.0,436.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="215.0,436.0 219.5,445.0 210.5,445.0" fill="#1F2A44"/>
+<text x="215.0" y="469.0" font-size="13" text-anchor="middle" fill="#111111" font-weight="bold">Load</text>
+<polyline points="258.0,456.0 258.0,439.0 274.0,439.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<text x="258.0" y="469.0" font-size="13" text-anchor="middle" fill="#111111">clk</text>
+<text x="404.0" y="402.0" font-size="13" text-anchor="start" fill="#1F2A44">2:1 MUX = 게이트의 조합</text>
+<text x="404.0" y="424.0" font-size="13" text-anchor="start" fill="#1F2A44">D 플립플롭 = 래치 2개</text>
+<text x="404.0" y="446.0" font-size="13" text-anchor="start" fill="#1F2A44">게이트 = 트랜지스터의 조합</text>
+</svg>

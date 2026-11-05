@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="348" viewBox="0 0 780 348" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect x="0" y="0" width="780" height="348" fill="#FFFFFF"/>
+<text x="10.0" y="16.0" font-size="15" text-anchor="start" fill="#111111" font-weight="bold">리플 캐리 — 전가산기 4개를 자리마다 배치</text>
+<text x="120.0" y="38.0" font-size="13" text-anchor="middle" fill="#44506A">자리 0 (LSB)</text>
+<text x="100.0" y="55.0" font-size="12.5" text-anchor="middle" fill="#1F2A44">A<tspan dy="3.5" font-size="9.0">0</tspan><tspan dy="-3.5">=1</tspan></text>
+<text x="140.0" y="55.0" font-size="12.5" text-anchor="middle" fill="#1F2A44">B<tspan dy="3.5" font-size="9.0">0</tspan><tspan dy="-3.5">=1</tspan></text>
+<rect x="81.0" y="74.0" width="78.0" height="40.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="120.0" y="100.0" font-size="13" text-anchor="middle" fill="#1F2A44">전가산기</text>
+<polyline points="100.0,59.0 100.0,73.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="100.0,73.0 95.5,64.0 104.5,64.0" fill="#1F2A44"/>
+<polyline points="140.0,59.0 140.0,73.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="140.0,73.0 135.5,64.0 144.5,64.0" fill="#1F2A44"/>
+<polyline points="120.0,114.0 120.0,130.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="120.0,130.0 115.5,121.0 124.5,121.0" fill="#1F2A44"/>
+<text x="120.0" y="145.0" font-size="13" text-anchor="middle" fill="#111111" font-weight="bold">S<tspan dy="3.6" font-size="9.4">0</tspan><tspan dy="-3.6">=0</tspan></text>
+<polyline points="45.0,94.0 80.0,94.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="80.0,94.0 71.0,98.5 71.0,89.5" fill="#1F2A44"/>
+<text x="41.0" y="99.0" font-size="12.5" text-anchor="end" fill="#C0392B" font-weight="bold">C=0</text>
+<polyline points="159.0,94.0 250.0,94.0" fill="none" stroke="#C0392B" stroke-width="2.2" stroke-linejoin="round"/>
+<polygon points="250.0,94.0 241.0,98.5 241.0,89.5" fill="#C0392B"/>
+<text x="205.0" y="86.0" font-size="12.5" text-anchor="middle" fill="#C0392B" font-weight="bold">C=1</text>
+<text x="290.0" y="38.0" font-size="13" text-anchor="middle" fill="#44506A">자리 1</text>
+<text x="270.0" y="55.0" font-size="12.5" text-anchor="middle" fill="#1F2A44">A<tspan dy="3.5" font-size="9.0">1</tspan><tspan dy="-3.5">=0</tspan></text>
+<text x="310.0" y="55.0" font-size="12.5" text-anchor="middle" fill="#1F2A44">B<tspan dy="3.5" font-size="9.0">1</tspan><tspan dy="-3.5">=1</tspan></text>
+<rect x="251.0" y="74.0" width="78.0" height="40.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="290.0" y="100.0" font-size="13" text-anchor="middle" fill="#1F2A44">전가산기</text>
+<polyline points="270.0,59.0 270.0,73.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="270.0,73.0 265.5,64.0 274.5,64.0" fill="#1F2A44"/>
+<polyline points="310.0,59.0 310.0,73.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="310.0,73.0 305.5,64.0 314.5,64.0" fill="#1F2A44"/>
+<polyline points="290.0,114.0 290.0,130.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="290.0,130.0 285.5,121.0 294.5,121.0" fill="#1F2A44"/>
+<text x="290.0" y="145.0" font-size="13" text-anchor="middle" fill="#111111" font-weight="bold">S<tspan dy="3.6" font-size="9.4">1</tspan><tspan dy="-3.6">=0</tspan></text>
+<polyline points="329.0,94.0 420.0,94.0" fill="none" stroke="#C0392B" stroke-width="2.2" stroke-linejoin="round"/>
+<polygon points="420.0,94.0 411.0,98.5 411.0,89.5" fill="#C0392B"/>
+<text x="375.0" y="86.0" font-size="12.5" text-anchor="middle" fill="#C0392B" font-weight="bold">C=1</text>
+<text x="460.0" y="38.0" font-size="13" text-anchor="middle" fill="#44506A">자리 2</text>
+<text x="440.0" y="55.0" font-size="12.5" text-anchor="middle" fill="#1F2A44">A<tspan dy="3.5" font-size="9.0">2</tspan><tspan dy="-3.5">=1</tspan></text>
+<text x="480.0" y="55.0" font-size="12.5" text-anchor="middle" fill="#1F2A44">B<tspan dy="3.5" font-size="9.0">2</tspan><tspan dy="-3.5">=0</tspan></text>
+<rect x="421.0" y="74.0" width="78.0" height="40.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="460.0" y="100.0" font-size="13" text-anchor="middle" fill="#1F2A44">전가산기</text>
+<polyline points="440.0,59.0 440.0,73.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="440.0,73.0 435.5,64.0 444.5,64.0" fill="#1F2A44"/>
+<polyline points="480.0,59.0 480.0,73.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="480.0,73.0 475.5,64.0 484.5,64.0" fill="#1F2A44"/>
+<polyline points="460.0,114.0 460.0,130.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="460.0,130.0 455.5,121.0 464.5,121.0" fill="#1F2A44"/>
+<text x="460.0" y="145.0" font-size="13" text-anchor="middle" fill="#111111" font-weight="bold">S<tspan dy="3.6" font-size="9.4">2</tspan><tspan dy="-3.6">=0</tspan></text>
+<polyline points="499.0,94.0 590.0,94.0" fill="none" stroke="#C0392B" stroke-width="2.2" stroke-linejoin="round"/>
+<polygon points="590.0,94.0 581.0,98.5 581.0,89.5" fill="#C0392B"/>
+<text x="545.0" y="86.0" font-size="12.5" text-anchor="middle" fill="#C0392B" font-weight="bold">C=1</text>
+<text x="630.0" y="38.0" font-size="13" text-anchor="middle" fill="#44506A">자리 3 (MSB)</text>
+<text x="610.0" y="55.0" font-size="12.5" text-anchor="middle" fill="#1F2A44">A<tspan dy="3.5" font-size="9.0">3</tspan><tspan dy="-3.5">=0</tspan></text>
+<text x="650.0" y="55.0" font-size="12.5" text-anchor="middle" fill="#1F2A44">B<tspan dy="3.5" font-size="9.0">3</tspan><tspan dy="-3.5">=0</tspan></text>
+<rect x="591.0" y="74.0" width="78.0" height="40.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="630.0" y="100.0" font-size="13" text-anchor="middle" fill="#1F2A44">전가산기</text>
+<polyline points="610.0,59.0 610.0,73.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="610.0,73.0 605.5,64.0 614.5,64.0" fill="#1F2A44"/>
+<polyline points="650.0,59.0 650.0,73.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="650.0,73.0 645.5,64.0 654.5,64.0" fill="#1F2A44"/>
+<polyline points="630.0,114.0 630.0,130.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="630.0,130.0 625.5,121.0 634.5,121.0" fill="#1F2A44"/>
+<text x="630.0" y="145.0" font-size="13" text-anchor="middle" fill="#111111" font-weight="bold">S<tspan dy="3.6" font-size="9.4">3</tspan><tspan dy="-3.6">=1</tspan></text>
+<polyline points="8.0,166.0 772.0,166.0" fill="none" stroke="#E4E8EF" stroke-width="1.2" stroke-linejoin="round"/>
+<text x="10.0" y="186.0" font-size="15" text-anchor="start" fill="#111111" font-weight="bold">직렬 — 전가산기 1개를 클럭마다 반복 사용</text>
+<text x="120.0" y="208.0" font-size="13" text-anchor="middle" fill="#44506A">클럭 1</text>
+<text x="100.0" y="225.0" font-size="12.5" text-anchor="middle" fill="#1F2A44">A<tspan dy="3.5" font-size="9.0">0</tspan><tspan dy="-3.5">=1</tspan></text>
+<text x="140.0" y="225.0" font-size="12.5" text-anchor="middle" fill="#1F2A44">B<tspan dy="3.5" font-size="9.0">0</tspan><tspan dy="-3.5">=1</tspan></text>
+<rect x="81.0" y="244.0" width="78.0" height="40.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="120.0" y="270.0" font-size="13" text-anchor="middle" fill="#1F2A44">전가산기</text>
+<polyline points="100.0,229.0 100.0,243.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="100.0,243.0 95.5,234.0 104.5,234.0" fill="#1F2A44"/>
+<polyline points="140.0,229.0 140.0,243.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="140.0,243.0 135.5,234.0 144.5,234.0" fill="#1F2A44"/>
+<polyline points="120.0,284.0 120.0,300.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="120.0,300.0 115.5,291.0 124.5,291.0" fill="#1F2A44"/>
+<text x="120.0" y="315.0" font-size="13" text-anchor="middle" fill="#111111" font-weight="bold">S=0</text>
+<polyline points="45.0,264.0 80.0,264.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="80.0,264.0 71.0,268.5 71.0,259.5" fill="#1F2A44"/>
+<text x="41.0" y="269.0" font-size="12.5" text-anchor="end" fill="#C0392B" font-weight="bold">C=0</text>
+<polyline points="159.0,264.0 184.0,264.0" fill="none" stroke="#C0392B" stroke-width="2.2" stroke-linejoin="round"/>
+<polygon points="184.0,264.0 175.0,268.5 175.0,259.5" fill="#C0392B"/>
+<rect x="184.0" y="249.0" width="42.0" height="30.0" rx="0" fill="#FDECEC" stroke="#C0392B" stroke-width="1.6"/>
+<text x="205.0" y="269.0" font-size="13" text-anchor="middle" fill="#C0392B" font-weight="bold">FF</text>
+<polyline points="226.0,264.0 250.0,264.0" fill="none" stroke="#C0392B" stroke-width="2.2" stroke-linejoin="round"/>
+<polygon points="250.0,264.0 241.0,268.5 241.0,259.5" fill="#C0392B"/>
+<text x="205.0" y="243.0" font-size="12.5" text-anchor="middle" fill="#C0392B" font-weight="bold">C=1</text>
+<text x="290.0" y="208.0" font-size="13" text-anchor="middle" fill="#44506A">클럭 2</text>
+<text x="270.0" y="225.0" font-size="12.5" text-anchor="middle" fill="#1F2A44">A<tspan dy="3.5" font-size="9.0">0</tspan><tspan dy="-3.5">=0</tspan></text>
+<text x="310.0" y="225.0" font-size="12.5" text-anchor="middle" fill="#1F2A44">B<tspan dy="3.5" font-size="9.0">0</tspan><tspan dy="-3.5">=1</tspan></text>
+<rect x="251.0" y="244.0" width="78.0" height="40.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6" stroke-dasharray="5,3"/>
+<text x="290.0" y="270.0" font-size="13" text-anchor="middle" fill="#1F2A44">전가산기</text>
+<polyline points="270.0,229.0 270.0,243.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="270.0,243.0 265.5,234.0 274.5,234.0" fill="#1F2A44"/>
+<polyline points="310.0,229.0 310.0,243.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="310.0,243.0 305.5,234.0 314.5,234.0" fill="#1F2A44"/>
+<polyline points="290.0,284.0 290.0,300.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="290.0,300.0 285.5,291.0 294.5,291.0" fill="#1F2A44"/>
+<text x="290.0" y="315.0" font-size="13" text-anchor="middle" fill="#111111" font-weight="bold">S=0</text>
+<polyline points="329.0,264.0 354.0,264.0" fill="none" stroke="#C0392B" stroke-width="2.2" stroke-linejoin="round"/>
+<polygon points="354.0,264.0 345.0,268.5 345.0,259.5" fill="#C0392B"/>
+<rect x="354.0" y="249.0" width="42.0" height="30.0" rx="0" fill="#FDECEC" stroke="#C0392B" stroke-width="1.6" stroke-dasharray="5,3"/>
+<text x="375.0" y="269.0" font-size="13" text-anchor="middle" fill="#C0392B" font-weight="bold">FF</text>
+<polyline points="396.0,264.0 420.0,264.0" fill="none" stroke="#C0392B" stroke-width="2.2" stroke-linejoin="round"/>
+<polygon points="420.0,264.0 411.0,268.5 411.0,259.5" fill="#C0392B"/>
+<text x="375.0" y="243.0" font-size="12.5" text-anchor="middle" fill="#C0392B" font-weight="bold">C=1</text>
+<text x="460.0" y="208.0" font-size="13" text-anchor="middle" fill="#44506A">클럭 3</text>
+<text x="440.0" y="225.0" font-size="12.5" text-anchor="middle" fill="#1F2A44">A<tspan dy="3.5" font-size="9.0">0</tspan><tspan dy="-3.5">=1</tspan></text>
+<text x="480.0" y="225.0" font-size="12.5" text-anchor="middle" fill="#1F2A44">B<tspan dy="3.5" font-size="9.0">0</tspan><tspan dy="-3.5">=0</tspan></text>
+<rect x="421.0" y="244.0" width="78.0" height="40.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6" stroke-dasharray="5,3"/>
+<text x="460.0" y="270.0" font-size="13" text-anchor="middle" fill="#1F2A44">전가산기</text>
+<polyline points="440.0,229.0 440.0,243.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="440.0,243.0 435.5,234.0 444.5,234.0" fill="#1F2A44"/>
+<polyline points="480.0,229.0 480.0,243.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="480.0,243.0 475.5,234.0 484.5,234.0" fill="#1F2A44"/>
+<polyline points="460.0,284.0 460.0,300.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="460.0,300.0 455.5,291.0 464.5,291.0" fill="#1F2A44"/>
+<text x="460.0" y="315.0" font-size="13" text-anchor="middle" fill="#111111" font-weight="bold">S=0</text>
+<polyline points="499.0,264.0 524.0,264.0" fill="none" stroke="#C0392B" stroke-width="2.2" stroke-linejoin="round"/>
+<polygon points="524.0,264.0 515.0,268.5 515.0,259.5" fill="#C0392B"/>
+<rect x="524.0" y="249.0" width="42.0" height="30.0" rx="0" fill="#FDECEC" stroke="#C0392B" stroke-width="1.6" stroke-dasharray="5,3"/>
+<text x="545.0" y="269.0" font-size="13" text-anchor="middle" fill="#C0392B" font-weight="bold">FF</text>
+<polyline points="566.0,264.0 590.0,264.0" fill="none" stroke="#C0392B" stroke-width="2.2" stroke-linejoin="round"/>
+<polygon points="590.0,264.0 581.0,268.5 581.0,259.5" fill="#C0392B"/>
+<text x="545.0" y="243.0" font-size="12.5" text-anchor="middle" fill="#C0392B" font-weight="bold">C=1</text>
+<text x="630.0" y="208.0" font-size="13" text-anchor="middle" fill="#44506A">클럭 4</text>
+<text x="610.0" y="225.0" font-size="12.5" text-anchor="middle" fill="#1F2A44">A<tspan dy="3.5" font-size="9.0">0</tspan><tspan dy="-3.5">=0</tspan></text>
+<text x="650.0" y="225.0" font-size="12.5" text-anchor="middle" fill="#1F2A44">B<tspan dy="3.5" font-size="9.0">0</tspan><tspan dy="-3.5">=0</tspan></text>
+<rect x="591.0" y="244.0" width="78.0" height="40.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6" stroke-dasharray="5,3"/>
+<text x="630.0" y="270.0" font-size="13" text-anchor="middle" fill="#1F2A44">전가산기</text>
+<polyline points="610.0,229.0 610.0,243.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="610.0,243.0 605.5,234.0 614.5,234.0" fill="#1F2A44"/>
+<polyline points="650.0,229.0 650.0,243.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="650.0,243.0 645.5,234.0 654.5,234.0" fill="#1F2A44"/>
+<polyline points="630.0,284.0 630.0,300.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="630.0,300.0 625.5,291.0 634.5,291.0" fill="#1F2A44"/>
+<text x="630.0" y="315.0" font-size="13" text-anchor="middle" fill="#111111" font-weight="bold">S=1</text>
+<text x="390.0" y="342.0" font-size="13" text-anchor="middle" fill="#44506A">점선 상자 = 같은 부품의 다음 클럭 동작</text>
+</svg>

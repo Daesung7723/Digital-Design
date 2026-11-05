@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="816" height="392" viewBox="0 0 816 392" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect x="0" y="0" width="816" height="392" fill="#FFFFFF"/>
+<rect x="8.0" y="34.0" width="202.0" height="346.0" rx="8" fill="none" stroke="#E4E8EF" stroke-width="1.4"/>
+<rect x="278.0" y="34.0" width="196.0" height="346.0" rx="8" fill="#DCEBFF" stroke="#9DBDE8" stroke-width="1.4"/>
+<rect x="538.0" y="34.0" width="272.0" height="346.0" rx="8" fill="none" stroke="#E4E8EF" stroke-width="1.4"/>
+<text x="109.0" y="22.0" font-size="15" text-anchor="middle" fill="#111111" font-weight="bold">앞에서 다룬 내용</text>
+<text x="376.0" y="22.0" font-size="15" text-anchor="middle" fill="#111111" font-weight="bold">이 장에서 다루는 내용</text>
+<text x="674.0" y="22.0" font-size="15" text-anchor="middle" fill="#111111" font-weight="bold">이어서 다룰 내용</text>
+<rect x="16.0" y="45.0" width="186.0" height="50.0" rx="4" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="109.0" y="66.0" font-size="14" text-anchor="middle" fill="#111111" font-weight="bold">순차논리회로</text>
+<text x="109.0" y="85.0" font-size="12.5" text-anchor="middle" fill="#44506A">상태 · 동시 갱신 · FSM</text>
+<polyline points="109.0,113.0 109.0,96.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="109.0,96.0 113.5,105.0 104.5,105.0" fill="#1F2A44"/>
+<rect x="16.0" y="113.0" width="186.0" height="50.0" rx="4" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="109.0" y="134.0" font-size="14" text-anchor="middle" fill="#111111" font-weight="bold">래치 · 플립플롭</text>
+<text x="109.0" y="153.0" font-size="12.5" text-anchor="middle" fill="#44506A">1비트 저장</text>
+<polyline points="109.0,181.0 109.0,164.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="109.0,164.0 113.5,173.0 104.5,173.0" fill="#1F2A44"/>
+<rect x="16.0" y="181.0" width="186.0" height="50.0" rx="4" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="109.0" y="202.0" font-size="14" text-anchor="middle" fill="#111111" font-weight="bold">조합논리회로</text>
+<text x="109.0" y="221.0" font-size="12.5" text-anchor="middle" fill="#44506A">가산기 · MUX · 디코더</text>
+<polyline points="109.0,249.0 109.0,232.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="109.0,232.0 113.5,241.0 104.5,241.0" fill="#1F2A44"/>
+<rect x="16.0" y="249.0" width="186.0" height="50.0" rx="4" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="109.0" y="270.0" font-size="14" text-anchor="middle" fill="#111111" font-weight="bold">논리 게이트</text>
+<text x="109.0" y="289.0" font-size="12.5" text-anchor="middle" fill="#44506A">AND · OR · NOT · NAND</text>
+<polyline points="109.0,317.0 109.0,300.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="109.0,300.0 113.5,309.0 104.5,309.0" fill="#1F2A44"/>
+<rect x="16.0" y="317.0" width="186.0" height="50.0" rx="4" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="109.0" y="338.0" font-size="14" text-anchor="middle" fill="#111111" font-weight="bold">반도체 소자</text>
+<text x="109.0" y="357.0" font-size="12.5" text-anchor="middle" fill="#44506A">트랜지스터 — 스위치 동작</text>
+<rect x="286.0" y="45.0" width="180.0" height="50.0" rx="4" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="376.0" y="66.0" font-size="14" text-anchor="middle" fill="#111111" font-weight="bold">카운터</text>
+<text x="376.0" y="85.0" font-size="12.5" text-anchor="middle" fill="#44506A">정해진 순서로 상태 변경</text>
+<rect x="286.0" y="113.0" width="180.0" height="50.0" rx="4" fill="#FDECEC" stroke="#C0392B" stroke-width="2.2"/>
+<text x="376.0" y="134.0" font-size="14" text-anchor="middle" fill="#C0392B" font-weight="bold">레지스터</text>
+<text x="376.0" y="153.0" font-size="12.5" text-anchor="middle" fill="#44506A">FF n개 + 공유 클럭</text>
+<rect x="286.0" y="181.0" width="180.0" height="50.0" rx="4" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="376.0" y="202.0" font-size="14" text-anchor="middle" fill="#111111" font-weight="bold">시프트 레지스터</text>
+<text x="376.0" y="221.0" font-size="12.5" text-anchor="middle" fill="#44506A">비트 이동 · 직렬 ↔ 병렬</text>
+<text x="376.0" y="280.0" font-size="14" text-anchor="middle" fill="#111111" font-weight="bold">이 장의 질문</text>
+<text x="376.0" y="304.0" font-size="14" text-anchor="middle" fill="#1F2A44">값을 언제, 어떻게</text>
+<text x="376.0" y="324.0" font-size="14" text-anchor="middle" fill="#1F2A44">넣고 옮기는가</text>
+<polyline points="202.0,70.0 285.0,70.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="285.0,70.0 276.0,74.5 276.0,65.5" fill="#1F2A44"/>
+<text x="244.0" y="63.0" font-size="12.5" text-anchor="middle" fill="#1F2A44">가장 작은</text>
+<text x="244.0" y="87.0" font-size="12.5" text-anchor="middle" fill="#1F2A44">FSM</text>
+<polyline points="202.0,138.0 285.0,138.0" fill="none" stroke="#C0392B" stroke-width="2.4" stroke-linejoin="round"/>
+<polygon points="285.0,138.0 276.0,142.5 276.0,133.5" fill="#C0392B"/>
+<text x="244.0" y="131.0" font-size="12.5" text-anchor="middle" fill="#C0392B">FF</text>
+<text x="244.0" y="155.0" font-size="12.5" text-anchor="middle" fill="#C0392B">n개 묶음</text>
+<polyline points="202.0,206.0 285.0,206.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="285.0,206.0 276.0,210.5 276.0,201.5" fill="#1F2A44"/>
+<text x="244.0" y="199.0" font-size="12.5" text-anchor="middle" fill="#1F2A44">MUX로</text>
+<text x="244.0" y="223.0" font-size="12.5" text-anchor="middle" fill="#1F2A44">동작 선택</text>
+<rect x="546.0" y="113.0" width="248.0" height="50.0" rx="4" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="670.0" y="134.0" font-size="14" text-anchor="middle" fill="#111111" font-weight="bold">RTL</text>
+<text x="670.0" y="153.0" font-size="12.5" text-anchor="middle" fill="#44506A">레지스터 전송을 문장으로 기술</text>
+<rect x="546.0" y="181.0" width="248.0" height="50.0" rx="4" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="670.0" y="202.0" font-size="14" text-anchor="middle" fill="#111111" font-weight="bold">ASM 차트</text>
+<text x="670.0" y="221.0" font-size="12.5" text-anchor="middle" fill="#44506A">상태 · 판단 · 전송을 한 차트로 기술</text>
+<rect x="546.0" y="249.0" width="248.0" height="50.0" rx="4" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="670.0" y="270.0" font-size="14" text-anchor="middle" fill="#111111" font-weight="bold">데이터패스 + 제어유닛</text>
+<text x="670.0" y="289.0" font-size="12.5" text-anchor="middle" fill="#44506A">제어유닛 = FSM</text>
+<rect x="546.0" y="317.0" width="119.0" height="50.0" rx="4" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.6" stroke-dasharray="6,4"/>
+<text x="605.5" y="338.0" font-size="14" text-anchor="middle" fill="#111111" font-weight="bold">데이터 통신</text>
+<text x="605.5" y="357.0" font-size="12.5" text-anchor="middle" fill="#44506A">UART · USB · PCIe</text>
+<rect x="675.0" y="317.0" width="119.0" height="50.0" rx="4" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.6" stroke-dasharray="6,4"/>
+<text x="734.5" y="338.0" font-size="14" text-anchor="middle" fill="#111111" font-weight="bold">컴퓨터(CPU)</text>
+<text x="734.5" y="357.0" font-size="12.5" text-anchor="middle" fill="#44506A">PC · IR · 레지스터</text>
+<polyline points="670.0,163.0 670.0,180.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="670.0,180.0 665.5,171.0 674.5,171.0" fill="#1F2A44"/>
+<polyline points="670.0,231.0 670.0,248.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="670.0,248.0 665.5,239.0 674.5,239.0" fill="#1F2A44"/>
+<polyline points="734.5,299.0 734.5,316.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="734.5,316.0 730.0,307.0 739.0,307.0" fill="#1F2A44"/>
+<polyline points="466.0,138.0 545.0,138.0" fill="none" stroke="#C0392B" stroke-width="2.4" stroke-linejoin="round"/>
+<polygon points="545.0,138.0 536.0,142.5 536.0,133.5" fill="#C0392B"/>
+<text x="506.0" y="116.0" font-size="12.5" text-anchor="middle" fill="#C0392B">레지스터 +</text>
+<text x="506.0" y="131.0" font-size="12.5" text-anchor="middle" fill="#C0392B">전송 + 제어</text>
+<polyline points="466.0,206.0 506.0,206.0 506.0,342.0 545.0,342.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="545.0,342.0 536.0,346.5 536.0,337.5" fill="#1F2A44"/>
+<text x="511.0" y="270.0" font-size="12.5" text-anchor="start" fill="#1F2A44">SIPO</text>
+<text x="511.0" y="287.0" font-size="12.5" text-anchor="start" fill="#1F2A44">PISO</text>
+<polyline points="466.0,70.0 802.0,70.0 802.0,274.0 795.0,274.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="795.0,274.0 804.0,269.5 804.0,278.5" fill="#1F2A44"/>
+<text x="674.0" y="62.0" font-size="12.5" text-anchor="middle" fill="#1F2A44">반복 횟수 · 타이밍</text>
+</svg>

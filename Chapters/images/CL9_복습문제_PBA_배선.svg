@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="220" viewBox="0 0 600 220" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect x="0" y="0" width="600" height="220" fill="#FFFFFF"/>
+<rect x="64.0" y="62.0" width="130.0" height="84.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="129.0" y="109.0" font-size="15" text-anchor="middle" fill="#111111" font-weight="bold">레지스터 A</text>
+<rect x="340.0" y="62.0" width="160.0" height="84.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="420.0" y="101.0" font-size="15" text-anchor="middle" fill="#111111" font-weight="bold">레지스터 B</text>
+<text x="420.0" y="122.0" font-size="13" text-anchor="middle" fill="#44506A">(병렬 로드)</text>
+<polyline points="194.0,77.0 339.0,77.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="339.0,77.0 330.0,81.5 330.0,72.5" fill="#1F2A44"/>
+<polyline points="194.0,95.0 339.0,95.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="339.0,95.0 330.0,99.5 330.0,90.5" fill="#1F2A44"/>
+<polyline points="194.0,113.0 339.0,113.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="339.0,113.0 330.0,117.5 330.0,108.5" fill="#1F2A44"/>
+<polyline points="194.0,131.0 339.0,131.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="339.0,131.0 330.0,135.5 330.0,126.5" fill="#1F2A44"/>
+<text x="267.0" y="54.0" font-size="13" text-anchor="middle" fill="#44506A">A의 출력 4비트 → B의 입력 I</text>
+<polyline points="420.0,26.0 420.0,61.0" fill="none" stroke="#C0392B" stroke-width="2.4" stroke-linejoin="round"/>
+<polygon points="420.0,61.0 415.5,52.0 424.5,52.0" fill="#C0392B"/>
+<text x="420.0" y="18.0" font-size="14" text-anchor="middle" fill="#C0392B" font-weight="bold">P → Load</text>
+<polyline points="42.0,180.0 420.0,180.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<text x="38.0" y="185.0" font-size="14" text-anchor="end" fill="#111111">clk</text>
+<polyline points="129.0,180.0 129.0,147.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="129.0,147.0 133.5,156.0 124.5,156.0" fill="#1F2A44"/>
+<circle cx="129.0" cy="180.0" r="3" fill="#1F2A44"/>
+<polyline points="420.0,180.0 420.0,147.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="420.0,147.0 424.5,156.0 415.5,156.0" fill="#1F2A44"/>
+<circle cx="420.0" cy="180.0" r="3" fill="#1F2A44"/>
+<polyline points="500.0,104.0 540.0,104.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="540.0,104.0 531.0,108.5 531.0,99.5" fill="#1F2A44"/>
+<text x="546.0" y="109.0" font-size="14" text-anchor="start" fill="#111111">B</text>
+<text x="300.0" y="206.0" font-size="14" text-anchor="middle" fill="#111111" font-weight="bold">P = 1인 에지에만 B ← A · 나머지 에지는 유지</text>
+</svg>

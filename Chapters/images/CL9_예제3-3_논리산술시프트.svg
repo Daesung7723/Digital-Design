@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="790" height="186" viewBox="0 0 790 186" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect x="0" y="0" width="790" height="186" fill="#FFFFFF"/>
+<text x="195.0" y="18.0" font-size="15" text-anchor="middle" fill="#111111" font-weight="bold">ⓐ si = 0 (논리 시프트)</text>
+<text x="91.0" y="44.0" font-size="13" text-anchor="middle" fill="#44506A">si</text>
+<text x="143.0" y="44.0" font-size="13" text-anchor="middle" fill="#44506A">Q<tspan dy="3.6" font-size="9.4">3</tspan><tspan dy="-3.6">&#8203;</tspan></text>
+<text x="195.0" y="44.0" font-size="13" text-anchor="middle" fill="#44506A">Q<tspan dy="3.6" font-size="9.4">2</tspan><tspan dy="-3.6">&#8203;</tspan></text>
+<text x="247.0" y="44.0" font-size="13" text-anchor="middle" fill="#44506A">Q<tspan dy="3.6" font-size="9.4">1</tspan><tspan dy="-3.6">&#8203;</tspan></text>
+<text x="299.0" y="44.0" font-size="13" text-anchor="middle" fill="#44506A">Q<tspan dy="3.6" font-size="9.4">0</tspan><tspan dy="-3.6">&#8203;</tspan></text>
+<rect x="72.0" y="54.0" width="38.0" height="32.0" rx="0" fill="#DCEBFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="91.0" y="75.8" font-size="16" text-anchor="middle" fill="#111111" font-weight="bold">0</text>
+<rect x="124.0" y="54.0" width="38.0" height="32.0" rx="0" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="143.0" y="75.8" font-size="16" text-anchor="middle" fill="#111111">1</text>
+<rect x="124.0" y="120.0" width="38.0" height="32.0" rx="0" fill="#FDECEC" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="143.0" y="141.8" font-size="16" text-anchor="middle" fill="#111111" font-weight="bold">0</text>
+<rect x="176.0" y="54.0" width="38.0" height="32.0" rx="0" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="195.0" y="75.8" font-size="16" text-anchor="middle" fill="#111111">1</text>
+<rect x="176.0" y="120.0" width="38.0" height="32.0" rx="0" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="195.0" y="141.8" font-size="16" text-anchor="middle" fill="#111111" font-weight="bold">1</text>
+<rect x="228.0" y="54.0" width="38.0" height="32.0" rx="0" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="247.0" y="75.8" font-size="16" text-anchor="middle" fill="#111111">0</text>
+<rect x="228.0" y="120.0" width="38.0" height="32.0" rx="0" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="247.0" y="141.8" font-size="16" text-anchor="middle" fill="#111111" font-weight="bold">1</text>
+<rect x="280.0" y="54.0" width="38.0" height="32.0" rx="0" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="299.0" y="75.8" font-size="16" text-anchor="middle" fill="#111111">0</text>
+<rect x="280.0" y="120.0" width="38.0" height="32.0" rx="0" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="299.0" y="141.8" font-size="16" text-anchor="middle" fill="#111111" font-weight="bold">0</text>
+<polyline points="91.0,86.0 143.0,119.0" fill="none" stroke="#1F2A44" stroke-width="2.0" stroke-linejoin="round"/>
+<polygon points="143.0,119.0 133.0,118.0 137.8,110.4" fill="#1F2A44"/>
+<polyline points="143.0,86.0 195.0,119.0" fill="none" stroke="#1F2A44" stroke-width="2.0" stroke-linejoin="round"/>
+<polygon points="195.0,119.0 185.0,118.0 189.8,110.4" fill="#1F2A44"/>
+<polyline points="195.0,86.0 247.0,119.0" fill="none" stroke="#1F2A44" stroke-width="2.0" stroke-linejoin="round"/>
+<polygon points="247.0,119.0 237.0,118.0 241.8,110.4" fill="#1F2A44"/>
+<polyline points="247.0,86.0 299.0,119.0" fill="none" stroke="#1F2A44" stroke-width="2.0" stroke-linejoin="round"/>
+<polygon points="299.0,119.0 289.0,118.0 293.8,110.4" fill="#1F2A44"/>
+<text x="62.0" y="75.0" font-size="13" text-anchor="end" fill="#111111" font-weight="bold">시프트 전</text>
+<text x="62.0" y="141.0" font-size="13" text-anchor="end" fill="#111111" font-weight="bold">시프트 후</text>
+<text x="328.0" y="75.0" font-size="14" text-anchor="start" fill="#111111">= −4</text>
+<text x="328.0" y="141.0" font-size="14" text-anchor="start" fill="#111111" font-weight="bold">= +6</text>
+<text x="195.0" y="176.0" font-size="14" text-anchor="middle" fill="#C0392B" font-weight="bold">부호가 바뀜 — ÷2 불성립</text>
+<polyline points="395.0,8.0 395.0,178.0" fill="none" stroke="#E4E8EF" stroke-width="1.2" stroke-linejoin="round"/>
+<text x="595.0" y="18.0" font-size="15" text-anchor="middle" fill="#111111" font-weight="bold">ⓑ si = Q<tspan dy="4.2" font-size="10.8">3</tspan><tspan dy="-4.2"> (산술 시프트)</tspan></text>
+<text x="491.0" y="44.0" font-size="13" text-anchor="middle" fill="#44506A">si = Q<tspan dy="3.6" font-size="9.4">3</tspan><tspan dy="-3.6">&#8203;</tspan></text>
+<text x="543.0" y="44.0" font-size="13" text-anchor="middle" fill="#44506A">Q<tspan dy="3.6" font-size="9.4">3</tspan><tspan dy="-3.6">&#8203;</tspan></text>
+<text x="595.0" y="44.0" font-size="13" text-anchor="middle" fill="#44506A">Q<tspan dy="3.6" font-size="9.4">2</tspan><tspan dy="-3.6">&#8203;</tspan></text>
+<text x="647.0" y="44.0" font-size="13" text-anchor="middle" fill="#44506A">Q<tspan dy="3.6" font-size="9.4">1</tspan><tspan dy="-3.6">&#8203;</tspan></text>
+<text x="699.0" y="44.0" font-size="13" text-anchor="middle" fill="#44506A">Q<tspan dy="3.6" font-size="9.4">0</tspan><tspan dy="-3.6">&#8203;</tspan></text>
+<rect x="472.0" y="54.0" width="38.0" height="32.0" rx="0" fill="#DCEBFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="491.0" y="75.8" font-size="16" text-anchor="middle" fill="#111111" font-weight="bold">1</text>
+<rect x="524.0" y="54.0" width="38.0" height="32.0" rx="0" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="543.0" y="75.8" font-size="16" text-anchor="middle" fill="#111111">1</text>
+<rect x="524.0" y="120.0" width="38.0" height="32.0" rx="0" fill="#FDECEC" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="543.0" y="141.8" font-size="16" text-anchor="middle" fill="#111111" font-weight="bold">1</text>
+<rect x="576.0" y="54.0" width="38.0" height="32.0" rx="0" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="595.0" y="75.8" font-size="16" text-anchor="middle" fill="#111111">1</text>
+<rect x="576.0" y="120.0" width="38.0" height="32.0" rx="0" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="595.0" y="141.8" font-size="16" text-anchor="middle" fill="#111111" font-weight="bold">1</text>
+<rect x="628.0" y="54.0" width="38.0" height="32.0" rx="0" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="647.0" y="75.8" font-size="16" text-anchor="middle" fill="#111111">0</text>
+<rect x="628.0" y="120.0" width="38.0" height="32.0" rx="0" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="647.0" y="141.8" font-size="16" text-anchor="middle" fill="#111111" font-weight="bold">1</text>
+<rect x="680.0" y="54.0" width="38.0" height="32.0" rx="0" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="699.0" y="75.8" font-size="16" text-anchor="middle" fill="#111111">0</text>
+<rect x="680.0" y="120.0" width="38.0" height="32.0" rx="0" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="699.0" y="141.8" font-size="16" text-anchor="middle" fill="#111111" font-weight="bold">0</text>
+<polyline points="491.0,86.0 543.0,119.0" fill="none" stroke="#1F2A44" stroke-width="2.0" stroke-linejoin="round"/>
+<polygon points="543.0,119.0 533.0,118.0 537.8,110.4" fill="#1F2A44"/>
+<polyline points="543.0,86.0 595.0,119.0" fill="none" stroke="#1F2A44" stroke-width="2.0" stroke-linejoin="round"/>
+<polygon points="595.0,119.0 585.0,118.0 589.8,110.4" fill="#1F2A44"/>
+<polyline points="595.0,86.0 647.0,119.0" fill="none" stroke="#1F2A44" stroke-width="2.0" stroke-linejoin="round"/>
+<polygon points="647.0,119.0 637.0,118.0 641.8,110.4" fill="#1F2A44"/>
+<polyline points="647.0,86.0 699.0,119.0" fill="none" stroke="#1F2A44" stroke-width="2.0" stroke-linejoin="round"/>
+<polygon points="699.0,119.0 689.0,118.0 693.8,110.4" fill="#1F2A44"/>
+<text x="462.0" y="75.0" font-size="13" text-anchor="end" fill="#111111" font-weight="bold">시프트 전</text>
+<text x="462.0" y="141.0" font-size="13" text-anchor="end" fill="#111111" font-weight="bold">시프트 후</text>
+<text x="728.0" y="75.0" font-size="14" text-anchor="start" fill="#111111">= −4</text>
+<text x="728.0" y="141.0" font-size="14" text-anchor="start" fill="#111111" font-weight="bold">= −2</text>
+<text x="595.0" y="176.0" font-size="14" text-anchor="middle" fill="#1F2A44" font-weight="bold">부호 유지 — −4 ÷ 2 = −2</text>
+</svg>

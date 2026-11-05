@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="232" viewBox="0 0 760 232" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect x="0" y="0" width="760" height="232" fill="#FFFFFF"/>
+<text x="177.0" y="22.0" font-size="15" text-anchor="middle" fill="#111111" font-weight="bold">① 클럭 게이팅</text>
+<rect x="94.0" y="104.0" width="96.0" height="74.0" rx="6" fill="#FDECEC" opacity="1"/>
+<rect x="204.0" y="56.0" width="60.0" height="64.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="215.0" y="81.0" font-size="13" text-anchor="middle" fill="#1F2A44">D</text>
+<text x="253.0" y="81.0" font-size="13" text-anchor="middle" fill="#1F2A44">Q</text>
+<polygon points="204.0,98.0 213.0,104.0 204.0,110.0" fill="none" stroke="#C0392B" stroke-width="1.6"/>
+<polyline points="48.0,76.0 204.0,76.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="204.0,76.0 195.0,80.5 195.0,71.5" fill="#1F2A44"/>
+<text x="36.0" y="81.0" font-size="14" text-anchor="end" fill="#111111">I</text>
+<polyline points="264.0,76.0 312.0,76.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="312.0,76.0 303.0,80.5 303.0,71.5" fill="#1F2A44"/>
+<text x="320.0" y="81.0" font-size="14" text-anchor="start" fill="#111111">Q</text>
+<path d="M108.0,118.0 L132.0,118.0 A18.0,18.0 0 0 1 132.0,154.0 L108.0,154.0 Z" fill="#F4F7FB" stroke="#C0392B" stroke-width="1.6"/>
+<polyline points="48.0,128.1 108.0,128.1" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polyline points="48.0,143.9 108.0,143.9" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<text x="36.0" y="133.1" font-size="14" text-anchor="end" fill="#111111">clk</text>
+<text x="36.0" y="148.9" font-size="14" text-anchor="end" fill="#C0392B" font-weight="bold">Load</text>
+<polyline points="150.0,136.0 176.0,136.0 176.0,104.0 204.0,104.0" fill="none" stroke="#C0392B" stroke-width="2.2" stroke-linejoin="round"/>
+<text x="177.0" y="202.0" font-size="14" text-anchor="middle" fill="#C0392B" font-weight="bold">Load가 클럭 경로를 제어</text>
+<text x="177.0" y="222.0" font-size="13" text-anchor="middle" fill="#44506A">FF의 클럭 = clk · Load</text>
+<polyline points="374.0,8.0 374.0,224.0" fill="none" stroke="#E4E8EF" stroke-width="1.2" stroke-linejoin="round"/>
+<text x="553.0" y="22.0" font-size="15" text-anchor="middle" fill="#111111" font-weight="bold">② 입력 데이터 제어</text>
+<rect x="464.0" y="46.0" width="66.0" height="112.0" rx="6" fill="#DCEBFF" opacity="0.75"/>
+<rect x="580.0" y="62.0" width="60.0" height="64.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="591.0" y="87.0" font-size="13" text-anchor="middle" fill="#1F2A44">D</text>
+<text x="629.0" y="87.0" font-size="13" text-anchor="middle" fill="#1F2A44">Q</text>
+<polygon points="580.0,104.0 589.0,110.0 580.0,116.0" fill="none" stroke="#1F2A44" stroke-width="1.6"/>
+<polygon points="478.0,50.0 518.0,62.0 518.0,102.0 478.0,114.0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="486.0" y="72.4" font-size="12" text-anchor="middle" fill="#1F2A44">0</text>
+<text x="486.0" y="100.6" font-size="12" text-anchor="middle" fill="#1F2A44">1</text>
+<polyline points="518.0,82.0 580.0,82.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="580.0,82.0 571.0,86.5 571.0,77.5" fill="#1F2A44"/>
+<polyline points="424.0,96.1 478.0,96.1" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="478.0,96.1 469.0,100.6 469.0,91.6" fill="#1F2A44"/>
+<text x="412.0" y="101.1" font-size="14" text-anchor="end" fill="#111111">I</text>
+<polyline points="640.0,82.0 698.0,82.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="698.0,82.0 689.0,86.5 689.0,77.5" fill="#1F2A44"/>
+<text x="706.0" y="87.0" font-size="14" text-anchor="start" fill="#111111">Q</text>
+<circle cx="658.0" cy="82.0" r="3" fill="#1F2A44"/>
+<polyline points="658.0,82.0 658.0,40.0 454.0,40.0 454.0,67.9 478.0,67.9" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="478.0,67.9 469.0,72.4 469.0,63.4" fill="#1F2A44"/>
+<polyline points="498.0,148.0 498.0,108.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="498.0,108.0 502.5,117.0 493.5,117.0" fill="#1F2A44"/>
+<text x="498.0" y="162.0" font-size="14" text-anchor="middle" fill="#1F2A44" font-weight="bold">Load</text>
+<polyline points="424.0,180.0 560.0,180.0 560.0,110.0 580.0,110.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<text x="412.0" y="185.0" font-size="14" text-anchor="end" fill="#111111">clk</text>
+<text x="553.0" y="202.0" font-size="14" text-anchor="middle" fill="#111111" font-weight="bold">Load가 데이터 입력을 선택</text>
+<text x="553.0" y="222.0" font-size="13" text-anchor="middle" fill="#44506A">클럭은 변경 없음</text>
+</svg>

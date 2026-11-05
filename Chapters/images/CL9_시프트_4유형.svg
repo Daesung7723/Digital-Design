@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="150" viewBox="0 0 780 150" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect x="0" y="0" width="780" height="150" fill="#FFFFFF"/>
+<text x="97.0" y="18.0" font-size="15" text-anchor="middle" fill="#111111" font-weight="bold">SISO</text>
+<rect x="45.5" y="58.0" width="26.0" height="30.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<rect x="71.5" y="58.0" width="26.0" height="30.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<rect x="97.5" y="58.0" width="26.0" height="30.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<rect x="123.5" y="58.0" width="26.0" height="30.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<polyline points="11.5,73.0 44.5,73.0" fill="none" stroke="#C0392B" stroke-width="2.2" stroke-linejoin="round"/>
+<polygon points="44.5,73.0 35.5,77.5 35.5,68.5" fill="#C0392B"/>
+<polyline points="150.5,73.0 183.5,73.0" fill="none" stroke="#C0392B" stroke-width="2.2" stroke-linejoin="round"/>
+<polygon points="183.5,73.0 174.5,77.5 174.5,68.5" fill="#C0392B"/>
+<text x="97.0" y="142.0" font-size="13" text-anchor="middle" fill="#44506A">직렬 입력 · 직렬 출력</text>
+<text x="292.0" y="18.0" font-size="15" text-anchor="middle" fill="#111111" font-weight="bold">SIPO</text>
+<rect x="240.5" y="58.0" width="26.0" height="30.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<rect x="266.5" y="58.0" width="26.0" height="30.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<rect x="292.5" y="58.0" width="26.0" height="30.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<rect x="318.5" y="58.0" width="26.0" height="30.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<polyline points="206.5,73.0 239.5,73.0" fill="none" stroke="#C0392B" stroke-width="2.2" stroke-linejoin="round"/>
+<polygon points="239.5,73.0 230.5,77.5 230.5,68.5" fill="#C0392B"/>
+<polyline points="253.5,89.0 253.5,114.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="253.5,114.0 249.0,105.0 258.0,105.0" fill="#1F2A44"/>
+<polyline points="279.5,89.0 279.5,114.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="279.5,114.0 275.0,105.0 284.0,105.0" fill="#1F2A44"/>
+<polyline points="305.5,89.0 305.5,114.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="305.5,114.0 301.0,105.0 310.0,105.0" fill="#1F2A44"/>
+<polyline points="331.5,89.0 331.5,114.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="331.5,114.0 327.0,105.0 336.0,105.0" fill="#1F2A44"/>
+<text x="292.0" y="142.0" font-size="13" text-anchor="middle" fill="#44506A">직렬 입력 · 병렬 출력</text>
+<text x="487.0" y="18.0" font-size="15" text-anchor="middle" fill="#111111" font-weight="bold">PISO</text>
+<rect x="435.5" y="58.0" width="26.0" height="30.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<rect x="461.5" y="58.0" width="26.0" height="30.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<rect x="487.5" y="58.0" width="26.0" height="30.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<rect x="513.5" y="58.0" width="26.0" height="30.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<polyline points="448.5,32.0 448.5,57.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="448.5,57.0 444.0,48.0 453.0,48.0" fill="#1F2A44"/>
+<polyline points="474.5,32.0 474.5,57.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="474.5,57.0 470.0,48.0 479.0,48.0" fill="#1F2A44"/>
+<polyline points="500.5,32.0 500.5,57.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="500.5,57.0 496.0,48.0 505.0,48.0" fill="#1F2A44"/>
+<polyline points="526.5,32.0 526.5,57.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="526.5,57.0 522.0,48.0 531.0,48.0" fill="#1F2A44"/>
+<polyline points="540.5,73.0 573.5,73.0" fill="none" stroke="#C0392B" stroke-width="2.2" stroke-linejoin="round"/>
+<polygon points="573.5,73.0 564.5,77.5 564.5,68.5" fill="#C0392B"/>
+<text x="487.0" y="142.0" font-size="13" text-anchor="middle" fill="#44506A">병렬 입력 · 직렬 출력</text>
+<text x="682.0" y="18.0" font-size="15" text-anchor="middle" fill="#111111" font-weight="bold">PIPO</text>
+<rect x="630.5" y="58.0" width="26.0" height="30.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<rect x="656.5" y="58.0" width="26.0" height="30.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<rect x="682.5" y="58.0" width="26.0" height="30.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<rect x="708.5" y="58.0" width="26.0" height="30.0" rx="0" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<polyline points="643.5,32.0 643.5,57.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="643.5,57.0 639.0,48.0 648.0,48.0" fill="#1F2A44"/>
+<polyline points="669.5,32.0 669.5,57.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="669.5,57.0 665.0,48.0 674.0,48.0" fill="#1F2A44"/>
+<polyline points="695.5,32.0 695.5,57.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="695.5,57.0 691.0,48.0 700.0,48.0" fill="#1F2A44"/>
+<polyline points="721.5,32.0 721.5,57.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="721.5,57.0 717.0,48.0 726.0,48.0" fill="#1F2A44"/>
+<polyline points="643.5,89.0 643.5,114.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="643.5,114.0 639.0,105.0 648.0,105.0" fill="#1F2A44"/>
+<polyline points="669.5,89.0 669.5,114.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="669.5,114.0 665.0,105.0 674.0,105.0" fill="#1F2A44"/>
+<polyline points="695.5,89.0 695.5,114.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="695.5,114.0 691.0,105.0 700.0,105.0" fill="#1F2A44"/>
+<polyline points="721.5,89.0 721.5,114.0" fill="none" stroke="#1F2A44" stroke-width="1.8" stroke-linejoin="round"/>
+<polygon points="721.5,114.0 717.0,105.0 726.0,105.0" fill="#1F2A44"/>
+<text x="682.0" y="142.0" font-size="13" text-anchor="middle" fill="#44506A">병렬 입력 · 병렬 출력</text>
+</svg>

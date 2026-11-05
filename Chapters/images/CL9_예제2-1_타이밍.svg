@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="644" height="252" viewBox="0 0 644 252" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<defs><pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#9AA3B2" stroke-width="2"/></pattern></defs>
+<rect x="0" y="0" width="644" height="252" fill="#FFFFFF"/>
+<rect x="340.0" y="82" width="80.0" height="42" fill="#FFE9A8" opacity="0.7" rx="3"/>
+<line x1="220.0" y1="28" x2="220.0" y2="218" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="220.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">①</text>
+<line x1="380.0" y1="28" x2="380.0" y2="218" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="380.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">②</text>
+<line x1="540.0" y1="28" x2="540.0" y2="218" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="540.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">③</text>
+<text x="50" y="61.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">CLK</text>
+<line x1="60.0" y1="68" x2="220.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="220.0" y1="68" x2="220.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="220.0" y1="44" x2="300.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="300.0" y1="44" x2="300.0" y2="68" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="300.0" y1="68" x2="380.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="380.0" y1="68" x2="380.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="380.0" y1="44" x2="460.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="460.0" y1="44" x2="460.0" y2="68" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="460.0" y1="68" x2="540.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="540.0" y1="68" x2="540.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="540.0" y1="44" x2="620.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="60" y1="80.0" x2="620" y2="80.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="50" y="107.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">Load</text>
+<line x1="60.0" y1="114" x2="260.0" y2="114" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="260.0" y1="114" x2="260.0" y2="90" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="260.0" y1="90" x2="420.0" y2="90" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="420.0" y1="90" x2="420.0" y2="114" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="420.0" y1="114" x2="620.0" y2="114" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="60" y1="126.0" x2="620" y2="126.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="50" y="153.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">I</text>
+<path d="M60.0,148.0 L64.0,136 L256.0,136 L260.0,148.0 L256.0,160 L64.0,160 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="160.0" y="152.5" font-size="12.5" text-anchor="middle" fill="#111111">1111</text>
+<path d="M260.0,148.0 L264.0,136 L416.0,136 L420.0,148.0 L416.0,160 L264.0,160 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="340.0" y="152.5" font-size="12.5" text-anchor="middle" fill="#111111">1010</text>
+<path d="M420.0,148.0 L424.0,136 L616.0,136 L620.0,148.0 L616.0,160 L424.0,160 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="520.0" y="152.5" font-size="12.5" text-anchor="middle" fill="#111111">0000</text>
+<line x1="60" y1="172.0" x2="620" y2="172.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="50" y="199.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">Q</text>
+<path d="M60.0,194.0 L64.0,182 L376.0,182 L380.0,194.0 L376.0,206 L64.0,206 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="220.0" y="198.5" font-size="12.5" text-anchor="middle" fill="#111111">0110</text>
+<path d="M380.0,194.0 L384.0,182 L616.0,182 L620.0,194.0 L616.0,206 L384.0,206 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="500.0" y="198.5" font-size="12.5" text-anchor="middle" fill="#111111">1010</text>
+<line x1="60" y1="218.0" x2="620" y2="218.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="8" y="246" font-size="12" fill="#44506A">Q는 Load = 1인 에지 ②에서만 I를 받는다 · 에지 ①③에서도 클럭은 정상 인가되며 Q는 자신의 값을 다시 받는다</text>
+</svg>
