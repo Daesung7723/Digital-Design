@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="346" viewBox="0 0 660 346" font-family="Malgun Gothic, 'Noto Sans KR', sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1F2937"/></marker><marker id="ahc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#C0392B"/></marker></defs>
+<rect x="0" y="0" width="660" height="346" fill="#FFFFFF"/>
+<g transform="translate(0,0)">
+<path d="M117.0,100.0 L212.0,100.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M240.0,127.0 L240.0,222.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M213.0,250.0 L118.0,250.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M90.0,223.0 L90.0,128.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M447.0,100.0 L542.0,100.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M570.0,127.0 L570.0,222.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M543.0,250.0 L448.0,250.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M420.0,223.0 L420.0,128.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<circle cx="90" cy="100" r="27" fill="#FDECEC" stroke="#1F2937" stroke-width="2"/>
+<text x="90" y="105.5" text-anchor="middle" font-size="14" font-weight="bold" fill="#1F2937">000</text>
+<circle cx="240" cy="100" r="27" fill="#FDECEC" stroke="#1F2937" stroke-width="2"/>
+<text x="240" y="105.5" text-anchor="middle" font-size="14" font-weight="bold" fill="#1F2937">010</text>
+<circle cx="240" cy="250" r="27" fill="#FDECEC" stroke="#1F2937" stroke-width="2"/>
+<text x="240" y="255.5" text-anchor="middle" font-size="14" font-weight="bold" fill="#1F2937">100</text>
+<circle cx="90" cy="250" r="27" fill="#FDECEC" stroke="#1F2937" stroke-width="2"/>
+<text x="90" y="255.5" text-anchor="middle" font-size="14" font-weight="bold" fill="#1F2937">110</text>
+<circle cx="420" cy="100" r="27" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="420" y="105.5" text-anchor="middle" font-size="14" font-weight="bold" fill="#1F2937">001</text>
+<circle cx="570" cy="100" r="27" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="570" y="105.5" text-anchor="middle" font-size="14" font-weight="bold" fill="#1F2937">011</text>
+<circle cx="570" cy="250" r="27" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="570" y="255.5" text-anchor="middle" font-size="14" font-weight="bold" fill="#1F2937">101</text>
+<circle cx="420" cy="250" r="27" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="420" y="255.5" text-anchor="middle" font-size="14" font-weight="bold" fill="#1F2937">111</text>
+<text x="165" y="312" text-anchor="middle" font-size="13" font-weight="bold" fill="#1F2937">짝수 상태끼리의 순환(갇힘)</text>
+<text x="495" y="312" text-anchor="middle" font-size="13" font-weight="bold" fill="#1F2937">정상 순환(홀수)</text>
+</g>
+<text x="10" y="338" font-size="12.5" fill="#4B5563">T2 = Q1, T1 = 1, T0 = 0을 8상태 전부에 적용한 결과 — 두 순환 사이에 경로가 없다</text>
+</svg>

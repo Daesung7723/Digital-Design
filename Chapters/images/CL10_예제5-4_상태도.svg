@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="436" viewBox="0 0 600 436" font-family="Malgun Gothic, 'Noto Sans KR', sans-serif">
+<defs><marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#1F2937"/></marker><marker id="ahc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#C0392B"/></marker></defs>
+<rect x="0" y="0" width="600" height="436" fill="#FFFFFF"/>
+<g transform="translate(0,0)">
+<path d="M327.0,110.0 L452.0,110.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M480.0,137.0 L480.0,242.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M453.0,270.0 L328.0,270.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M300.0,243.0 L300.0,138.0" fill="none" stroke="#1F2937" stroke-width="1.8" marker-end="url(#ah)"/>
+<path d="M135.3,49.3 L273.7,100.3" fill="none" stroke="#1F2937" stroke-width="1.8" stroke-dasharray="6 4" marker-end="url(#ah)"/>
+<path d="M136.4,144.4 L272.6,115.8" fill="none" stroke="#1F2937" stroke-width="1.8" stroke-dasharray="6 4" marker-end="url(#ah)"/>
+<path d="M131.2,243.3 L278.0,127.4" fill="none" stroke="#1F2937" stroke-width="1.8" stroke-dasharray="6 4" marker-end="url(#ah)"/>
+<path d="M125.9,348.2 L283.5,132.6" fill="none" stroke="#1F2937" stroke-width="1.8" stroke-dasharray="6 4" marker-end="url(#ah)"/>
+<circle cx="300" cy="110" r="27" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="300" y="115.5" text-anchor="middle" font-size="14" font-weight="bold" fill="#1F2937">001</text>
+<circle cx="480" cy="110" r="27" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="480" y="115.5" text-anchor="middle" font-size="14" font-weight="bold" fill="#1F2937">011</text>
+<circle cx="480" cy="270" r="27" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="480" y="275.5" text-anchor="middle" font-size="14" font-weight="bold" fill="#1F2937">101</text>
+<circle cx="300" cy="270" r="27" fill="#FFFFFF" stroke="#1F2937" stroke-width="2"/>
+<text x="300" y="275.5" text-anchor="middle" font-size="14" font-weight="bold" fill="#1F2937">111</text>
+<circle cx="110" cy="40" r="27" fill="#F3F4F6" stroke="#1F2937" stroke-width="2"/>
+<text x="110" y="45.5" text-anchor="middle" font-size="14" font-weight="bold" fill="#1F2937">000</text>
+<circle cx="110" cy="150" r="27" fill="#F3F4F6" stroke="#1F2937" stroke-width="2"/>
+<text x="110" y="155.5" text-anchor="middle" font-size="14" font-weight="bold" fill="#1F2937">010</text>
+<circle cx="110" cy="260" r="27" fill="#F3F4F6" stroke="#1F2937" stroke-width="2"/>
+<text x="110" y="265.5" text-anchor="middle" font-size="14" font-weight="bold" fill="#1F2937">100</text>
+<circle cx="110" cy="370" r="27" fill="#F3F4F6" stroke="#1F2937" stroke-width="2"/>
+<text x="110" y="375.5" text-anchor="middle" font-size="14" font-weight="bold" fill="#1F2937">110</text>
+</g>
+<text x="10" y="428" font-size="12.5" fill="#4B5563">실선 = 정상 순환(홀수) · 점선 = 비정상 상태(짝수)에서 다음 클럭에 001로 회수</text>
+</svg>

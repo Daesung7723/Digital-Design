@@ -1,0 +1,194 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<defs><marker id="arw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1F2A44"/></marker><marker id="arwT" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#4A7D7C"/></marker></defs>
+<rect width="1280" height="720" fill="#FFFFFF"/>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.00000;0.00482;0.28411;0.28892;1" dur="62.3s" repeatCount="indefinite"/>
+<rect x="60" y="30" width="87" height="34" rx="17" fill="#1F2A44"/>
+<text x="103.5" y="53.0" font-size="17" font-weight="bold" text-anchor="middle" fill="#FFFFFF">카운터</text>
+<text x="60.0" y="106.0" font-size="34" font-weight="bold" text-anchor="start" fill="#111111">리플 카운터 — 에지 하나의 연쇄</text>
+<text x="60.0" y="142.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A">3비트, 하강 에지 토글 FF, 상태 011에 클럭 에지 1개 (예제 2-1)</text>
+<text x="1220.0" y="52.0" font-size="15" font-weight="normal" text-anchor="end" fill="#7A8BA6">1 / 4</text>
+<rect x="220" y="230" width="160" height="120" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/>
+<text x="300.0" y="266.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">FF0</text>
+<text x="306.0" y="306.0" font-size="24" font-weight="bold" text-anchor="end" fill="#1F2A44">Q<tspan dy="7" font-size="70%">0</tspan><tspan dy="-7"> =</tspan></text>
+<text x="318" y="308" font-size="30" font-weight="bold" fill="#111111" opacity="0">1<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.00000;0.04334" dur="62.3s" repeatCount="indefinite" calcMode="discrete"/></text>
+<text x="318" y="308" font-size="30" font-weight="bold" fill="#C0392B" opacity="0">0<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.04334;0.28892" dur="62.3s" repeatCount="indefinite" calcMode="discrete"/></text>
+<path d="M220,317 L233,326 L220,335" fill="none" stroke="#1F2A44" stroke-width="2"/>
+<circle cx="213" cy="326" r="6" fill="#FFFFFF" stroke="#1F2A44" stroke-width="2"/>
+<rect x="212" y="222" width="176" height="136" rx="10" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;0.12;1;0.12;1;1" keyTimes="0.00000;0.04334;0.04398;0.04719;0.05040;0.05361;0.05682;1.00000" dur="62.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.04334;0.04655;0.06260;0.06581;1" dur="62.3s" repeatCount="indefinite"/></rect>
+<rect x="560" y="230" width="160" height="120" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/>
+<text x="640.0" y="266.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">FF1</text>
+<text x="646.0" y="306.0" font-size="24" font-weight="bold" text-anchor="end" fill="#1F2A44">Q<tspan dy="7" font-size="70%">1</tspan><tspan dy="-7"> =</tspan></text>
+<text x="658" y="308" font-size="30" font-weight="bold" fill="#111111" opacity="0">1<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.00000;0.09952" dur="62.3s" repeatCount="indefinite" calcMode="discrete"/></text>
+<text x="658" y="308" font-size="30" font-weight="bold" fill="#C0392B" opacity="0">0<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.09952;0.28892" dur="62.3s" repeatCount="indefinite" calcMode="discrete"/></text>
+<path d="M560,317 L573,326 L560,335" fill="none" stroke="#1F2A44" stroke-width="2"/>
+<circle cx="553" cy="326" r="6" fill="#FFFFFF" stroke="#1F2A44" stroke-width="2"/>
+<rect x="552" y="222" width="176" height="136" rx="10" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;0.12;1;0.12;1;1" keyTimes="0.00000;0.09952;0.10016;0.10337;0.10658;0.10979;0.11300;1.00000" dur="62.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.09952;0.10273;0.11878;0.12199;1" dur="62.3s" repeatCount="indefinite"/></rect>
+<rect x="900" y="230" width="160" height="120" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/>
+<text x="980.0" y="266.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">FF2</text>
+<text x="986.0" y="306.0" font-size="24" font-weight="bold" text-anchor="end" fill="#1F2A44">Q<tspan dy="7" font-size="70%">2</tspan><tspan dy="-7"> =</tspan></text>
+<text x="998" y="308" font-size="30" font-weight="bold" fill="#111111" opacity="0">0<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.00000;0.21188" dur="62.3s" repeatCount="indefinite" calcMode="discrete"/></text>
+<text x="998" y="308" font-size="30" font-weight="bold" fill="#C0392B" opacity="0">1<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.21188;0.28892" dur="62.3s" repeatCount="indefinite" calcMode="discrete"/></text>
+<path d="M900,317 L913,326 L900,335" fill="none" stroke="#1F2A44" stroke-width="2"/>
+<circle cx="893" cy="326" r="6" fill="#FFFFFF" stroke="#1F2A44" stroke-width="2"/>
+<rect x="892" y="222" width="176" height="136" rx="10" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;0.12;1;0.12;1;1" keyTimes="0.00000;0.21188;0.21252;0.21573;0.21894;0.22215;0.22536;1.00000" dur="62.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.21188;0.21509;0.23114;0.23435;1" dur="62.3s" repeatCount="indefinite"/></rect>
+<text x="122.0" y="334.0" font-size="24" font-weight="bold" text-anchor="end" fill="#1F2A44">CLK</text>
+<path d="M132,326 H206" fill="none" stroke="#1F2A44" stroke-width="3.5" marker-end="url(#arw)"/>
+<text x="60.0" y="362.0" font-size="20" font-weight="bold" text-anchor="start" fill="#C0392B" opacity="0">↓ 클럭 에지<animate attributeName="opacity" values="0;0;1;1;0.12;1;0.12;1;1" keyTimes="0.00000;0.00963;0.01364;0.01605;0.01926;0.02247;0.02568;0.02889;1.00000" dur="62.3s" repeatCount="indefinite"/></text>
+<path d="M380,260 H495 V326 H546" fill="none" stroke="#1F2A44" stroke-width="3.5" marker-end="url(#arw)"/>
+<path d="M720,260 H835 V326 H886" fill="none" stroke="#1F2A44" stroke-width="3.5" marker-end="url(#arw)"/>
+<path d="M1060,260 H1110" fill="none" stroke="#1F2A44" stroke-width="3.5"/>
+<circle r="9" fill="#C0392B" opacity="0"><animateMotion path="M134,326 L204,326" keyPoints="0;0;1;1" keyTimes="0;0.01926;0.04173;1" calcMode="linear" dur="62.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.01766;0.01926;0.04494;0.04655;1" dur="62.3s" repeatCount="indefinite"/></circle>
+<circle r="9" fill="#C0392B" opacity="0"><animateMotion path="M380,260 L495,260 L495,326 L544,326" keyPoints="0;0;1;1" keyTimes="0;0.05778;0.09791;1" calcMode="linear" dur="62.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.05618;0.05778;0.10112;0.10273;1" dur="62.3s" repeatCount="indefinite"/></circle>
+<rect x="484" y="244" width="90" height="98" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.11878;0.12279;0.16132;0.16533;1" dur="62.3s" repeatCount="indefinite"/></rect>
+<rect x="48" y="598" width="471" height="44" rx="8" fill="#FDECEC" stroke="#C0392B" stroke-width="2.5" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.11878;0.12279;0.16132;0.16533;1" dur="62.3s" repeatCount="indefinite"/></rect>
+<text x="64.0" y="630.0" font-size="28" font-weight="bold" text-anchor="start" fill="#C0392B">앞 비트의 하강 = 다음 비트의 클럭<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.11878;0.12279;1" dur="62.3s" repeatCount="indefinite"/></text>
+<circle r="9" fill="#C0392B" opacity="0"><animateMotion path="M720,260 L835,260 L835,326 L884,326" keyPoints="0;0;1;1" keyTimes="0;0.17014;0.21027;1" calcMode="linear" dur="62.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.16854;0.17014;0.21348;0.21509;1" dur="62.3s" repeatCount="indefinite"/></circle>
+<text x="196.0" y="457.0" font-size="20" font-weight="bold" text-anchor="end" fill="#44506A">Q<tspan dy="7" font-size="70%">2</tspan><tspan dy="-7"></tspan>Q<tspan dy="7" font-size="70%">1</tspan><tspan dy="-7"></tspan>Q<tspan dy="7" font-size="70%">0</tspan><tspan dy="-7"></tspan></text>
+<g><rect x="220" y="420" width="120" height="56" rx="8" fill="#FFFFFF" stroke="#1F2A44" stroke-width="2"/><text x="280.0" y="459.0" font-size="30" font-weight="bold" text-anchor="middle" fill="#111111">011</text><text x="280.0" y="506.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">에지 전</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.04494;0.04896;1" dur="62.3s" repeatCount="indefinite"/><rect x="380" y="420" width="120" height="56" rx="8" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2"/><text x="440.0" y="459.0" font-size="30" font-weight="bold" text-anchor="middle" fill="#111111">010</text><text x="440.0" y="506.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">+t<tspan dy="6" font-size="70%">pd</tspan><tspan dy="-6"></tspan></text><path d="M344,448 H374" fill="none" stroke="#1F2A44" stroke-width="2" marker-end="url(#arw)"/></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.10112;0.10514;1" dur="62.3s" repeatCount="indefinite"/><rect x="540" y="420" width="120" height="56" rx="8" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2"/><text x="600.0" y="459.0" font-size="30" font-weight="bold" text-anchor="middle" fill="#111111">000</text><text x="600.0" y="506.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">+2t<tspan dy="6" font-size="70%">pd</tspan><tspan dy="-6"></tspan></text><path d="M504,448 H534" fill="none" stroke="#1F2A44" stroke-width="2" marker-end="url(#arw)"/></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.21348;0.21750;1" dur="62.3s" repeatCount="indefinite"/><rect x="700" y="420" width="120" height="56" rx="8" fill="#FFFFFF" stroke="#1F2A44" stroke-width="2"/><text x="760.0" y="459.0" font-size="30" font-weight="bold" text-anchor="middle" fill="#111111">100</text><text x="760.0" y="506.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">+3t<tspan dy="6" font-size="70%">pd</tspan><tspan dy="-6"></tspan></text><path d="M664,448 H694" fill="none" stroke="#1F2A44" stroke-width="2" marker-end="url(#arw)"/></g>
+<rect x="372" y="412" width="296" height="72" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.23114;0.23515;0.27368;0.27769;1" dur="62.3s" repeatCount="indefinite"/></rect>
+<rect x="48" y="658" width="291" height="44" rx="8" fill="#FDECEC" stroke="#C0392B" stroke-width="2.5" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.23114;0.23515;0.27368;0.27769;1" dur="62.3s" repeatCount="indefinite"/></rect>
+<text x="64.0" y="690.0" font-size="28" font-weight="bold" text-anchor="start" fill="#C0392B">과도 상태 010, 000<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.23114;0.23515;1" dur="62.3s" repeatCount="indefinite"/></text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.28892;0.29374;0.46870;0.47352;1" dur="62.3s" repeatCount="indefinite"/>
+<rect x="60" y="30" width="87" height="34" rx="17" fill="#1F2A44"/>
+<text x="103.5" y="53.0" font-size="17" font-weight="bold" text-anchor="middle" fill="#FFFFFF">카운터</text>
+<text x="60.0" y="106.0" font-size="34" font-weight="bold" text-anchor="start" fill="#111111">동기 카운터 — 모든 FF가 같은 에지</text>
+<text x="60.0" y="142.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A">3비트, 상승 에지, T 입력은 AND 사슬, 상태 011에 클럭 에지 1개 (예제 4-2)</text>
+<text x="1220.0" y="52.0" font-size="15" font-weight="normal" text-anchor="end" fill="#7A8BA6">2 / 4</text>
+<rect x="220" y="230" width="160" height="120" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/>
+<text x="300.0" y="266.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">FF0</text>
+<text x="306.0" y="306.0" font-size="24" font-weight="bold" text-anchor="end" fill="#1F2A44">Q<tspan dy="7" font-size="70%">0</tspan><tspan dy="-7"> =</tspan></text>
+<text x="318" y="308" font-size="30" font-weight="bold" fill="#111111" opacity="0">1<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.28892;0.39647" dur="62.3s" repeatCount="indefinite" calcMode="discrete"/></text>
+<text x="318" y="308" font-size="30" font-weight="bold" fill="#C0392B" opacity="0">0<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.39647;0.47352" dur="62.3s" repeatCount="indefinite" calcMode="discrete"/></text>
+<path d="M220,317 L233,326 L220,335" fill="none" stroke="#1F2A44" stroke-width="2"/>
+<rect x="212" y="222" width="176" height="136" rx="10" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;0.12;1;0.12;1;1" keyTimes="0.00000;0.39647;0.39711;0.40032;0.40353;0.40674;0.40995;1.00000" dur="62.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.39647;0.39968;0.41573;0.41894;1" dur="62.3s" repeatCount="indefinite"/></rect>
+<rect x="560" y="230" width="160" height="120" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/>
+<text x="640.0" y="266.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">FF1</text>
+<text x="646.0" y="306.0" font-size="24" font-weight="bold" text-anchor="end" fill="#1F2A44">Q<tspan dy="7" font-size="70%">1</tspan><tspan dy="-7"> =</tspan></text>
+<text x="658" y="308" font-size="30" font-weight="bold" fill="#111111" opacity="0">1<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.28892;0.39647" dur="62.3s" repeatCount="indefinite" calcMode="discrete"/></text>
+<text x="658" y="308" font-size="30" font-weight="bold" fill="#C0392B" opacity="0">0<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.39647;0.47352" dur="62.3s" repeatCount="indefinite" calcMode="discrete"/></text>
+<path d="M560,317 L573,326 L560,335" fill="none" stroke="#1F2A44" stroke-width="2"/>
+<rect x="552" y="222" width="176" height="136" rx="10" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;0.12;1;0.12;1;1" keyTimes="0.00000;0.39647;0.39711;0.40032;0.40353;0.40674;0.40995;1.00000" dur="62.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.39647;0.39968;0.41573;0.41894;1" dur="62.3s" repeatCount="indefinite"/></rect>
+<rect x="900" y="230" width="160" height="120" rx="8" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/>
+<text x="980.0" y="266.0" font-size="24" font-weight="bold" text-anchor="middle" fill="#111111">FF2</text>
+<text x="986.0" y="306.0" font-size="24" font-weight="bold" text-anchor="end" fill="#1F2A44">Q<tspan dy="7" font-size="70%">2</tspan><tspan dy="-7"> =</tspan></text>
+<text x="998" y="308" font-size="30" font-weight="bold" fill="#111111" opacity="0">0<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.28892;0.39647" dur="62.3s" repeatCount="indefinite" calcMode="discrete"/></text>
+<text x="998" y="308" font-size="30" font-weight="bold" fill="#C0392B" opacity="0">1<animate attributeName="opacity" values="0;1;0" keyTimes="0;0.39647;0.47352" dur="62.3s" repeatCount="indefinite" calcMode="discrete"/></text>
+<path d="M900,317 L913,326 L900,335" fill="none" stroke="#1F2A44" stroke-width="2"/>
+<rect x="892" y="222" width="176" height="136" rx="10" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;0.12;1;0.12;1;1" keyTimes="0.00000;0.39647;0.39711;0.40032;0.40353;0.40674;0.40995;1.00000" dur="62.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.39647;0.39968;0.41573;0.41894;1" dur="62.3s" repeatCount="indefinite"/></rect>
+<path d="M184,260 H218" fill="none" stroke="#1F2A44" stroke-width="2" marker-end="url(#arw)"/>
+<text x="178.0" y="268.0" font-size="24" font-weight="bold" text-anchor="end" fill="#1F2A44">1</text>
+<path d="M380,260 H558" fill="none" stroke="#1F2A44" stroke-width="3.5" marker-end="url(#arw)"/>
+<circle cx="440" cy="260" r="6" fill="#1F2A44"/>
+<path d="M790,166 H820 A25,25 0 0 1 820,216 H790 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="2"/>
+<text x="815.0" y="198.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#1F2A44">AND</text>
+<path d="M440,260 V181 H788" fill="none" stroke="#1F2A44" stroke-width="3.5" marker-end="url(#arw)"/>
+<path d="M720,260 H735 V201 H788" fill="none" stroke="#1F2A44" stroke-width="3.5" marker-end="url(#arw)"/>
+<path d="M845,191 H870 V260 H898" fill="none" stroke="#1F2A44" stroke-width="3.5" marker-end="url(#arw)"/>
+<text x="228.0" y="252.0" font-size="20" font-weight="bold" text-anchor="start" fill="#44506A">T<tspan dy="7" font-size="70%">0</tspan><tspan dy="-7"></tspan></text>
+<text x="568.0" y="252.0" font-size="20" font-weight="bold" text-anchor="start" fill="#44506A">T<tspan dy="7" font-size="70%">1</tspan><tspan dy="-7"></tspan></text>
+<text x="908.0" y="252.0" font-size="20" font-weight="bold" text-anchor="start" fill="#44506A">T<tspan dy="7" font-size="70%">2</tspan><tspan dy="-7"></tspan></text>
+<text x="122.0" y="408.0" font-size="24" font-weight="bold" text-anchor="end" fill="#1F2A44">CLK</text>
+<path d="M132,400 H875" fill="none" stroke="#1F2A44" stroke-width="3.5"/>
+<path d="M195,400 V326 H218" fill="none" stroke="#1F2A44" stroke-width="3.5" marker-end="url(#arw)"/>
+<circle cx="195" cy="400" r="5" fill="#1F2A44"/>
+<path d="M535,400 V326 H558" fill="none" stroke="#1F2A44" stroke-width="3.5" marker-end="url(#arw)"/>
+<circle cx="535" cy="400" r="5" fill="#1F2A44"/>
+<path d="M875,400 V326 H898" fill="none" stroke="#1F2A44" stroke-width="3.5" marker-end="url(#arw)"/>
+<circle cx="875" cy="400" r="5" fill="#1F2A44"/>
+<text x="60.0" y="434.0" font-size="20" font-weight="bold" text-anchor="start" fill="#C0392B" opacity="0">↑ 클럭 에지<animate attributeName="opacity" values="0;0;1;1;0.12;1;0.12;1;1" keyTimes="0.00000;0.35634;0.36035;0.36276;0.36597;0.36918;0.37239;0.37560;1.00000" dur="62.3s" repeatCount="indefinite"/></text>
+<circle r="9" fill="#C0392B" opacity="0"><animateMotion path="M380,260 L556,260" keyPoints="0;0;1;1" keyTimes="0;0.30498;0.32584;1" calcMode="linear" dur="62.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.30337;0.30498;0.32905;0.33066;1" dur="62.3s" repeatCount="indefinite"/></circle>
+<circle r="9" fill="#C0392B" opacity="0"><animateMotion path="M440,260 L440,181 L786,181" keyPoints="0;0;1;1" keyTimes="0;0.30498;0.32584;1" calcMode="linear" dur="62.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.30337;0.30498;0.32905;0.33066;1" dur="62.3s" repeatCount="indefinite"/></circle>
+<circle r="9" fill="#C0392B" opacity="0"><animateMotion path="M720,260 L735,260 L735,201 L786,201" keyPoints="0;0;1;1" keyTimes="0;0.30498;0.32584;1" calcMode="linear" dur="62.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.30337;0.30498;0.32905;0.33066;1" dur="62.3s" repeatCount="indefinite"/></circle>
+<circle r="9" fill="#C0392B" opacity="0"><animateMotion path="M845,191 L870,191 L870,260 L896,260" keyPoints="0;0;1;1" keyTimes="0;0.32905;0.34350;1" calcMode="linear" dur="62.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.32745;0.32905;0.34671;0.34831;1" dur="62.3s" repeatCount="indefinite"/></circle>
+<text x="300.0" y="452.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#C0392B" opacity="0">T<tspan dy="7" font-size="70%">0</tspan><tspan dy="-7"> = 1</tspan><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.34510;0.34912;1" dur="62.3s" repeatCount="indefinite"/></text>
+<text x="640.0" y="452.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#C0392B" opacity="0">T<tspan dy="7" font-size="70%">1</tspan><tspan dy="-7"> = </tspan>Q<tspan dy="7" font-size="70%">0</tspan><tspan dy="-7"> = 1</tspan><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.34510;0.34912;1" dur="62.3s" repeatCount="indefinite"/></text>
+<text x="980.0" y="452.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#C0392B" opacity="0">T<tspan dy="7" font-size="70%">2</tspan><tspan dy="-7"> = </tspan>Q<tspan dy="7" font-size="70%">1</tspan><tspan dy="-7"></tspan>Q<tspan dy="7" font-size="70%">0</tspan><tspan dy="-7"> = 1</tspan><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.34510;0.34912;1" dur="62.3s" repeatCount="indefinite"/></text>
+<circle r="9" fill="#C0392B" opacity="0"><animateMotion path="M134,400 L195,400 L195,326 L216,326" keyPoints="0;0;1;1" keyTimes="0;0.36116;0.39486;1" calcMode="linear" dur="62.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.35955;0.36116;0.39807;0.39968;1" dur="62.3s" repeatCount="indefinite"/></circle>
+<circle r="9" fill="#C0392B" opacity="0"><animateMotion path="M134,400 L535,400 L535,326 L556,326" keyPoints="0;0;1;1" keyTimes="0;0.36116;0.39486;1" calcMode="linear" dur="62.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.35955;0.36116;0.39807;0.39968;1" dur="62.3s" repeatCount="indefinite"/></circle>
+<circle r="9" fill="#C0392B" opacity="0"><animateMotion path="M134,400 L875,400 L875,326 L896,326" keyPoints="0;0;1;1" keyTimes="0;0.36116;0.39486;1" calcMode="linear" dur="62.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.35955;0.36116;0.39807;0.39968;1" dur="62.3s" repeatCount="indefinite"/></circle>
+<text x="196.0" y="525.0" font-size="20" font-weight="bold" text-anchor="end" fill="#44506A">Q<tspan dy="7" font-size="70%">2</tspan><tspan dy="-7"></tspan>Q<tspan dy="7" font-size="70%">1</tspan><tspan dy="-7"></tspan>Q<tspan dy="7" font-size="70%">0</tspan><tspan dy="-7"></tspan></text>
+<g><rect x="220" y="488" width="120" height="56" rx="8" fill="#FFFFFF" stroke="#1F2A44" stroke-width="2"/><text x="280.0" y="527.0" font-size="30" font-weight="bold" text-anchor="middle" fill="#111111">011</text><text x="280.0" y="574.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">에지 전</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.39807;0.40209;1" dur="62.3s" repeatCount="indefinite"/><rect x="380" y="488" width="120" height="56" rx="8" fill="#FFFFFF" stroke="#1F2A44" stroke-width="2"/><text x="440.0" y="527.0" font-size="30" font-weight="bold" text-anchor="middle" fill="#111111">100</text><text x="440.0" y="574.0" font-size="20" font-weight="normal" text-anchor="middle" fill="#44506A">+t<tspan dy="6" font-size="70%">pd</tspan><tspan dy="-6"></tspan></text><path d="M344,516 H374" fill="none" stroke="#1F2A44" stroke-width="2" marker-end="url(#arw)"/></g>
+<rect x="48" y="618" width="478" height="44" rx="8" fill="#FDECEC" stroke="#C0392B" stroke-width="2.5" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.41573;0.41974;0.45827;0.46228;1" dur="62.3s" repeatCount="indefinite"/></rect>
+<text x="64.0" y="650.0" font-size="28" font-weight="bold" text-anchor="start" fill="#C0392B">모든 FF가 같은 에지에서 함께 토글<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.41573;0.41974;1" dur="62.3s" repeatCount="indefinite"/></text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.47352;0.47833;0.75441;0.75923;1" dur="62.3s" repeatCount="indefinite"/>
+<rect x="60" y="30" width="87" height="34" rx="17" fill="#1F2A44"/>
+<text x="103.5" y="53.0" font-size="17" font-weight="bold" text-anchor="middle" fill="#FFFFFF">카운터</text>
+<text x="60.0" y="106.0" font-size="34" font-weight="bold" text-anchor="start" fill="#111111">동시 진행 — 에지 뒤의 시간</text>
+<text x="60.0" y="142.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A">두 회로 모두 상태 011에서 자기 클럭 에지 1개 (시간축 0 = 각 회로의 에지)</text>
+<text x="1220.0" y="52.0" font-size="15" font-weight="normal" text-anchor="end" fill="#7A8BA6">3 / 4</text>
+<line x1="400" y1="186" x2="400" y2="572" stroke="#7A8BA6" stroke-width="1.5" stroke-dasharray="5,5"/>
+<text x="400.0" y="180.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#44506A">에지</text>
+<line x1="560" y1="186" x2="560" y2="572" stroke="#7A8BA6" stroke-width="1.5" stroke-dasharray="5,5"/>
+<text x="560.0" y="180.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#44506A">t<tspan dy="6" font-size="70%">pd</tspan><tspan dy="-6"></tspan></text>
+<line x1="720" y1="186" x2="720" y2="572" stroke="#7A8BA6" stroke-width="1.5" stroke-dasharray="5,5"/>
+<text x="720.0" y="180.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#44506A">2t<tspan dy="6" font-size="70%">pd</tspan><tspan dy="-6"></tspan></text>
+<line x1="880" y1="186" x2="880" y2="572" stroke="#7A8BA6" stroke-width="1.5" stroke-dasharray="5,5"/>
+<text x="880.0" y="180.0" font-size="20" font-weight="bold" text-anchor="middle" fill="#44506A">3t<tspan dy="6" font-size="70%">pd</tspan><tspan dy="-6"></tspan></text>
+<text x="60.0" y="210.0" font-size="22" font-weight="bold" text-anchor="start" fill="#111111">리플 (하강 에지)</text>
+<text x="300.0" y="240.0" font-size="20" font-weight="bold" text-anchor="end" fill="#1F2A44">Q<tspan dy="7" font-size="70%">0</tspan><tspan dy="-7"></tspan></text>
+<text x="300.0" y="280.0" font-size="20" font-weight="bold" text-anchor="end" fill="#1F2A44">Q<tspan dy="7" font-size="70%">1</tspan><tspan dy="-7"></tspan></text>
+<text x="300.0" y="320.0" font-size="20" font-weight="bold" text-anchor="end" fill="#1F2A44">Q<tspan dy="7" font-size="70%">2</tspan><tspan dy="-7"></tspan></text>
+<text x="300.0" y="359.0" font-size="20" font-weight="bold" text-anchor="end" fill="#1F2A44">상태</text>
+<text x="60.0" y="410.0" font-size="22" font-weight="bold" text-anchor="start" fill="#111111">동기 (상승 에지)</text>
+<text x="300.0" y="440.0" font-size="20" font-weight="bold" text-anchor="end" fill="#1F2A44">Q<tspan dy="7" font-size="70%">0</tspan><tspan dy="-7"></tspan></text>
+<text x="300.0" y="480.0" font-size="20" font-weight="bold" text-anchor="end" fill="#1F2A44">Q<tspan dy="7" font-size="70%">1</tspan><tspan dy="-7"></tspan></text>
+<text x="300.0" y="520.0" font-size="20" font-weight="bold" text-anchor="end" fill="#1F2A44">Q<tspan dy="7" font-size="70%">2</tspan><tspan dy="-7"></tspan></text>
+<text x="300.0" y="559.0" font-size="20" font-weight="bold" text-anchor="end" fill="#1F2A44">상태</text>
+<clipPath id="rv3"><rect x="320" y="186" width="80" height="390"><animate attributeName="width" values="80;80;240;240;400;400;560;560;720;720" keyTimes="0.00000;0.48957;0.52167;0.53130;0.56340;0.57303;0.60514;0.61477;0.63884;1.00000" dur="62.3s" repeatCount="indefinite"/></rect></clipPath>
+<g clip-path="url(#rv3)"><path d="M330,220 H560 V244 H1040" fill="none" stroke="#1F2A44" stroke-width="3.5"/><path d="M330,260 H720 V284 H1040" fill="none" stroke="#1F2A44" stroke-width="3.5"/><path d="M330,324 H880 V300 H1040" fill="none" stroke="#1F2A44" stroke-width="3.5"/><rect x="330" y="337" width="230" height="30" fill="#FFFFFF" stroke="#1F2A44" stroke-width="2"/><text x="445.0" y="360.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">011</text><rect x="560" y="337" width="160" height="30" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2"/><text x="640.0" y="360.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">010</text><rect x="720" y="337" width="160" height="30" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2"/><text x="800.0" y="360.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">000</text><rect x="880" y="337" width="160" height="30" fill="#FFFFFF" stroke="#1F2A44" stroke-width="2"/><text x="960.0" y="360.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">100</text><path d="M330,420 H560 V444 H1040" fill="none" stroke="#1F2A44" stroke-width="3.5"/><path d="M330,460 H560 V484 H1040" fill="none" stroke="#1F2A44" stroke-width="3.5"/><path d="M330,524 H560 V500 H1040" fill="none" stroke="#1F2A44" stroke-width="3.5"/><rect x="330" y="537" width="230" height="30" fill="#FFFFFF" stroke="#1F2A44" stroke-width="2"/><text x="445.0" y="560.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">011</text><rect x="560" y="537" width="480" height="30" fill="#FFFFFF" stroke="#1F2A44" stroke-width="2"/><text x="800.0" y="560.0" font-size="22" font-weight="bold" text-anchor="middle" fill="#111111">100</text></g>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 0;160 0;160 0;320 0;320 0;480 0;480 0;640 0;640 0" keyTimes="0.00000;0.48957;0.52167;0.53130;0.56340;0.57303;0.60514;0.61477;0.63884;1.00000" dur="62.3s" repeatCount="indefinite"/><line x1="400" y1="188" x2="400" y2="572" stroke="#1F2A44" stroke-width="3" opacity="0.55"/></g>
+<rect x="544" y="412" width="32" height="160" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;0.12;1;0.12;1;1" keyTimes="0.00000;0.52167;0.52231;0.52552;0.52873;0.53194;0.53515;1.00000" dur="62.3s" repeatCount="indefinite"/></rect>
+<rect x="864" y="212" width="32" height="160" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;0.12;1;0.12;1;1" keyTimes="0.00000;0.60514;0.60578;0.60899;0.61220;0.61541;0.61862;1.00000" dur="62.3s" repeatCount="indefinite"/></rect>
+<rect x="48" y="598" width="327" height="44" rx="8" fill="#FDECEC" stroke="#C0392B" stroke-width="2.5" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.64848;0.65249;0.69101;0.69502;1" dur="62.3s" repeatCount="indefinite"/></rect>
+<text x="64.0" y="630.0" font-size="28" font-weight="bold" text-anchor="start" fill="#C0392B">리플 3t<tspan dy="6" font-size="70%">pd</tspan><tspan dy="-6"></tspan> ↔ 동기 t<tspan dy="6" font-size="70%">pd</tspan><tspan dy="-6"></tspan><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.64848;0.65249;1" dur="62.3s" repeatCount="indefinite"/></text>
+<rect x="554" y="331" width="332" height="42" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.70305;0.70706;0.74559;0.74960;1" dur="62.3s" repeatCount="indefinite"/></rect>
+<rect x="48" y="658" width="309" height="44" rx="8" fill="#FDECEC" stroke="#C0392B" stroke-width="2.5" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.70305;0.70706;0.74559;0.74960;1" dur="62.3s" repeatCount="indefinite"/></rect>
+<text x="64.0" y="690.0" font-size="28" font-weight="bold" text-anchor="start" fill="#C0392B">과도 상태는 리플에만<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.70305;0.70706;1" dur="62.3s" repeatCount="indefinite"/></text>
+</g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.75923;0.76404;0.99518;1.00000;1" dur="62.3s" repeatCount="indefinite"/>
+<rect x="60" y="30" width="87" height="34" rx="17" fill="#1F2A44"/>
+<text x="103.5" y="53.0" font-size="17" font-weight="bold" text-anchor="middle" fill="#FFFFFF">카운터</text>
+<text x="60.0" y="106.0" font-size="34" font-weight="bold" text-anchor="start" fill="#111111">리플과 동기의 차이</text>
+<text x="60.0" y="142.0" font-size="20" font-weight="normal" text-anchor="start" fill="#44506A">같은 3비트 카운터, 같은 분주(1/2, 1/4, 1/8)</text>
+<text x="1220.0" y="52.0" font-size="15" font-weight="normal" text-anchor="end" fill="#7A8BA6">4 / 4</text>
+<rect x="170" y="190" width="220" height="78" fill="#F4F7FB" stroke="#E4E8EF" stroke-width="2"/>
+<text x="188.0" y="237.0" font-size="24" font-weight="bold" text-anchor="start" fill="#111111">항목</text>
+<rect x="390" y="190" width="420" height="78" fill="#F4F7FB" stroke="#E4E8EF" stroke-width="2"/>
+<text x="408.0" y="237.0" font-size="24" font-weight="bold" text-anchor="start" fill="#111111">리플</text>
+<rect x="810" y="190" width="310" height="78" fill="#F4F7FB" stroke="#E4E8EF" stroke-width="2"/>
+<text x="828.0" y="237.0" font-size="24" font-weight="bold" text-anchor="start" fill="#111111">동기</text>
+<rect x="170" y="268" width="220" height="78" fill="#FFFFFF" stroke="#E4E8EF" stroke-width="2"/>
+<text x="188.0" y="315.0" font-size="24" font-weight="bold" text-anchor="start" fill="#111111">클럭 연결</text>
+<rect x="390" y="268" width="420" height="78" fill="#FFFFFF" stroke="#E4E8EF" stroke-width="2"/>
+<text x="408.0" y="315.0" font-size="22" font-weight="normal" text-anchor="start" fill="#1F2A44">첫 FF에만, 나머지는 앞 비트 출력</text>
+<rect x="810" y="268" width="310" height="78" fill="#FFFFFF" stroke="#E4E8EF" stroke-width="2"/>
+<text x="828.0" y="315.0" font-size="22" font-weight="normal" text-anchor="start" fill="#1F2A44">모든 FF에 같은 클럭</text>
+<rect x="170" y="346" width="220" height="78" fill="#FFFFFF" stroke="#E4E8EF" stroke-width="2"/>
+<text x="188.0" y="393.0" font-size="24" font-weight="bold" text-anchor="start" fill="#111111">바뀌는 시점</text>
+<rect x="390" y="346" width="420" height="78" fill="#FFFFFF" stroke="#E4E8EF" stroke-width="2"/>
+<text x="408.0" y="393.0" font-size="22" font-weight="normal" text-anchor="start" fill="#1F2A44">t<tspan dy="6" font-size="70%">pd</tspan><tspan dy="-6"></tspan>, 2t<tspan dy="6" font-size="70%">pd</tspan><tspan dy="-6"></tspan>, 3t<tspan dy="6" font-size="70%">pd</tspan><tspan dy="-6"></tspan> (비트마다 늦어짐)</text>
+<rect x="810" y="346" width="310" height="78" fill="#FFFFFF" stroke="#E4E8EF" stroke-width="2"/>
+<text x="828.0" y="393.0" font-size="22" font-weight="normal" text-anchor="start" fill="#1F2A44">모두 t<tspan dy="6" font-size="70%">pd</tspan><tspan dy="-6"></tspan></text>
+<rect x="170" y="424" width="220" height="78" fill="#FFFFFF" stroke="#E4E8EF" stroke-width="2"/>
+<text x="188.0" y="471.0" font-size="24" font-weight="bold" text-anchor="start" fill="#111111">과도 상태</text>
+<rect x="390" y="424" width="420" height="78" fill="#FFFFFF" stroke="#E4E8EF" stroke-width="2"/>
+<text x="408.0" y="471.0" font-size="22" font-weight="normal" text-anchor="start" fill="#1F2A44">010, 000을 거침</text>
+<rect x="810" y="424" width="310" height="78" fill="#FFFFFF" stroke="#E4E8EF" stroke-width="2"/>
+<text x="828.0" y="471.0" font-size="22" font-weight="normal" text-anchor="start" fill="#1F2A44">없음</text>
+<text x="170.0" y="554.0" font-size="24" font-weight="bold" text-anchor="start" fill="#1F2A44">동기의 대가 = AND 사슬 (T 입력을 에지 전에 계산)</text>
+<rect x="166" y="264" width="958" height="86" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.77689;0.78090;0.80979;0.81380;1" dur="62.3s" repeatCount="indefinite"/></rect>
+<rect x="166" y="342" width="958" height="86" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.81862;0.82263;0.85152;0.85554;1" dur="62.3s" repeatCount="indefinite"/></rect>
+<rect x="166" y="420" width="958" height="86" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.86035;0.86437;0.89326;0.89727;1" dur="62.3s" repeatCount="indefinite"/></rect>
+<rect x="156" y="520" width="760" height="50" rx="8" fill="none" stroke="#C0392B" stroke-width="4" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.90209;0.90610;0.93178;0.93579;1" dur="62.3s" repeatCount="indefinite"/></rect>
+<rect x="48" y="618" width="546" height="44" rx="8" fill="#FDECEC" stroke="#C0392B" stroke-width="2.5" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.94382;0.94783;0.98636;0.99037;1" dur="62.3s" repeatCount="indefinite"/></rect>
+<text x="64.0" y="650.0" font-size="28" font-weight="bold" text-anchor="start" fill="#C0392B">분주는 같고, 시점과 과도 상태가 다르다<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.94382;0.94783;1" dur="62.3s" repeatCount="indefinite"/></text>
+</g>
+<rect x="0" y="714" width="1280" height="6" fill="#EEF1F5"/>
+<rect x="0" y="714" width="0" height="6" fill="#7A8BA6"><animate attributeName="width" values="0;1280" keyTimes="0;1" dur="62.3s" repeatCount="indefinite"/></rect>
+</svg>

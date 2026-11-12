@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="822" height="252" viewBox="0 0 822 252" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<defs><pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#9AA3B2" stroke-width="2"/></pattern></defs>
+<rect x="0" y="0" width="822" height="252" fill="#FFFFFF"/>
+<line x1="94.0" y1="28" x2="94.0" y2="218" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="94.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">↓</text>
+<line x1="182.0" y1="28" x2="182.0" y2="218" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="182.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">↓</text>
+<line x1="270.0" y1="28" x2="270.0" y2="218" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="270.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">↓</text>
+<line x1="358.0" y1="28" x2="358.0" y2="218" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="358.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">↓</text>
+<line x1="446.0" y1="28" x2="446.0" y2="218" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="446.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">↓</text>
+<line x1="534.0" y1="28" x2="534.0" y2="218" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="534.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">↓</text>
+<line x1="622.0" y1="28" x2="622.0" y2="218" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="622.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">↓</text>
+<line x1="710.0" y1="28" x2="710.0" y2="218" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="710.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">↓</text>
+<text x="40" y="61.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">CLK</text>
+<line x1="50.0" y1="44" x2="94.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="94.0" y1="44" x2="94.0" y2="68" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="94.0" y1="68" x2="138.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="138.0" y1="68" x2="138.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="138.0" y1="44" x2="182.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="182.0" y1="44" x2="182.0" y2="68" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="182.0" y1="68" x2="226.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="226.0" y1="68" x2="226.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="226.0" y1="44" x2="270.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="270.0" y1="44" x2="270.0" y2="68" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="270.0" y1="68" x2="314.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="314.0" y1="68" x2="314.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="314.0" y1="44" x2="358.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="358.0" y1="44" x2="358.0" y2="68" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="358.0" y1="68" x2="402.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="402.0" y1="68" x2="402.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="402.0" y1="44" x2="446.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="446.0" y1="44" x2="446.0" y2="68" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="446.0" y1="68" x2="490.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="490.0" y1="68" x2="490.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="490.0" y1="44" x2="534.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="534.0" y1="44" x2="534.0" y2="68" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="534.0" y1="68" x2="578.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="578.0" y1="68" x2="578.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="578.0" y1="44" x2="622.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="622.0" y1="44" x2="622.0" y2="68" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="622.0" y1="68" x2="666.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="666.0" y1="68" x2="666.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="666.0" y1="44" x2="710.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="710.0" y1="44" x2="710.0" y2="68" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="710.0" y1="68" x2="754.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="754.0" y1="68" x2="754.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="754.0" y1="44" x2="798.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="50" y1="80.0" x2="798" y2="80.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="40" y="107.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">Q0</text>
+<line x1="50.0" y1="114" x2="102.8" y2="114" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="102.8" y1="114" x2="102.8" y2="90" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="102.8" y1="90" x2="190.8" y2="90" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="190.8" y1="90" x2="190.8" y2="114" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="190.8" y1="114" x2="278.8" y2="114" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="278.8" y1="114" x2="278.8" y2="90" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="278.8" y1="90" x2="366.8" y2="90" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="366.8" y1="90" x2="366.8" y2="114" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="366.8" y1="114" x2="454.8" y2="114" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="454.8" y1="114" x2="454.8" y2="90" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="454.8" y1="90" x2="542.8" y2="90" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="542.8" y1="90" x2="542.8" y2="114" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="542.8" y1="114" x2="630.8" y2="114" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="630.8" y1="114" x2="630.8" y2="90" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="630.8" y1="90" x2="718.8" y2="90" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="718.8" y1="90" x2="718.8" y2="114" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="718.8" y1="114" x2="798.0" y2="114" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="50" y1="126.0" x2="798" y2="126.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="40" y="153.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">Q1</text>
+<line x1="50.0" y1="160" x2="199.6" y2="160" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="199.6" y1="160" x2="199.6" y2="136" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="199.6" y1="136" x2="375.6" y2="136" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="375.6" y1="136" x2="375.6" y2="160" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="375.6" y1="160" x2="551.6" y2="160" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="551.6" y1="160" x2="551.6" y2="136" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="551.6" y1="136" x2="727.6" y2="136" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="727.6" y1="136" x2="727.6" y2="160" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="727.6" y1="160" x2="798.0" y2="160" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="50" y1="172.0" x2="798" y2="172.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="40" y="199.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">Q2</text>
+<line x1="50.0" y1="206" x2="384.4" y2="206" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="384.4" y1="206" x2="384.4" y2="182" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="384.4" y1="182" x2="736.4" y2="182" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="736.4" y1="182" x2="736.4" y2="206" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="736.4" y1="206" x2="798.0" y2="206" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="50" y1="218.0" x2="798" y2="218.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="8" y="246" font-size="12" fill="#44506A">Q0 = 클럭의 1/2 · Q1 = 1/4 · Q2 = 1/8 주파수 · 뒤 비트일수록 에지보다 늦게 바뀐다(지연을 과장해 표시)</text>
+</svg>
