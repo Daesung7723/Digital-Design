@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" role="img" aria-labelledby="figure-title figure-description">
+  <title id="figure-title">NOR와 NAND 플래시</title>
+  <desc id="figure-description">NOR의 병렬 셀과 NAND의 직렬 스트링 비교. NAND는 페이지 프로그램과 블록 소거.</desc>
+  <g font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0" y="0" width="1280" height="720" rx="0" fill="#FFFFFF" stroke="none" stroke-width="2" />
+    <g id="rom-overview">
+      <rect x="48" y="62" width="413" height="530" rx="8" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="2" />
+      <text x="74" y="105" fill="#111111" font-size="24" font-weight="700" text-anchor="start">읽기 경로</text>
+      <text x="317" y="174" fill="#44506A" font-size="20" font-weight="400" text-anchor="middle">비트라인</text>
+      <text x="201" y="202" fill="#44506A" font-size="20" font-weight="400" text-anchor="start">워드라인</text>
+      <rect x="201" y="215" width="232" height="160" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.5" />
+      <polyline points="215.5,215 215.5,439" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+      <polyline points="244.5,215 244.5,439" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+      <polyline points="273.5,215 273.5,439" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+      <polyline points="302.5,215 302.5,439" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+      <polyline points="331.5,215 331.5,439" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+      <polyline points="360.5,215 360.5,439" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+      <polyline points="389.5,215 389.5,439" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+      <polyline points="418.5,215 418.5,439" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+      <polyline points="176,235 433,235" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+      <polyline points="176,275 433,275" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+      <polyline points="176,315 433,315" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+      <polyline points="176,355 433,355" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+      <polyline points="176,275 422.0,275.0" fill="none" stroke="#1F2A44" stroke-width="2" />
+      <polygon points="432.00,275.00 422.00,279.80 422.00,270.20" fill="#1F2A44" stroke="none" stroke-width="2" />
+      <rect x="208.5" y="229" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="237.5" y="229" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="266.5" y="229" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="295.5" y="229" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="324.5" y="229" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="353.5" y="229" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="382.5" y="229" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="411.5" y="229" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="208.5" y="269" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="237.5" y="269" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="266.5" y="269" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="295.5" y="269" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="324.5" y="269" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="353.5" y="269" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="382.5" y="269" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="411.5" y="269" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="208.5" y="309" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="237.5" y="309" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="266.5" y="309" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="295.5" y="309" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="324.5" y="309" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="353.5" y="309" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="382.5" y="309" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="411.5" y="309" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="208.5" y="349" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="237.5" y="349" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="266.5" y="349" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="295.5" y="349" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="324.5" y="349" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="353.5" y="349" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="382.5" y="349" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="411.5" y="349" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="70" y="215" width="106" height="160" rx="8" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+      <text x="123.0" y="289.16" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">행</text>
+      <text x="123.0" y="317.16" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">디코더</text>
+      <polyline points="123,177 123.0,203.0" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+      <polygon points="123.00,213.00 118.20,203.00 127.80,203.00" fill="#1F2A44" stroke="none" stroke-width="2" />
+      <text x="123" y="164" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">주소</text>
+      <rect x="201" y="440" width="232" height="59" rx="8" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+      <text x="317.0" y="477.66" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">감지회로</text>
+      <polyline points="317,499 317.0,524.0" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+      <polygon points="317.00,534.00 312.20,524.00 321.80,524.00" fill="#1F2A44" stroke="none" stroke-width="2" />
+      <text x="317" y="566" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">데이터 출력</text>
+    </g>
+    <g id="rom-selection">
+      <rect x="317" y="255" width="29" height="40" rx="5" fill="none" stroke="#C0392B" stroke-width="4" />
+    </g>
+    <rect x="493" y="62" width="739" height="530" rx="8" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="2" />
+    <polyline points="467,275 478.0,275.0" fill="none" stroke="#7A8BA6" stroke-width="2" />
+    <polygon points="486.00,275.00 478.00,278.84 478.00,271.16" fill="#7A8BA6" stroke="none" stroke-width="2" />
+    <rect x="48" y="620" width="1184" height="64" rx="8" fill="#DCEBFF" stroke="none" stroke-width="2" />
+    <polyline points="690,634 690,670" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="72" y="660" fill="#111111" font-size="24" font-weight="700" text-anchor="start">쓰기: 페이지 단위</text>
+    <text x="716" y="660" fill="#111111" font-size="24" font-weight="700" text-anchor="start">지우기: 블록 단위(한꺼번에)</text>
+    <polyline points="835,91 835,539" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="675" y="114" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">NOR</text>
+    <text x="675" y="150" fill="#44506A" font-size="20" font-weight="400" text-anchor="middle">칸마다 비트라인에 병렬</text>
+    <text x="1025" y="114" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">NAND</text>
+    <text x="1025" y="150" fill="#44506A" font-size="20" font-weight="400" text-anchor="middle">여러 칸을 직렬로 이은 스트링</text>
+    <text x="1025" y="178" fill="#44506A" font-size="20" font-weight="400" text-anchor="middle">비트라인 접점 공유</text>
+    <text x="569" y="222" fill="#44506A" font-size="20" font-weight="400" text-anchor="middle">비트라인</text>
+    <text x="768" y="222" fill="#44506A" font-size="20" font-weight="400" text-anchor="middle">공통 소스선</text>
+    <polyline points="569,237 569,443" fill="none" stroke="#1F2A44" stroke-width="3.5" />
+    <polyline points="784,237 784,443" fill="none" stroke="#1F2A44" stroke-width="3.5" />
+    <polyline points="569,279 659,279" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <polyline points="691,279 784,279" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <circle cx="569" cy="279" r="4.5" fill="#1F2A44" stroke="#1F2A44" stroke-width="2" />
+    <circle cx="784" cy="279" r="4.5" fill="#1F2A44" stroke="#1F2A44" stroke-width="2" />
+    <rect x="659" y="269" width="32" height="20" rx="3" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="662,296 688,296" fill="none" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="675,296 675,313" fill="none" stroke="#7A8BA6" stroke-width="2" />
+    <polyline points="569,351 659,351" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <polyline points="691,351 784,351" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <circle cx="569" cy="351" r="4.5" fill="#1F2A44" stroke="#1F2A44" stroke-width="2" />
+    <circle cx="784" cy="351" r="4.5" fill="#1F2A44" stroke="#1F2A44" stroke-width="2" />
+    <rect x="659" y="341" width="32" height="20" rx="3" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="662,368 688,368" fill="none" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="675,368 675,385" fill="none" stroke="#7A8BA6" stroke-width="2" />
+    <polyline points="569,423 659,423" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <polyline points="691,423 784,423" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <circle cx="569" cy="423" r="4.5" fill="#1F2A44" stroke="#1F2A44" stroke-width="2" />
+    <circle cx="784" cy="423" r="4.5" fill="#1F2A44" stroke="#1F2A44" stroke-width="2" />
+    <rect x="659" y="413" width="32" height="20" rx="3" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="662,440 688,440" fill="none" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="675,440 675,457" fill="none" stroke="#7A8BA6" stroke-width="2" />
+    <rect x="873" y="248" width="315" height="211" rx="6" fill="none" stroke="#1F2A44" stroke-width="2.5" stroke-dasharray="12 7" />
+    <rect x="885" y="325" width="292" height="52" rx="4" fill="#FDECEC" stroke="none" stroke-width="2" />
+    <text x="879" y="221" fill="#44506A" font-size="20" font-weight="400" text-anchor="middle">비트라인</text>
+    <polyline points="935,211 935,470" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <circle cx="935" cy="228" r="4.5" fill="#1F2A44" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="925,211 945,211" fill="none" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="1009,211 1009,470" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <circle cx="1009" cy="228" r="4.5" fill="#1F2A44" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="999,211 1019,211" fill="none" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="1083,211 1083,470" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <circle cx="1083" cy="228" r="4.5" fill="#1F2A44" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="1073,211 1093,211" fill="none" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="1157,211 1157,470" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <circle cx="1157" cy="228" r="4.5" fill="#1F2A44" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="1147,211 1167,211" fill="none" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="916,470 1176,470" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <circle cx="935" cy="470" r="3" fill="#1F2A44" stroke="#1F2A44" stroke-width="2" />
+    <circle cx="1009" cy="470" r="3" fill="#1F2A44" stroke="#1F2A44" stroke-width="2" />
+    <circle cx="1083" cy="470" r="3" fill="#1F2A44" stroke="#1F2A44" stroke-width="2" />
+    <circle cx="1157" cy="470" r="3" fill="#1F2A44" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="892,301 1140,301" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <polyline points="918,292 918,301" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <rect x="925" y="263" width="20" height="32" rx="3" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="918,266 918,292" fill="none" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="992,292 992,301" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <rect x="999" y="263" width="20" height="32" rx="3" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="992,266 992,292" fill="none" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="1066,292 1066,301" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <rect x="1073" y="263" width="20" height="32" rx="3" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="1066,266 1066,292" fill="none" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="1140,292 1140,301" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <rect x="1147" y="263" width="20" height="32" rx="3" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="1140,266 1140,292" fill="none" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="892,373 1140,373" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <polyline points="918,364 918,373" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <rect x="925" y="335" width="20" height="32" rx="3" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="918,338 918,364" fill="none" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="992,364 992,373" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <rect x="999" y="335" width="20" height="32" rx="3" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="992,338 992,364" fill="none" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="1066,364 1066,373" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <rect x="1073" y="335" width="20" height="32" rx="3" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="1066,338 1066,364" fill="none" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="1140,364 1140,373" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <rect x="1147" y="335" width="20" height="32" rx="3" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="1140,338 1140,364" fill="none" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="892,445 1140,445" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <polyline points="918,436 918,445" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <rect x="925" y="407" width="20" height="32" rx="3" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="918,410 918,436" fill="none" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="992,436 992,445" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <rect x="999" y="407" width="20" height="32" rx="3" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="992,410 992,436" fill="none" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="1066,436 1066,445" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <rect x="1073" y="407" width="20" height="32" rx="3" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="1066,410 1066,436" fill="none" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="1140,436 1140,445" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <rect x="1147" y="407" width="20" height="32" rx="3" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="1140,410 1140,436" fill="none" stroke="#1F2A44" stroke-width="2" />
+    <rect x="885" y="325" width="292" height="52" rx="4" fill="none" stroke="#C0392B" stroke-width="3.5" />
+    <polyline points="875,508 920,508" fill="none" stroke="#C0392B" stroke-width="3.5" />
+    <text x="930" y="515" fill="#111111" font-size="20" font-weight="400" text-anchor="start">쓰기 = 페이지(한 줄)</text>
+    <polyline points="875,539 920,539" fill="none" stroke="#1F2A44" stroke-width="2.5" stroke-dasharray="12 7" />
+    <text x="930" y="546" fill="#111111" font-size="20" font-weight="400" text-anchor="start">지우기 = 블록(여러 줄)</text>
+  </g>
+</svg>

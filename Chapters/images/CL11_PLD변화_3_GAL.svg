@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" role="img" aria-labelledby="figure-title figure-description">
+  <title id="figure-title">GAL의 출력 논리 매크로셀</title>
+  <desc id="figure-description">전기적으로 재기록 가능한 AND 배열과, 조합 및 레지스터 출력을 고르는 OLMC.</desc>
+  <g font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0" y="0" width="1280" height="720" rx="0" fill="#FFFFFF" stroke="none" stroke-width="2" />
+    <circle cx="69" cy="57" r="8" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" />
+    <polyline points="63,51 75,63" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <polyline points="75,51 63,63" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <text x="87" y="64" fill="#44506A" font-size="20" font-weight="400" text-anchor="start">= 설정할 수 있는 연결</text>
+    <circle cx="327" cy="57" r="5" fill="#1F2A44" stroke="#1F2A44" stroke-width="2" />
+    <text x="345" y="64" fill="#44506A" font-size="20" font-weight="400" text-anchor="start">= 고정 연결</text>
+    <polyline points="48,84 1232,84" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <rect x="526" y="117" width="581" height="392" rx="8" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="2" />
+    <text x="548" y="155" fill="#111111" font-size="24" font-weight="700" text-anchor="start">OLMC</text>
+    <text x="1085" y="155" fill="#C0392B" font-size="20" font-weight="700" text-anchor="end">설정으로 출력 방식 선택</text>
+    <polyline points="548,174 1085,174" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="62" y="314" fill="#111111" font-size="24" font-weight="700" text-anchor="start">입력</text>
+    <polyline points="112,306 135.0,306.0" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <polygon points="145.00,306.00 135.00,310.80 135.00,301.20" fill="#1F2A44" stroke="none" stroke-width="2" />
+    <rect x="146" y="229" width="201" height="173" rx="8" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <text x="246" y="263" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">AND 설정</text>
+    <polyline points="193,293 275,293" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <polyline points="193,316 275,316" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <polyline points="214,283 214,326" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <polyline points="248,283 248,326" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <polyline points="273,283 273,326" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <circle cx="214" cy="293" r="7" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" />
+    <polyline points="209,288 219,298" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <polyline points="219,288 209,298" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <circle cx="248" cy="316" r="7" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" />
+    <polyline points="243,311 253,321" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <polyline points="253,311 243,321" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <circle cx="273" cy="293" r="7" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" />
+    <polyline points="268,288 278,298" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <polyline points="278,288 268,298" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <text x="246" y="352" fill="#44506A" font-size="20" font-weight="400" text-anchor="middle">전기로 다시</text>
+    <text x="246" y="377" fill="#44506A" font-size="20" font-weight="400" text-anchor="middle">쓸 수 있음</text>
+    <polyline points="347,306 390,306" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <circle cx="370" cy="306" r="4.5" fill="#1F2A44" stroke="#1F2A44" stroke-width="2" />
+    <rect x="391" y="277" width="102" height="58" rx="8" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <text x="442.0" y="314.16" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">고정 OR</text>
+    <polyline points="493,306 564.0,306.0" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <polygon points="574.00,306.00 564.00,310.80 564.00,301.20" fill="#1F2A44" stroke="none" stroke-width="2" />
+    <polyline points="574,374 574,231 795,231 795,281 820,281" fill="none" stroke="#C0392B" stroke-width="3.5" />
+    <circle cx="574" cy="306" r="4" fill="#1F2A44" stroke="#1F2A44" stroke-width="2" />
+    <text x="684" y="216" fill="#C0392B" font-size="24" font-weight="700" text-anchor="middle">조합 경로</text>
+    <polyline points="574,374 624.0,374.0" fill="none" stroke="#C0392B" stroke-width="3" />
+    <polygon points="633.00,374.00 624.00,378.32 624.00,369.68" fill="#C0392B" stroke="none" stroke-width="2" />
+    <rect x="634" y="344" width="136" height="60" rx="8" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <text x="702.0" y="381" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">D FF</text>
+    <path d="M647 404 l9 -10 l9 10" fill="none" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="656,438 656.0,412.0" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <polygon points="656.00,404.00 659.84,412.00 652.16,412.00" fill="#1F2A44" stroke="none" stroke-width="2" />
+    <text x="670" y="437" fill="#111111" font-size="20" font-weight="400" text-anchor="start">CLK</text>
+    <text x="702" y="332" fill="#C0392B" font-size="24" font-weight="700" text-anchor="middle">레지스터 경로</text>
+    <polyline points="770,374 795,374 795,329 820,329" fill="none" stroke="#C0392B" stroke-width="3.5" />
+    <polygon points="820.00,260.00 892.00,278.00 892.00,334.00 820.00,350.00" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <text x="855" y="313" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">MUX</text>
+    <polyline points="892,306 910.0,306.0" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <polygon points="920.00,306.00 910.00,310.80 910.00,301.20" fill="#1F2A44" stroke="none" stroke-width="2" />
+    <rect x="921" y="267" width="76" height="78" rx="8" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <text x="959.0" y="300.16" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">극성</text>
+    <text x="959.0" y="328.16" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">선택</text>
+    <polyline points="997,306 1011.0,306.0" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <polygon points="1021.00,306.00 1011.00,310.80 1011.00,301.20" fill="#1F2A44" stroke="none" stroke-width="2" />
+    <polygon points="1022.00,279.00 1070.00,306.00 1022.00,333.00" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <polyline points="1038,387 1038.0,333.0" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <polygon points="1038.00,325.00 1041.84,333.00 1034.16,333.00" fill="#1F2A44" stroke="none" stroke-width="2" />
+    <text x="1038" y="411" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">출력 허용</text>
+    <polyline points="1070,306 1168.0,306.0" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <polygon points="1178.00,306.00 1168.00,310.80 1168.00,301.20" fill="#1F2A44" stroke="none" stroke-width="2" />
+    <circle cx="1185" cy="306" r="6" fill="#FFFFFF" stroke="#1F2A44" stroke-width="2" />
+    <text x="1184" y="276" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">I/O 핀</text>
+    <polyline points="1150,306 1150,555 246,555 246.0,413.0" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <polygon points="246.00,403.00 250.80,413.00 241.20,413.00" fill="#1F2A44" stroke="none" stroke-width="2" />
+    <circle cx="1150" cy="306" r="4.5" fill="#1F2A44" stroke="#1F2A44" stroke-width="2" />
+    <text x="697" y="584" fill="#44506A" font-size="20" font-weight="400" text-anchor="middle">I/O 핀에서 AND로 돌아가는 피드백</text>
+    <rect x="433" y="614" width="414" height="50" rx="8" fill="#FDECEC" stroke="none" stroke-width="2" />
+    <text x="640" y="647" fill="#C0392B" font-size="20" font-weight="700" text-anchor="middle">하나의 부품으로 여러 PAL 구조를 대신함</text>
+  </g>
+</svg>

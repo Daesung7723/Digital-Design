@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" role="img" aria-labelledby="figure-title figure-description">
+  <title id="figure-title">자외선 소거형 EPROM</title>
+  <desc id="figure-description">같은 읽기 전압에서 플로팅 게이트의 전하 상태에 따른 전류 비교와 석영창을 통한 칩 전체 소거.</desc>
+  <g font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0" y="0" width="1280" height="720" rx="0" fill="#FFFFFF" stroke="none" stroke-width="2" />
+    <g id="rom-overview">
+      <rect x="48" y="62" width="413" height="530" rx="8" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="2" />
+      <text x="74" y="105" fill="#111111" font-size="24" font-weight="700" text-anchor="start">읽기 경로</text>
+      <text x="317" y="174" fill="#44506A" font-size="20" font-weight="400" text-anchor="middle">비트라인</text>
+      <text x="201" y="202" fill="#44506A" font-size="20" font-weight="400" text-anchor="start">워드라인</text>
+      <rect x="201" y="215" width="232" height="160" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.5" />
+      <polyline points="215.5,215 215.5,439" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+      <polyline points="244.5,215 244.5,439" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+      <polyline points="273.5,215 273.5,439" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+      <polyline points="302.5,215 302.5,439" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+      <polyline points="331.5,215 331.5,439" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+      <polyline points="360.5,215 360.5,439" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+      <polyline points="389.5,215 389.5,439" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+      <polyline points="418.5,215 418.5,439" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+      <polyline points="176,235 433,235" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+      <polyline points="176,275 433,275" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+      <polyline points="176,315 433,315" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+      <polyline points="176,355 433,355" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+      <polyline points="176,275 422.0,275.0" fill="none" stroke="#1F2A44" stroke-width="2" />
+      <polygon points="432.00,275.00 422.00,279.80 422.00,270.20" fill="#1F2A44" stroke="none" stroke-width="2" />
+      <rect x="208.5" y="229" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="237.5" y="229" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="266.5" y="229" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="295.5" y="229" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="324.5" y="229" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="353.5" y="229" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="382.5" y="229" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="411.5" y="229" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="208.5" y="269" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="237.5" y="269" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="266.5" y="269" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="295.5" y="269" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="324.5" y="269" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="353.5" y="269" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="382.5" y="269" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="411.5" y="269" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="208.5" y="309" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="237.5" y="309" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="266.5" y="309" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="295.5" y="309" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="324.5" y="309" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="353.5" y="309" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="382.5" y="309" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="411.5" y="309" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="208.5" y="349" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="237.5" y="349" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="266.5" y="349" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="295.5" y="349" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="324.5" y="349" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="353.5" y="349" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="382.5" y="349" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="411.5" y="349" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2A44" stroke-width="1.5" />
+      <rect x="70" y="215" width="106" height="160" rx="8" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+      <text x="123.0" y="289.16" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">행</text>
+      <text x="123.0" y="317.16" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">디코더</text>
+      <polyline points="123,177 123.0,203.0" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+      <polygon points="123.00,213.00 118.20,203.00 127.80,203.00" fill="#1F2A44" stroke="none" stroke-width="2" />
+      <text x="123" y="164" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">주소</text>
+      <rect x="201" y="440" width="232" height="59" rx="8" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+      <text x="317.0" y="477.66" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">감지회로</text>
+      <polyline points="317,499 317.0,524.0" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+      <polygon points="317.00,534.00 312.20,524.00 321.80,524.00" fill="#1F2A44" stroke="none" stroke-width="2" />
+      <text x="317" y="566" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">데이터 출력</text>
+    </g>
+    <g id="rom-selection">
+      <rect x="317" y="255" width="29" height="40" rx="5" fill="none" stroke="#C0392B" stroke-width="4" />
+    </g>
+    <rect x="493" y="62" width="739" height="530" rx="8" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="2" />
+    <polyline points="467,275 478.0,275.0" fill="none" stroke="#7A8BA6" stroke-width="2" />
+    <polygon points="486.00,275.00 478.00,278.84 478.00,271.16" fill="#7A8BA6" stroke="none" stroke-width="2" />
+    <rect x="48" y="620" width="1184" height="64" rx="8" fill="#DCEBFF" stroke="none" stroke-width="2" />
+    <polyline points="690,634 690,670" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="72" y="660" fill="#111111" font-size="24" font-weight="700" text-anchor="start">쓰기: 프로그래머로 전기 펄스(전하 주입)</text>
+    <text x="716" y="660" fill="#111111" font-size="24" font-weight="700" text-anchor="start">지우기: 자외선으로 칩 전체</text>
+    <text x="530" y="108" fill="#111111" font-size="24" font-weight="700" text-anchor="start">같은 읽기 전압</text>
+    <text x="530" y="141" fill="#44506A" font-size="20" font-weight="400" text-anchor="start">플로팅 게이트 전하에 따른 문턱전압 차이</text>
+    <text x="530" y="171" fill="#44506A" font-size="20" font-weight="400" text-anchor="start">플로팅 게이트를 둘러싼 절연막</text>
+    <polyline points="545,184 545,287 616.0,287.0" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <polygon points="623.00,287.00 616.00,290.36 616.00,283.64" fill="#7A8BA6" stroke="none" stroke-width="2" />
+    <polyline points="1029,95 1029,171" fill="none" stroke="#7A8BA6" stroke-width="3" />
+    <polyline points="1054,95 1054,171" fill="none" stroke="#7A8BA6" stroke-width="3" />
+    <polyline points="1079,95 1079,171" fill="none" stroke="#7A8BA6" stroke-width="3" />
+    <polyline points="1104,95 1104,171" fill="none" stroke="#7A8BA6" stroke-width="3" />
+    <polyline points="1129,95 1129,171" fill="none" stroke="#7A8BA6" stroke-width="3" />
+    <polyline points="1154,95 1154,171" fill="none" stroke="#7A8BA6" stroke-width="3" />
+    <rect x="1010" y="102" width="164" height="62" rx="8" fill="#FFFFFF" stroke="#1F2A44" stroke-width="2" />
+    <rect x="1052" y="115" width="80" height="36" rx="4" fill="#DCEBFF" stroke="#7A8BA6" stroke-width="2" />
+    <polyline points="1042,74 1061.69,110.1" fill="none" stroke="#C0392B" stroke-width="3" />
+    <polygon points="1066.00,118.00 1057.90,112.17 1065.48,108.03" fill="#C0392B" stroke="none" stroke-width="2" />
+    <polyline points="1065,73 1084.76,110.06" fill="none" stroke="#C0392B" stroke-width="3" />
+    <polygon points="1089.00,118.00 1080.95,112.09 1088.58,108.03" fill="#C0392B" stroke="none" stroke-width="2" />
+    <text x="1127" y="88" fill="#C0392B" font-size="24" font-weight="700" text-anchor="middle">자외선</text>
+    <text x="1092" y="142" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">석영창</text>
+    <text x="1092" y="193" fill="#44506A" font-size="20" font-weight="400" text-anchor="middle">칩 전체 소거</text>
+    <text x="700" y="225" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">전하가 없는 상태</text>
+    <rect x="556" y="337" width="288" height="74" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="2" />
+    <rect x="616" y="272" width="168" height="65" rx="0" fill="#FFFFFF" stroke="#1F2A44" stroke-width="2" />
+    <rect x="616" y="240" width="168" height="32" rx="0" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <text x="700" y="264" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">제어 게이트</text>
+    <rect x="622" y="279" width="156" height="47" rx="0" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <text x="700" y="305" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">플로팅 게이트</text>
+    <rect x="556" y="337" width="80" height="35" rx="0" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <rect x="764" y="337" width="80" height="35" rx="0" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <text x="596" y="362" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">소스</text>
+    <text x="804" y="362" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">드레인</text>
+    <polyline points="763,343 648.0,343.0" fill="none" stroke="#C0392B" stroke-width="4" />
+    <polygon points="637.00,343.00 648.00,337.72 648.00,348.28" fill="#C0392B" stroke="none" stroke-width="2" />
+    <polyline points="700,352 700,369" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="700" y="396" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">채널</text>
+    <text x="700" y="454" fill="#C0392B" font-size="24" font-weight="700" text-anchor="middle">전류 있음</text>
+    <polyline points="700,466 700.0,491.0" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <polygon points="700.00,501.00 695.20,491.00 704.80,491.00" fill="#1F2A44" stroke="none" stroke-width="2" />
+    <text x="1026" y="225" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">전하가 쌓인 상태</text>
+    <rect x="882" y="337" width="288" height="74" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="2" />
+    <rect x="942" y="272" width="168" height="65" rx="0" fill="#FFFFFF" stroke="#1F2A44" stroke-width="2" />
+    <rect x="942" y="240" width="168" height="32" rx="0" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <text x="1026" y="264" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">제어 게이트</text>
+    <rect x="948" y="279" width="156" height="47" rx="0" fill="#FDECEC" stroke="#1F2A44" stroke-width="2" />
+    <text x="1026" y="305" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">플로팅 게이트</text>
+    <polyline points="979,317 987,317" fill="none" stroke="#C0392B" stroke-width="2.7" />
+    <polyline points="1007,317 1015,317" fill="none" stroke="#C0392B" stroke-width="2.7" />
+    <polyline points="1037,317 1045,317" fill="none" stroke="#C0392B" stroke-width="2.7" />
+    <polyline points="1065,317 1073,317" fill="none" stroke="#C0392B" stroke-width="2.7" />
+    <rect x="882" y="337" width="80" height="35" rx="0" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <rect x="1090" y="337" width="80" height="35" rx="0" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <text x="922" y="362" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">소스</text>
+    <text x="1130" y="362" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">드레인</text>
+    <polyline points="963,343 1089,343" fill="none" stroke="#7A8BA6" stroke-width="2" stroke-dasharray="5 5" />
+    <polyline points="1026,352 1026,369" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="1026" y="396" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">채널</text>
+    <text x="1026" y="454" fill="#1F2A44" font-size="24" font-weight="700" text-anchor="middle">전류 없음</text>
+    <polyline points="1026,466 1026.0,491.0" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <polygon points="1026.00,501.00 1021.20,491.00 1030.80,491.00" fill="#1F2A44" stroke="none" stroke-width="2" />
+    <rect x="600" y="502" width="526" height="50" rx="8" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <text x="863.0" y="535.16" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">감지회로 → 0 또는 1</text>
+    <text x="863" y="579" fill="#44506A" font-size="20" font-weight="400" text-anchor="middle">예  전류 있음 → 1, 전류 없음 → 0</text>
+  </g>
+</svg>

@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" role="img" aria-labelledby="figure-title figure-description">
+  <title id="figure-title">PLA의 AND, OR 배열과 곱항 공유</title>
+  <desc id="figure-description">입력과 보수에서 만든 곱항 중 P2 하나를 두 OR 출력이 공유한다.</desc>
+  <g font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0" y="0" width="1280" height="720" rx="0" fill="#FFFFFF" stroke="none" stroke-width="2" />
+    <circle cx="69" cy="57" r="8" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" />
+    <polyline points="63,51 75,63" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <polyline points="75,51 63,63" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <text x="87" y="64" fill="#44506A" font-size="20" font-weight="400" text-anchor="start">= 설정할 수 있는 연결</text>
+    <circle cx="327" cy="57" r="5" fill="#1F2A44" stroke="#1F2A44" stroke-width="2" />
+    <text x="345" y="64" fill="#44506A" font-size="20" font-weight="400" text-anchor="start">= 고정 연결</text>
+    <polyline points="48,84 1232,84" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="239" y="123" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">AND 설정</text>
+    <text x="68" y="164" fill="#111111" font-size="24" font-weight="700" text-anchor="start">입력</text>
+    <text x="107" y="201" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">A</text>
+    <polyline points="107,211 107.0,451.0" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <polygon points="107.00,458.00 103.64,451.00 110.36,451.00" fill="#7A8BA6" stroke="none" stroke-width="2" />
+    <text x="161" y="201" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">A′</text>
+    <polyline points="161,211 161.0,451.0" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <polygon points="161.00,458.00 157.64,451.00 164.36,451.00" fill="#7A8BA6" stroke="none" stroke-width="2" />
+    <text x="215" y="201" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">B</text>
+    <polyline points="215,211 215.0,451.0" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <polygon points="215.00,458.00 211.64,451.00 218.36,451.00" fill="#7A8BA6" stroke="none" stroke-width="2" />
+    <text x="269" y="201" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">B′</text>
+    <polyline points="269,211 269.0,451.0" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <polygon points="269.00,458.00 265.64,451.00 272.36,451.00" fill="#7A8BA6" stroke="none" stroke-width="2" />
+    <text x="323" y="201" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">C</text>
+    <polyline points="323,211 323.0,451.0" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <polygon points="323.00,458.00 319.64,451.00 326.36,451.00" fill="#7A8BA6" stroke="none" stroke-width="2" />
+    <text x="377" y="201" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">C′</text>
+    <polyline points="377,211 377.0,451.0" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <polygon points="377.00,458.00 373.64,451.00 380.36,451.00" fill="#7A8BA6" stroke="none" stroke-width="2" />
+    <polyline points="84,245 414,245" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <circle cx="107" cy="245" r="7" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" />
+    <polyline points="102,240 112,250" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <polyline points="112,240 102,250" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <circle cx="215" cy="245" r="7" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" />
+    <polyline points="210,240 220,250" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <polyline points="220,240 210,250" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <circle cx="377" cy="245" r="7" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" />
+    <polyline points="372,240 382,250" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <polyline points="382,240 372,250" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <path d="M414 231 H448 A14 14 0 0 1 448 259 H414 Z" fill="#FFFFFF" stroke="#1F2A44" stroke-width="2.5" />
+    <text x="438" y="252" fill="#111111" font-size="20" font-weight="700" text-anchor="middle">&amp;</text>
+    <polyline points="462,245 478,245" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <text x="498" y="253" fill="#1F2A44" font-size="24" font-weight="700" text-anchor="middle">P1</text>
+    <polyline points="84,309 414,309" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <circle cx="161" cy="309" r="7" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" />
+    <polyline points="156,304 166,314" fill="none" stroke="#C0392B" stroke-width="2.4" />
+    <polyline points="166,304 156,314" fill="none" stroke="#C0392B" stroke-width="2.4" />
+    <circle cx="215" cy="309" r="7" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" />
+    <polyline points="210,304 220,314" fill="none" stroke="#C0392B" stroke-width="2.4" />
+    <polyline points="220,304 210,314" fill="none" stroke="#C0392B" stroke-width="2.4" />
+    <path d="M414 295 H448 A14 14 0 0 1 448 323 H414 Z" fill="#FFFFFF" stroke="#1F2A44" stroke-width="2.5" />
+    <text x="438" y="316" fill="#111111" font-size="20" font-weight="700" text-anchor="middle">&amp;</text>
+    <polyline points="462,309 478,309" fill="none" stroke="#C0392B" stroke-width="2.5" />
+    <text x="498" y="317" fill="#C0392B" font-size="24" font-weight="700" text-anchor="middle">P2</text>
+    <polyline points="84,373 414,373" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <circle cx="269" cy="373" r="7" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" />
+    <polyline points="264,368 274,378" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <polyline points="274,368 264,378" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <circle cx="323" cy="373" r="7" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" />
+    <polyline points="318,368 328,378" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <polyline points="328,368 318,378" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <path d="M414 359 H448 A14 14 0 0 1 448 387 H414 Z" fill="#FFFFFF" stroke="#1F2A44" stroke-width="2.5" />
+    <text x="438" y="380" fill="#111111" font-size="20" font-weight="700" text-anchor="middle">&amp;</text>
+    <polyline points="462,373 478,373" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <text x="498" y="381" fill="#1F2A44" font-size="24" font-weight="700" text-anchor="middle">P3</text>
+    <polyline points="84,437 414,437" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <circle cx="107" cy="437" r="7" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" />
+    <polyline points="102,432 112,442" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <polyline points="112,432 102,442" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <circle cx="269" cy="437" r="7" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" />
+    <polyline points="264,432 274,442" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <polyline points="274,432 264,442" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <circle cx="377" cy="437" r="7" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" />
+    <polyline points="372,432 382,442" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <polyline points="382,432 372,442" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <path d="M414 423 H448 A14 14 0 0 1 448 451 H414 Z" fill="#FFFFFF" stroke="#1F2A44" stroke-width="2.5" />
+    <text x="438" y="444" fill="#111111" font-size="20" font-weight="700" text-anchor="middle">&amp;</text>
+    <polyline points="462,437 478,437" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <text x="498" y="445" fill="#1F2A44" font-size="24" font-weight="700" text-anchor="middle">P4</text>
+    <text x="826" y="123" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">OR 설정</text>
+    <text x="498" y="201" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">곱항</text>
+    <polyline points="743,214 743,528" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <polyline points="938,214 938,463" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <polyline points="521,245 978,245" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <polyline points="521,309 978,309" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <polyline points="521,373 978,373" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <polyline points="521,437 978,437" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <polyline points="743,309 743,528" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <rect x="708" y="528" width="70" height="50" rx="8" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <text x="743.0" y="561.16" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">OR</text>
+    <polyline points="778,553 1113.0,553.0" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <polygon points="1123.00,553.00 1113.00,557.80 1113.00,548.20" fill="#1F2A44" stroke="none" stroke-width="2" />
+    <text x="1148" y="561" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">F2</text>
+    <polyline points="938,245 938,463" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <rect x="903" y="463" width="70" height="50" rx="8" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <text x="938.0" y="496.16" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">OR</text>
+    <polyline points="973,488 1113.0,488.0" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <polygon points="1123.00,488.00 1113.00,492.80 1113.00,483.20" fill="#1F2A44" stroke="none" stroke-width="2" />
+    <text x="1148" y="496" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">F1</text>
+    <polyline points="521,309 938,309" fill="none" stroke="#C0392B" stroke-width="3.5" />
+    <circle cx="743" cy="309" r="8" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" />
+    <polyline points="737,303 749,315" fill="none" stroke="#C0392B" stroke-width="2.4" />
+    <polyline points="749,303 737,315" fill="none" stroke="#C0392B" stroke-width="2.4" />
+    <circle cx="743" cy="373" r="8" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" />
+    <polyline points="737,367 749,379" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <polyline points="749,367 737,379" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <circle cx="743" cy="437" r="8" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" />
+    <polyline points="737,431 749,443" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <polyline points="749,431 737,443" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <circle cx="938" cy="245" r="8" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" />
+    <polyline points="932,239 944,251" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <polyline points="944,239 932,251" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <circle cx="938" cy="309" r="8" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" />
+    <polyline points="932,303 944,315" fill="none" stroke="#C0392B" stroke-width="2.4" />
+    <polyline points="944,303 932,315" fill="none" stroke="#C0392B" stroke-width="2.4" />
+    <rect x="548" y="329" width="135" height="37" rx="8" fill="#FDECEC" stroke="none" stroke-width="2" />
+    <text x="615" y="355" fill="#C0392B" font-size="20" font-weight="700" text-anchor="middle">곱항 공유</text>
+    <polyline points="615,312 615,329" fill="none" stroke="#C0392B" stroke-width="1.5" />
+  </g>
+</svg>

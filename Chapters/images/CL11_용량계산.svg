@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" role="img" aria-labelledby="figure-title figure-description">
+  <title id="figure-title">ROM 용량 계산 — 워드와 주소</title>
+  <desc id="figure-description">주소 3비트가 3-to-8 디코더를 거쳐 8개 워드 가운데 주소 101(5번)의 워드를 선택하고, 그 워드의 4비트 1011이 출력된다. 워드 수 2의 3제곱 = 8, 워드 폭 4비트, 용량 32비트.</desc>
+  <g font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0" y="0" width="1280" height="720" rx="0" fill="#FFFFFF" stroke="none" stroke-width="2" />
+    <text x="60" y="62" fill="#111111" font-size="30" font-weight="700" text-anchor="start">ROM 용량 = 워드 수 × 워드 폭</text>
+    <text x="60" y="290" fill="#111111" font-size="24" font-weight="700" text-anchor="start">주소 3비트 (n = 3)</text>
+    <text x="142" y="348" fill="#111111" font-size="24" font-weight="400" text-anchor="end">A₂</text>
+    <text x="190" y="348" fill="#C0392B" font-size="24" font-weight="700" text-anchor="end">= 1</text>
+    <polyline points="205,340 288.0,340.0" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <polygon points="298.00,340.00 288.00,344.80 288.00,335.20" fill="#1F2A44" stroke="none" stroke-width="2" />
+    <text x="142" y="398" fill="#111111" font-size="24" font-weight="400" text-anchor="end">A₁</text>
+    <text x="190" y="398" fill="#C0392B" font-size="24" font-weight="700" text-anchor="end">= 0</text>
+    <polyline points="205,390 288.0,390.0" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <polygon points="298.00,390.00 288.00,394.80 288.00,385.20" fill="#1F2A44" stroke="none" stroke-width="2" />
+    <text x="142" y="448" fill="#111111" font-size="24" font-weight="400" text-anchor="end">A₀</text>
+    <text x="190" y="448" fill="#C0392B" font-size="24" font-weight="700" text-anchor="end">= 1</text>
+    <polyline points="205,440 288.0,440.0" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <polygon points="298.00,440.00 288.00,444.80 288.00,435.20" fill="#1F2A44" stroke="none" stroke-width="2" />
+    <text x="60" y="505" fill="#C0392B" font-size="24" font-weight="700" text-anchor="start">101₂ = 5</text>
+    <text x="60" y="535" fill="#C0392B" font-size="20" font-weight="400" text-anchor="start">→ 5번 워드</text>
+    <rect x="300" y="170" width="120" height="440" rx="8" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <text x="360.0" y="384.16" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">3-to-8</text>
+    <text x="360.0" y="412.16" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">디코더</text>
+    <polyline points="420,197.5 600,197.5" fill="none" stroke="#7A8BA6" stroke-width="2" />
+    <text x="510" y="189.5" fill="#44506A" font-size="20" font-weight="400" text-anchor="middle">0 (000)</text>
+    <polyline points="420,252.5 600,252.5" fill="none" stroke="#7A8BA6" stroke-width="2" />
+    <text x="510" y="244.5" fill="#44506A" font-size="20" font-weight="400" text-anchor="middle">1 (001)</text>
+    <polyline points="420,307.5 600,307.5" fill="none" stroke="#7A8BA6" stroke-width="2" />
+    <text x="510" y="299.5" fill="#44506A" font-size="20" font-weight="400" text-anchor="middle">2 (010)</text>
+    <polyline points="420,362.5 600,362.5" fill="none" stroke="#7A8BA6" stroke-width="2" />
+    <text x="510" y="354.5" fill="#44506A" font-size="20" font-weight="400" text-anchor="middle">3 (011)</text>
+    <polyline points="420,417.5 600,417.5" fill="none" stroke="#7A8BA6" stroke-width="2" />
+    <text x="510" y="409.5" fill="#44506A" font-size="20" font-weight="400" text-anchor="middle">4 (100)</text>
+    <polyline points="420,472.5 600,472.5" fill="none" stroke="#C0392B" stroke-width="4" />
+    <text x="510" y="464.5" fill="#C0392B" font-size="20" font-weight="700" text-anchor="middle">5 (101)</text>
+    <polyline points="420,527.5 600,527.5" fill="none" stroke="#7A8BA6" stroke-width="2" />
+    <text x="510" y="519.5" fill="#44506A" font-size="20" font-weight="400" text-anchor="middle">6 (110)</text>
+    <polyline points="420,582.5 600,582.5" fill="none" stroke="#7A8BA6" stroke-width="2" />
+    <text x="510" y="574.5" fill="#44506A" font-size="20" font-weight="400" text-anchor="middle">7 (111)</text>
+    <rect x="600" y="170" width="80" height="55" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="640.0" y="206.5" fill="#44506A" font-size="24" font-weight="400" text-anchor="middle">0</text>
+    <rect x="680" y="170" width="80" height="55" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="720.0" y="206.5" fill="#44506A" font-size="24" font-weight="400" text-anchor="middle">1</text>
+    <rect x="760" y="170" width="80" height="55" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="800.0" y="206.5" fill="#44506A" font-size="24" font-weight="400" text-anchor="middle">1</text>
+    <rect x="840" y="170" width="80" height="55" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="880.0" y="206.5" fill="#44506A" font-size="24" font-weight="400" text-anchor="middle">0</text>
+    <rect x="600" y="225" width="80" height="55" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="640.0" y="261.5" fill="#44506A" font-size="24" font-weight="400" text-anchor="middle">1</text>
+    <rect x="680" y="225" width="80" height="55" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="720.0" y="261.5" fill="#44506A" font-size="24" font-weight="400" text-anchor="middle">0</text>
+    <rect x="760" y="225" width="80" height="55" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="800.0" y="261.5" fill="#44506A" font-size="24" font-weight="400" text-anchor="middle">0</text>
+    <rect x="840" y="225" width="80" height="55" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="880.0" y="261.5" fill="#44506A" font-size="24" font-weight="400" text-anchor="middle">1</text>
+    <rect x="600" y="280" width="80" height="55" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="640.0" y="316.5" fill="#44506A" font-size="24" font-weight="400" text-anchor="middle">0</text>
+    <rect x="680" y="280" width="80" height="55" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="720.0" y="316.5" fill="#44506A" font-size="24" font-weight="400" text-anchor="middle">0</text>
+    <rect x="760" y="280" width="80" height="55" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="800.0" y="316.5" fill="#44506A" font-size="24" font-weight="400" text-anchor="middle">1</text>
+    <rect x="840" y="280" width="80" height="55" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="880.0" y="316.5" fill="#44506A" font-size="24" font-weight="400" text-anchor="middle">1</text>
+    <rect x="600" y="335" width="80" height="55" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="640.0" y="371.5" fill="#44506A" font-size="24" font-weight="400" text-anchor="middle">1</text>
+    <rect x="680" y="335" width="80" height="55" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="720.0" y="371.5" fill="#44506A" font-size="24" font-weight="400" text-anchor="middle">1</text>
+    <rect x="760" y="335" width="80" height="55" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="800.0" y="371.5" fill="#44506A" font-size="24" font-weight="400" text-anchor="middle">0</text>
+    <rect x="840" y="335" width="80" height="55" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="880.0" y="371.5" fill="#44506A" font-size="24" font-weight="400" text-anchor="middle">0</text>
+    <rect x="600" y="390" width="80" height="55" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="640.0" y="426.5" fill="#44506A" font-size="24" font-weight="400" text-anchor="middle">0</text>
+    <rect x="680" y="390" width="80" height="55" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="720.0" y="426.5" fill="#44506A" font-size="24" font-weight="400" text-anchor="middle">1</text>
+    <rect x="760" y="390" width="80" height="55" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="800.0" y="426.5" fill="#44506A" font-size="24" font-weight="400" text-anchor="middle">0</text>
+    <rect x="840" y="390" width="80" height="55" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="880.0" y="426.5" fill="#44506A" font-size="24" font-weight="400" text-anchor="middle">1</text>
+    <rect x="600" y="445" width="80" height="55" rx="0" fill="#FDECEC" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="640.0" y="481.5" fill="#C0392B" font-size="24" font-weight="700" text-anchor="middle">1</text>
+    <rect x="680" y="445" width="80" height="55" rx="0" fill="#FDECEC" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="720.0" y="481.5" fill="#C0392B" font-size="24" font-weight="700" text-anchor="middle">0</text>
+    <rect x="760" y="445" width="80" height="55" rx="0" fill="#FDECEC" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="800.0" y="481.5" fill="#C0392B" font-size="24" font-weight="700" text-anchor="middle">1</text>
+    <rect x="840" y="445" width="80" height="55" rx="0" fill="#FDECEC" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="880.0" y="481.5" fill="#C0392B" font-size="24" font-weight="700" text-anchor="middle">1</text>
+    <rect x="600" y="500" width="80" height="55" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="640.0" y="536.5" fill="#44506A" font-size="24" font-weight="400" text-anchor="middle">1</text>
+    <rect x="680" y="500" width="80" height="55" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="720.0" y="536.5" fill="#44506A" font-size="24" font-weight="400" text-anchor="middle">1</text>
+    <rect x="760" y="500" width="80" height="55" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="800.0" y="536.5" fill="#44506A" font-size="24" font-weight="400" text-anchor="middle">1</text>
+    <rect x="840" y="500" width="80" height="55" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="880.0" y="536.5" fill="#44506A" font-size="24" font-weight="400" text-anchor="middle">0</text>
+    <rect x="600" y="555" width="80" height="55" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="640.0" y="591.5" fill="#44506A" font-size="24" font-weight="400" text-anchor="middle">0</text>
+    <rect x="680" y="555" width="80" height="55" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="720.0" y="591.5" fill="#44506A" font-size="24" font-weight="400" text-anchor="middle">0</text>
+    <rect x="760" y="555" width="80" height="55" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="800.0" y="591.5" fill="#44506A" font-size="24" font-weight="400" text-anchor="middle">0</text>
+    <rect x="840" y="555" width="80" height="55" rx="0" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="880.0" y="591.5" fill="#44506A" font-size="24" font-weight="400" text-anchor="middle">1</text>
+    <rect x="600" y="170" width="320" height="440" rx="0" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <rect x="597" y="442" width="326" height="61" rx="4" fill="none" stroke="#C0392B" stroke-width="4" />
+    <text x="640.0" y="158" fill="#44506A" font-size="20" font-weight="400" text-anchor="middle">D₃</text>
+    <text x="720.0" y="158" fill="#44506A" font-size="20" font-weight="400" text-anchor="middle">D₂</text>
+    <text x="800.0" y="158" fill="#44506A" font-size="20" font-weight="400" text-anchor="middle">D₁</text>
+    <text x="880.0" y="158" fill="#44506A" font-size="20" font-weight="400" text-anchor="middle">D₀</text>
+    <path d="M 600 136 L 600 122 L 920 122 L 920 136" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <polyline points="760.0,122 760.0,112" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <text x="760.0" y="102" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">워드 폭 m = 4비트 (출력선 수)</text>
+    <path d="M 933 170 L 945 170 L 945 610 L 933 610" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <polyline points="945,330.0 955,330.0" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <text x="965" y="338.0" fill="#111111" font-size="24" font-weight="700" text-anchor="start">워드 수 = 2³ = 8</text>
+    <text x="965" y="368.0" fill="#44506A" font-size="20" font-weight="400" text-anchor="start">(주소 0~7)</text>
+    <rect x="960" y="450" width="255" height="150" rx="8" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <text x="1087" y="492" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">용량 = 2ⁿ × m</text>
+    <text x="1087" y="532" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">= 8 × 4</text>
+    <text x="1087" y="572" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">= 32비트</text>
+    <polyline points="760.0,614 760.0,640.0" fill="none" stroke="#C0392B" stroke-width="3" />
+    <polygon points="760.00,650.00 755.20,640.00 764.80,640.00" fill="#C0392B" stroke="none" stroke-width="2" />
+    <text x="760.0" y="684" fill="#C0392B" font-size="24" font-weight="700" text-anchor="middle">출력 = 1011 (5번 워드)</text>
+    <text x="60" y="690" fill="#44506A" font-size="20" font-weight="400" text-anchor="start">디코더 출력선(워드라인) 하나가 워드 하나를 선택합니다</text>
+  </g>
+</svg>

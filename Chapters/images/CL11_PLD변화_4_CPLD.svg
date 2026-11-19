@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720" role="img" aria-labelledby="figure-title figure-description">
+  <title id="figure-title">곱항형 CPLD의 기능 블록과 연결 행렬</title>
+  <desc id="figure-description">I/O 블록과 네 기능 블록을 연결 행렬에 배치하고, A 출력에서 B 입력까지의 설정 가능 경로를 강조한다.</desc>
+  <g font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0" y="0" width="1280" height="720" rx="0" fill="#FFFFFF" stroke="none" stroke-width="2" />
+    <circle cx="69" cy="57" r="8" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" />
+    <polyline points="63,51 75,63" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <polyline points="75,51 63,63" fill="none" stroke="#1F2A44" stroke-width="2.4" />
+    <text x="87" y="64" fill="#44506A" font-size="20" font-weight="400" text-anchor="start">= 설정할 수 있는 연결</text>
+    <circle cx="327" cy="57" r="5" fill="#1F2A44" stroke="#1F2A44" stroke-width="2" />
+    <text x="345" y="64" fill="#44506A" font-size="20" font-weight="400" text-anchor="start">= 고정 연결</text>
+    <polyline points="48,84 1232,84" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="58" y="124" fill="#44506A" font-size="20" font-weight="400" text-anchor="start">곱항형 예</text>
+    <rect x="48" y="145" width="674" height="446" rx="8" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="2" />
+    <rect x="56" y="298" width="82" height="108" rx="8" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <text x="97.0" y="346.16" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">I/O</text>
+    <text x="97.0" y="374.16" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">블록</text>
+    <rect x="632" y="298" width="82" height="108" rx="8" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <text x="673.0" y="346.16" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">I/O</text>
+    <text x="673.0" y="374.16" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">블록</text>
+    <rect x="310" y="161" width="150" height="66" rx="8" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <text x="385.0" y="202.16" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">기능 블록 C</text>
+    <rect x="310" y="508" width="150" height="66" rx="8" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <text x="385.0" y="549.16" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">기능 블록 D</text>
+    <rect x="154" y="305" width="132" height="86" rx="8" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <text x="220.0" y="342.16" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">기능 블록</text>
+    <text x="220.0" y="370.16" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">A</text>
+    <rect x="484" y="305" width="132" height="86" rx="8" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <text x="550.0" y="342.16" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">기능 블록</text>
+    <text x="550.0" y="370.16" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">B</text>
+    <rect x="303" y="262" width="164" height="167" rx="8" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <text x="385" y="291" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">프로그래머블</text>
+    <text x="385" y="320" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">연결 행렬</text>
+    <polyline points="97,298 97,263 275,263 275,282 292.0,282.0" fill="none" stroke="#7A8BA6" stroke-width="2" />
+    <polygon points="302.00,282.00 292.00,286.80 292.00,277.20" fill="#7A8BA6" stroke="none" stroke-width="2" />
+    <polyline points="468,282 601,282 601,263 673,263 673.0,287.0" fill="none" stroke="#7A8BA6" stroke-width="2" />
+    <polygon points="673.00,297.00 668.20,287.00 677.80,287.00" fill="#7A8BA6" stroke="none" stroke-width="2" />
+    <polyline points="385,227 385.0,251.0" fill="none" stroke="#7A8BA6" stroke-width="2" />
+    <polygon points="385.00,261.00 380.20,251.00 389.80,251.00" fill="#7A8BA6" stroke="none" stroke-width="2" />
+    <polyline points="385,429 385.0,497.0" fill="none" stroke="#7A8BA6" stroke-width="2" />
+    <polygon points="385.00,507.00 380.20,497.00 389.80,497.00" fill="#7A8BA6" stroke="none" stroke-width="2" />
+    <polyline points="286,372 302,372" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <polyline points="468,328 484,328" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <polyline points="328,380 440,380" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <polyline points="354,338 354,412" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <polyline points="286,344 402,344 402,371 470.0,371.0" fill="none" stroke="#C0392B" stroke-width="4" />
+    <polygon points="483.00,371.00 470.00,377.24 470.00,364.76" fill="#C0392B" stroke="none" stroke-width="2" />
+    <circle cx="402" cy="344" r="9" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" />
+    <polyline points="395,337 409,351" fill="none" stroke="#C0392B" stroke-width="2.4" />
+    <polyline points="409,337 395,351" fill="none" stroke="#C0392B" stroke-width="2.4" />
+    <circle cx="402" cy="371" r="9" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="2" />
+    <polyline points="395,364 409,378" fill="none" stroke="#C0392B" stroke-width="2.4" />
+    <polyline points="409,364 395,378" fill="none" stroke="#C0392B" stroke-width="2.4" />
+    <rect x="90" y="449" width="246" height="40" rx="8" fill="#FDECEC" stroke="none" stroke-width="2" />
+    <text x="213" y="477" fill="#C0392B" font-size="20" font-weight="700" text-anchor="middle">A 출력 → 행렬 → B 입력</text>
+    <rect x="753" y="126" width="479" height="466" rx="8" fill="#FFFFFF" stroke="#7A8BA6" stroke-width="2" />
+    <text x="777" y="164" fill="#111111" font-size="24" font-weight="700" text-anchor="start">기능 블록 A 확대</text>
+    <text x="1206" y="165" fill="#44506A" font-size="20" font-weight="400" text-anchor="end">블록 하나 = 작은 PAL</text>
+    <polyline points="778,184 1206,184" fill="none" stroke="#7A8BA6" stroke-width="1.5" />
+    <text x="827" y="236" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">블록 입력</text>
+    <polyline points="827,245 827.0,263.0" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <polygon points="827.00,273.00 822.20,263.00 831.80,263.00" fill="#1F2A44" stroke="none" stroke-width="2" />
+    <rect x="774" y="268" width="107" height="76" rx="8" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <text x="827.5" y="300.16" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">AND</text>
+    <text x="827.5" y="328.16" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">곱항</text>
+    <polyline points="881,306 901.0,306.0" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <polygon points="911.00,306.00 901.00,310.80 901.00,301.20" fill="#1F2A44" stroke="none" stroke-width="2" />
+    <rect x="912" y="217" width="247" height="284" rx="8" fill="#FFFFFF" stroke="#1F2A44" stroke-width="2" />
+    <text x="1036" y="252" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">매크로셀</text>
+    <rect x="928" y="282" width="63" height="48" rx="8" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <text x="959.5" y="314.16" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">OR</text>
+    <polyline points="991,306 1013,306 1013,289 1083,289 1083,325 1100,325" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <polyline points="1013,306 1013,397 1016.0,397.0" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <polygon points="1023.00,397.00 1016.00,400.36 1016.00,393.64" fill="#1F2A44" stroke="none" stroke-width="2" />
+    <circle cx="1013" cy="306" r="3.5" fill="#1F2A44" stroke="#1F2A44" stroke-width="2" />
+    <text x="1060" y="282" fill="#44506A" font-size="20" font-weight="400" text-anchor="middle">조합</text>
+    <rect x="1024" y="376" width="65" height="43" rx="8" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <text x="1056.5" y="405.66" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">D FF</text>
+    <polyline points="1089,397 1094,397 1094,355 1100,355" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <polygon points="1100.00,306.00 1155.00,320.00 1155.00,360.00 1100.00,374.00" fill="#DCEBFF" stroke="#1F2A44" stroke-width="2" />
+    <text x="1128" y="347" fill="#111111" font-size="20" font-weight="700" text-anchor="middle">MUX</text>
+    <polyline points="1155,340 1196.0,340.0" fill="none" stroke="#1F2A44" stroke-width="2.5" />
+    <polygon points="1206.00,340.00 1196.00,344.80 1196.00,335.20" fill="#1F2A44" stroke="none" stroke-width="2" />
+    <text x="1057" y="452" fill="#44506A" font-size="20" font-weight="400" text-anchor="middle">레지스터</text>
+    <text x="993" y="550" fill="#111111" font-size="24" font-weight="700" text-anchor="middle">조합 또는 레지스터 출력</text>
+    <polyline points="220,391 220,430 72,430 72,610 736,610 736,566 743.0,566.0" fill="none" stroke="#7A8BA6" stroke-width="1.5" stroke-dasharray="5 5" />
+    <polygon points="751.00,566.00 743.00,569.84 743.00,562.16" fill="#7A8BA6" stroke="none" stroke-width="2" />
+  </g>
+</svg>
