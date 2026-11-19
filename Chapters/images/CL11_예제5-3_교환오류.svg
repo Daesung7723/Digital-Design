@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="672" height="390" viewBox="0 0 672 390" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<defs><pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#9AA3B2" stroke-width="2"/></pattern></defs>
+<rect x="0" y="0" width="672" height="390" fill="#FFFFFF"/>
+<rect x="280.0" y="312" width="368.0" height="42" fill="#FFC9C9" opacity="0.7" rx="3"/>
+<line x1="280.0" y1="28" x2="280.0" y2="356" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="280.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">↑</text>
+<line x1="464.0" y1="28" x2="464.0" y2="356" stroke="#7A8BA6" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="464.0" y="24" font-size="12" text-anchor="middle" fill="#7A8BA6">↑</text>
+<text x="86" y="61.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">clk</text>
+<line x1="96.0" y1="68" x2="280.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="280.0" y1="68" x2="280.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="280.0" y1="44" x2="372.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="372.0" y1="44" x2="372.0" y2="68" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="372.0" y1="68" x2="464.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="464.0" y1="68" x2="464.0" y2="44" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="464.0" y1="44" x2="556.0" y2="44" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="556.0" y1="44" x2="556.0" y2="68" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="556.0" y1="68" x2="648.0" y2="68" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="96" y1="80.0" x2="648" y2="80.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="86" y="107.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">T</text>
+<line x1="96.0" y1="114" x2="188.0" y2="114" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="188.0" y1="114" x2="188.0" y2="90" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="188.0" y1="90" x2="372.0" y2="90" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="372.0" y1="90" x2="372.0" y2="114" stroke="#1F2A44" stroke-width="2.2"/>
+<line x1="372.0" y1="114" x2="648.0" y2="114" stroke="#1F2A44" stroke-width="2.2" stroke-linecap="square"/>
+<line x1="96" y1="126.0" x2="648" y2="126.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="86" y="153.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">r1 (t 없음)</text>
+<path d="M96.0,148.0 L100.0,136 L276.0,136 L280.0,148.0 L276.0,160 L100.0,160 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="188.0" y="152.5" font-size="12.5" text-anchor="middle" fill="#111111">3</text>
+<path d="M280.0,148.0 L284.0,136 L644.0,136 L648.0,148.0 L644.0,160 L284.0,160 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="464.0" y="152.5" font-size="12.5" text-anchor="middle" fill="#111111">5</text>
+<line x1="96" y1="172.0" x2="648" y2="172.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="86" y="199.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">r2 (t 없음)</text>
+<path d="M96.0,194.0 L100.0,182 L276.0,182 L280.0,194.0 L276.0,206 L100.0,206 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="188.0" y="198.5" font-size="12.5" text-anchor="middle" fill="#111111">5</text>
+<path d="M280.0,194.0 L284.0,182 L644.0,182 L648.0,194.0 L644.0,206 L284.0,206 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="464.0" y="198.5" font-size="12.5" text-anchor="middle" fill="#111111">3</text>
+<line x1="96" y1="218.0" x2="648" y2="218.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="86" y="245.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">t</text>
+<path d="M96.0,240.0 L100.0,228 L276.0,228 L280.0,240.0 L276.0,252 L100.0,252 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="188.0" y="244.5" font-size="12.5" text-anchor="middle" fill="#111111">0</text>
+<path d="M280.0,240.0 L284.0,228 L644.0,228 L648.0,240.0 L644.0,252 L284.0,252 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="464.0" y="244.5" font-size="12.5" text-anchor="middle" fill="#111111">3</text>
+<line x1="96" y1="264.0" x2="648" y2="264.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="86" y="291.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">r1 (t 사용)</text>
+<path d="M96.0,286.0 L100.0,274 L276.0,274 L280.0,286.0 L276.0,298 L100.0,298 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="188.0" y="290.5" font-size="12.5" text-anchor="middle" fill="#111111">3</text>
+<path d="M280.0,286.0 L284.0,274 L644.0,274 L648.0,286.0 L644.0,298 L284.0,298 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="464.0" y="290.5" font-size="12.5" text-anchor="middle" fill="#111111">5</text>
+<line x1="96" y1="310.0" x2="648" y2="310.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="86" y="337.0" font-size="15" text-anchor="end" font-weight="bold" fill="#111111">r2 (t 사용)</text>
+<path d="M96.0,332.0 L100.0,320 L276.0,320 L280.0,332.0 L276.0,344 L100.0,344 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="188.0" y="336.5" font-size="12.5" text-anchor="middle" fill="#111111">5</text>
+<path d="M280.0,332.0 L284.0,320 L644.0,320 L648.0,332.0 L644.0,344 L284.0,344 Z" fill="#F4F7FB" stroke="#1F2A44" stroke-width="1.6"/>
+<text x="464.0" y="336.5" font-size="12.5" text-anchor="middle" fill="#111111">0</text>
+<line x1="96" y1="356.0" x2="648" y2="356.0" stroke="#E4E8EF" stroke-width="1"/>
+<text x="8" y="384" font-size="12" fill="#44506A">위 두 줄 = r1 &lt;= r2; r2 &lt;= r1; (교환 성공) · 아래 세 줄 = 임시 신호 t를 거친 코드 — r2는 에지 직전의 t(0)를 받는다</text>
+</svg>

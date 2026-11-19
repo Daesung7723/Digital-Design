@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420" font-family="Malgun Gothic, Apple SD Gothic Neo, Noto Sans KR, sans-serif">
+<rect x="0" y="0" width="760" height="420" fill="#FFFFFF"/>
+<!-- R1 register -->
+<rect x="68" y="48" width="72" height="64" fill="#FFFFFF" stroke="#222" stroke-width="2"/>
+<rect x="64" y="44" width="72" height="64" fill="#FFFFFF" stroke="#222" stroke-width="2"/>
+<rect x="60" y="40" width="72" height="64" fill="#FFFFFF" stroke="#222" stroke-width="2"/>
+<text x="66" y="60" font-size="13" fill="#222">D</text><text x="66" y="80" font-size="13" fill="#222">WE</text>
+<polygon points="60,90 68,96 60,102" fill="none" stroke="#222" stroke-width="1.6"/>
+<text x="126" y="60" font-size="13" text-anchor="end" fill="#222">Q</text><text x="120" y="100" font-size="11" fill="#999">R</text>
+<text x="60" y="33" font-size="15" font-weight="bold" fill="#222">R1</text>
+<!-- R3 register -->
+<rect x="68" y="208" width="72" height="64" fill="#FFFFFF" stroke="#222" stroke-width="2"/>
+<rect x="64" y="204" width="72" height="64" fill="#FFFFFF" stroke="#222" stroke-width="2"/>
+<rect x="60" y="200" width="72" height="64" fill="#FFFFFF" stroke="#222" stroke-width="2"/>
+<text x="66" y="220" font-size="13" fill="#222">D</text><text x="66" y="240" font-size="13" fill="#222">WE</text>
+<polygon points="60,250 68,256 60,262" fill="none" stroke="#222" stroke-width="1.6"/>
+<text x="126" y="220" font-size="13" text-anchor="end" fill="#222">Q</text><text x="120" y="260" font-size="11" fill="#999">R</text>
+<text x="60" y="193" font-size="15" font-weight="bold" fill="#222">R3</text>
+<!-- 4-bit buses to MUX -->
+<path d="M132,56 H300 V140 H330" fill="none" stroke="#111" stroke-width="4.5" stroke-linejoin="miter"/>
+<path d="M132,216 H316 V190 H330" fill="none" stroke="#111" stroke-width="4.5" stroke-linejoin="miter"/>
+<!-- MUX (Logisim plexer, 2:1, 4-bit) -->
+<polygon points="330,118 370,138 370,192 330,212" fill="#FFFFFF" stroke="#222" stroke-width="2"/>
+<text x="336" y="144" font-size="11" fill="#222">0</text><text x="336" y="194" font-size="11" fill="#222">1</text>
+<text x="350" y="110" font-size="11" text-anchor="middle" fill="#666">MUX</text>
+<!-- MUX output -> R2 D -->
+<path d="M370,165 H600" fill="none" stroke="#111" stroke-width="4.5"/>
+<!-- R2 register -->
+<rect x="608" y="157" width="72" height="64" fill="#FFFFFF" stroke="#222" stroke-width="2"/>
+<rect x="604" y="153" width="72" height="64" fill="#FFFFFF" stroke="#222" stroke-width="2"/>
+<rect x="600" y="149" width="72" height="64" fill="#FFFFFF" stroke="#222" stroke-width="2"/>
+<text x="606" y="169" font-size="13" fill="#222">D</text><text x="606" y="189" font-size="13" fill="#222">WE</text>
+<polygon points="600,199 608,205 600,211" fill="none" stroke="#222" stroke-width="1.6"/>
+<text x="666" y="169" font-size="13" text-anchor="end" fill="#222">Q</text><text x="660" y="209" font-size="11" fill="#999">R</text>
+<text x="600" y="142" font-size="15" font-weight="bold" fill="#222">R2</text>
+<!-- Q pin -> MUX select and OR -->
+<rect x="220" y="280" width="20" height="20" fill="#FFFFFF" stroke="#222" stroke-width="2"/>
+<text x="212" y="295" font-size="15" font-weight="bold" text-anchor="end" fill="#0086CD">Q</text>
+<path d="M240,290 H471 M350,290 V202" fill="none" stroke="#1F7A1F" stroke-width="2"/>
+<circle cx="350" cy="290" r="4" fill="#1F7A1F"/>
+<text x="356" y="250" font-size="11" fill="#444">선택선</text>
+<!-- P pin -> OR -->
+<rect x="220" y="320" width="20" height="20" fill="#FFFFFF" stroke="#222" stroke-width="2"/>
+<text x="212" y="335" font-size="15" font-weight="bold" text-anchor="end" fill="#0086CD">P</text>
+<path d="M240,330 H455 V310 H471" fill="none" stroke="#1F7A1F" stroke-width="2"/>
+<!-- OR gate (shaped) -->
+<path d="M466,278 Q482,300 466,322 Q502,322 522,300 Q502,278 466,278 Z" fill="#FFFFFF" stroke="#222" stroke-width="2"/>
+<!-- OR output -> R2 WE -->
+<path d="M522,300 H575 V185 H600" fill="none" stroke="#1F7A1F" stroke-width="2"/>
+<text x="529" y="292" font-size="11" fill="#444">P + Q</text>
+<!-- clock -->
+<rect x="12" y="355" width="20" height="20" fill="#FFFFFF" stroke="#222" stroke-width="2"/>
+<polyline points="16,370 16,361 22,361 22,370 28,370 28,361" fill="none" stroke="#222" stroke-width="1.4"/>
+<text x="22" y="348" font-size="12" text-anchor="middle" fill="#222">CLK</text>
+<path d="M32,365 H588 V205 H600 M46,365 V96 H60 M46,256 H60" fill="none" stroke="#1F7A1F" stroke-width="2"/>
+<circle cx="46" cy="365" r="4" fill="#1F7A1F"/><circle cx="46" cy="256" r="4" fill="#1F7A1F"/>
+<!-- notes -->
+<text x="40" y="398" font-size="12" fill="#444">WE = 쓰기 허용 입력(노트의 Load). 굵은 선 = 4비트 버스, 가는 선 = 1비트 신호</text>
+<text x="40" y="414" font-size="12" fill="#444">세 레지스터(R1, R3, R2)는 같은 CLK를 받는다</text>
+</svg>
